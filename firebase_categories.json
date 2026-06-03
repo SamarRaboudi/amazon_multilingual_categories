@@ -1,0 +1,3316 @@
+{
+  "CAT_00001": {
+    "id": "CAT_00001",
+    "key": "alcohol",
+    "translations": {
+      "en": "Beer, Wine and Spirits",
+      "de": "Bier, Wein und Spirituosen",
+      "fr": "Bière, Vin et Spiritueux",
+      "it": "Birra, Vino e Liquori",
+      "es": "Cerveza, Vino y Licores",
+      "ja": "ビール・ワイン・スピリッツ",
+      "pt": "Cervejas, Vinhos e Destilados",
+      "nl": "Bier, Wijn en Gedistilleerde Dranken",
+      "sv": "Öl, vin och spritdrycker",
+      "pl": "Piwo, wino i alkohole mocne",
+      "tr": "Bira, Şarap ve Alkollü İçecekler",
+      "ar": "البيرة، النبيذ والمشروبات الروحية"
+    },
+    "amazon": {
+      "search_alias": "alcohol",
+      "full_value": "search-alias=alcohol",
+      "markets": {
+        "Australia": "Beer, Wine and Spirits"
+      }
+    }
+  },
+  "CAT_00002": {
+    "id": "CAT_00002",
+    "key": "alexa-skills",
+    "translations": {
+      "en": "Alexa Skills",
+      "de": "Alexa Skills",
+      "fr": "Alexa Skills",
+      "it": "Alexa Skill",
+      "es": "Alexa Skills",
+      "ja": "Alexaスキル",
+      "pt": "Alexa Skills",
+      "nl": "Alexa-vaardigheden",
+      "sv": "Alexa-färdigheter",
+      "pl": "Umiejętności Alexa",
+      "tr": "Alexa Becerileri",
+      "ar": "مهارات أليكسا"
+    },
+    "amazon": {
+      "search_alias": "alexa-skills",
+      "full_value": "search-alias=alexa-skills",
+      "markets": {
+        "Australia": "Alexa Skills",
+        "Brazil": "Alexa Skills",
+        "Canada": "Alexa Skills",
+        "Germany": "Alexa Skills",
+        "Spain": "Alexa Skills",
+        "France": "Alexa Skills",
+        "India": "Alexa Skills",
+        "Italy": "Alexa Skill",
+        "Japan": "Alexaスキル",
+        "Mexico": "Alexa Skills",
+        "UK": "Alexa Skills",
+        "USA": "Alexa Skills"
+      }
+    }
+  },
+  "CAT_00003": {
+    "id": "CAT_00003",
+    "key": "amazon-devices",
+    "translations": {
+      "en": "Amazon Devices",
+      "de": "Amazon Geräte",
+      "fr": "Appareils Amazon",
+      "it": "Dispositivi Amazon",
+      "es": "Dispositivos de Amazon",
+      "ja": "Amazon デバイス",
+      "pt": "Dispositivos Amazon",
+      "nl": "Amazon-apparaten",
+      "sv": "Amazon-enheter",
+      "pl": "Urządzenia Amazon",
+      "ar": "أجهزة Amazon",
+      "tr": "Amazon Cihazları"
+    },
+    "amazon": {
+      "search_alias": "amazon-devices",
+      "full_value": "search-alias=amazon-devices",
+      "markets": {
+        "UAE": "Amazon Devices",
+        "Australia": "Amazon Devices",
+        "Belgium": "Appareils Amazon",
+        "Brazil": "Dispositivos Amazon",
+        "Canada": "Amazon Devices",
+        "Germany": "Amazon Geräte",
+        "Egypt": "أجهزة Amazon",
+        "Spain": "Dispositivos de Amazon",
+        "France": "Appareils Amazon",
+        "India": "Amazon Devices",
+        "Italy": "Dispositivi Amazon",
+        "Japan": "Amazon デバイス",
+        "Mexico": "Dispositivos de Amazon",
+        "Netherlands": "Amazon-apparaten",
+        "Poland": "Urządzenia Amazon",
+        "Saudi Arabia": "أجهزة Amazon",
+        "Sweden": "Amazon-enheter",
+        "UK": "Amazon Devices",
+        "USA": "Amazon Devices"
+      }
+    }
+  },
+  "CAT_00004": {
+    "id": "CAT_00004",
+    "key": "amazon-global-store",
+    "translations": {
+      "en": "Amazon Global Store",
+      "de": "Amazon Global Store",
+      "fr": "Amazon Global Store",
+      "it": "Amazon Global Store",
+      "es": "Amazon Global Store",
+      "ja": "Amazon海外ダイレクト",
+      "ar": "متجر أمازون العالمي",
+      "pt": "Loja Global Amazon",
+      "nl": "Amazon Wereldwijde Winkel",
+      "sv": "Amazon Global Store",
+      "pl": "Amazon Global Store",
+      "tr": "Amazon Küresel Mağaza"
+    },
+    "amazon": {
+      "search_alias": "amazon-global-store",
+      "full_value": "search-alias=amazon-global-store",
+      "markets": {
+        "UAE": "Amazon Global Store",
+        "Australia": "Amazon Global Store",
+        "Germany": "Amazon Global Store",
+        "Spain": "Amazon Global Store",
+        "France": "Amazon Global Store",
+        "Italy": "Amazon Global Store",
+        "Japan": "Amazon海外ダイレクト",
+        "Mexico": "Amazon Internacional",
+        "Saudi Arabia": "متجر أمازون العالمي",
+        "Singapore": "Amazon International Store",
+        "UK": "Amazon Global Store",
+        "USA": "Amazon Global Store"
+      }
+    }
+  },
+  "CAT_00005": {
+    "id": "CAT_00005",
+    "key": "amazon-one-medical",
+    "translations": {
+      "en": "Amazon One Medical",
+      "de": "Amazon One Medical",
+      "fr": "Amazon One Medical",
+      "it": "Amazon One Medical",
+      "es": "Amazon One Medical",
+      "ja": "アマゾン ワンメディカル",
+      "pt": "Amazon One Medical",
+      "nl": "Amazon One Medical",
+      "sv": "Amazon One Medical",
+      "pl": "Amazon One Medical",
+      "tr": "Amazon One Medical",
+      "ar": "أمازون ون ميديكال"
+    },
+    "amazon": {
+      "search_alias": "amazon-one-medical",
+      "full_value": "search-alias=amazon-one-medical",
+      "markets": {
+        "USA": "Amazon One Medical"
+      }
+    }
+  },
+  "CAT_00006": {
+    "id": "CAT_00006",
+    "key": "amazon-pharmacy",
+    "translations": {
+      "en": "Amazon Pharmacy",
+      "de": "Amazon Apotheke",
+      "fr": "Pharmacie Amazon",
+      "it": "Farmacia Amazon",
+      "es": "Farmacia de Amazon",
+      "ja": "アマゾン薬局",
+      "pt": "Farmácia Amazon",
+      "nl": "Amazon Apotheek",
+      "sv": "Amazon Apotek",
+      "pl": "Apteka Amazon",
+      "tr": "Amazon Eczanesi",
+      "ar": "صيدلية أمازون"
+    },
+    "amazon": {
+      "search_alias": "amazon-pharmacy",
+      "full_value": "search-alias=amazon-pharmacy",
+      "markets": {
+        "India": "Amazon Pharmacy",
+        "USA": "Amazon Pharmacy"
+      }
+    }
+  },
+  "CAT_00007": {
+    "id": "CAT_00007",
+    "key": "amazonfresh",
+    "translations": {
+      "en": "Amazon Fresh",
+      "es": "Amazon Fresh",
+      "de": "Amazon Frischprodukte",
+      "fr": "Amazon Frais",
+      "it": "Amazon Fresco",
+      "ja": "アマゾンフレッシュ",
+      "pt": "Amazon Fresh",
+      "nl": "Amazon Fresh",
+      "sv": "Amazon Fresh",
+      "pl": "Amazon Fresh",
+      "tr": "Amazon Taze",
+      "ar": "أمازون فريش"
+    },
+    "amazon": {
+      "search_alias": "amazonfresh",
+      "full_value": "search-alias=amazonfresh",
+      "markets": {
+        "Spain": "Amazon Fresh",
+        "Singapore": "Amazon Fresh",
+        "UK": "Amazon Fresh",
+        "USA": "Amazon Fresh"
+      }
+    }
+  },
+  "CAT_00008": {
+    "id": "CAT_00008",
+    "key": "amazonnow",
+    "translations": {
+      "pt": "Amazon Now",
+      "es": "Amazon Now",
+      "en": "Amazon Now",
+      "de": "Amazon Now",
+      "fr": "Amazon Now",
+      "it": "Amazon Ora",
+      "ja": "アマゾンナウ",
+      "nl": "Amazon Nu",
+      "sv": "Amazon Nu",
+      "pl": "Amazon Teraz",
+      "tr": "Amazon Şimdi",
+      "ar": "أمازون الآن"
+    },
+    "amazon": {
+      "search_alias": "amazonnow",
+      "full_value": "search-alias=amazonnow",
+      "markets": {
+        "Brazil": "Amazon Now",
+        "Mexico": "Amazon Now"
+      }
+    }
+  },
+  "CAT_00009": {
+    "id": "CAT_00009",
+    "key": "apparel",
+    "translations": {
+      "en": "Clothing & Accessories",
+      "de": "Bekleidung & Accessoires",
+      "fr": "Vêtements et accessoires",
+      "it": "Abbigliamento e Accessori",
+      "es": "Ropa y accesorios",
+      "ja": "服＆ファッション小物",
+      "pt": "Roupas e Acessórios",
+      "nl": "Kleding & Accessoires",
+      "sv": "Kläder & Accessoarer",
+      "pl": "Odzież i dodatki",
+      "tr": "Giyim & Aksesuarlar",
+      "ar": "الملابس والإكسسوارات"
+    },
+    "amazon": {
+      "search_alias": "apparel",
+      "full_value": "search-alias=apparel",
+      "markets": {
+        "India": "Clothing & Accessories"
+      }
+    }
+  },
+  "CAT_00010": {
+    "id": "CAT_00010",
+    "key": "appliances",
+    "translations": {
+      "en": "Appliances",
+      "de": "Elektro-Großgeräte",
+      "fr": "Gros électroménager",
+      "it": "Grandi elettrodomestici",
+      "es": "Grandes electrodomésticos",
+      "ja": "大型家電",
+      "pt": "Eletrodomésticos",
+      "ar": "الأجهزة المنزلية",
+      "nl": "Huishoudelijke apparaten",
+      "sv": "Vitvaror",
+      "pl": "AGD",
+      "tr": "Ev Aletleri"
+    },
+    "amazon": {
+      "search_alias": "appliances",
+      "full_value": "search-alias=appliances",
+      "markets": {
+        "UAE": "Appliances",
+        "Brazil": "Eletrodomésticos",
+        "Germany": "Elektro-Großgeräte",
+        "Spain": "Grandes electrodomésticos",
+        "France": "Gros électroménager",
+        "India": "Appliances",
+        "Italy": "Grandi elettrodomestici",
+        "Japan": "大型家電",
+        "Saudi Arabia": "الأجهزة المنزلية",
+        "UK": "Large Appliances",
+        "USA": "Appliances"
+      }
+    }
+  },
+  "CAT_00011": {
+    "id": "CAT_00011",
+    "key": "aps",
+    "translations": {
+      "en": "All Departments",
+      "de": "Alle Kategorien",
+      "fr": "Toutes nos catégories",
+      "it": "Tutte le categorie",
+      "es": "Todos los departamentos",
+      "ja": "すべてのカテゴリー",
+      "pt": "Todos os departamentos",
+      "nl": "Alle afdelingen",
+      "sv": "Alla kategorier",
+      "pl": "Wszystkie kategorie",
+      "tr": "Tüm Kategoriler",
+      "ar": "جميع الأقسام"
+    },
+    "amazon": {
+      "search_alias": "aps",
+      "full_value": "search-alias=aps",
+      "markets": {
+        "UAE": "All Categories",
+        "Australia": "All Departments",
+        "Belgium": "Toutes nos catégories",
+        "Brazil": "Todos os departamentos",
+        "Canada": "All Departments",
+        "Germany": "Alle Kategorien",
+        "Egypt": "جميع الأقسام",
+        "Spain": "Todos los departamentos",
+        "France": "Toutes nos catégories",
+        "India": "All Categories",
+        "Italy": "Tutte le categorie",
+        "Japan": "すべてのカテゴリー",
+        "Mexico": "Todas las categorías",
+        "Netherlands": "Alle afdelingen",
+        "Poland": "Wszystkie kategorie",
+        "Saudi Arabia": "جميع الأقسام",
+        "Sweden": "Alla kategorier",
+        "Singapore": "All Departments",
+        "Turkey": "Tüm Kategoriler",
+        "UK": "All Departments",
+        "USA": "All Departments"
+      }
+    }
+  },
+  "CAT_00012": {
+    "id": "CAT_00012",
+    "key": "arts-crafts",
+    "translations": {
+      "en": "Arts, Crafts & Sewing",
+      "nl": "Kunst, hobby en creatief",
+      "sv": "Hobby & hantverk",
+      "pl": "Arts & crafts",
+      "ar": "الفنون والحرف والخياطة",
+      "fr": "Arts, artisanat et couture",
+      "de": "Kunst, Handwerk & Nähen",
+      "it": "Belle arti, artigianato e cucito",
+      "es": "Artes, Manualidades y Costura",
+      "ja": "アート・クラフト・ソーイング",
+      "pt": "Artes, Artesanato e Costura",
+      "tr": "Sanat, El Sanatları ve Dikiş"
+    },
+    "amazon": {
+      "search_alias": "arts-crafts",
+      "full_value": "search-alias=arts-crafts",
+      "markets": {
+        "Belgium": "Arts, artisanat et couture",
+        "Egypt": "الفنون والحرف والخياطة",
+        "Netherlands": "Kunst, hobby en creatief",
+        "Poland": "Arts & crafts",
+        "Saudi Arabia": "الفنون والحرف والخياطة",
+        "Sweden": "Hobby & hantverk",
+        "USA": "Arts, Crafts & Sewing"
+      }
+    }
+  },
+  "CAT_00013": {
+    "id": "CAT_00013",
+    "key": "audible",
+    "translations": {
+      "en": "Audible Books & Originals",
+      "de": "Audible Hörbücher",
+      "fr": "Livres audio Audible",
+      "it": "Audiolibri Audible",
+      "es": "Audible audiolibros y podcasts exclusivos",
+      "ja": "Audibleオーディオブック",
+      "pt": "Audiolivros Audible",
+      "nl": "Audible-audioboeken",
+      "sv": "Ljudböcker & Original från Audible",
+      "pl": "Audiobooki i oryginały Audible",
+      "tr": "Audible Kitaplar ve Özgün İçerikler",
+      "ar": "الكتب الصوتية والأصلية"
+    },
+    "amazon": {
+      "search_alias": "audible",
+      "full_value": "search-alias=audible",
+      "markets": {
+        "Australia": "Audible Audiobooks",
+        "Belgium": "Livres audio Audible",
+        "Brazil": "Audiolivros Audible",
+        "Canada": "Audible Audiobooks",
+        "Germany": "Audible Hörbücher",
+        "Spain": "Audible audiolibros y podcasts exclusivos",
+        "France": "Livres audio Audible",
+        "India": "Audible Audiobooks",
+        "Italy": "Audiolibri Audible",
+        "Japan": "Audibleオーディオブック",
+        "Mexico": "Audiolibros de Audible",
+        "Netherlands": "Audible-audioboeken",
+        "UK": "Audible Audiobooks",
+        "USA": "Audible Books & Originals"
+      }
+    }
+  },
+  "CAT_00014": {
+    "id": "CAT_00014",
+    "key": "automotive",
+    "translations": {
+      "en": "Automotive Parts & Accessories",
+      "de": "Auto & Motorrad",
+      "fr": "Auto et Moto",
+      "it": "Auto e Moto - Parti e Accessori",
+      "es": "Coche y Moto - Piezas y accesorios",
+      "ja": "車＆バイク",
+      "pt": "Automotivo",
+      "nl": "Auto en motor",
+      "sv": "Fordon",
+      "pl": "Motoryzacja",
+      "tr": "Otomotiv",
+      "ar": "قطع وإكسسوارات السيارات"
+    },
+    "amazon": {
+      "search_alias": "automotive",
+      "full_value": "search-alias=automotive",
+      "markets": {
+        "UAE": "Automotive Parts & Accessories",
+        "Australia": "Automotive",
+        "Belgium": "Auto et Moto",
+        "Brazil": "Automotivo",
+        "Canada": "Automotive",
+        "Germany": "Auto & Motorrad",
+        "Egypt": "قطع وإكسسوارات السيارات",
+        "Spain": "Coche y Moto - Piezas y accesorios",
+        "France": "Auto et Moto",
+        "India": "Car & Motorbike",
+        "Italy": "Auto e Moto - Parti e Accessori",
+        "Japan": "車＆バイク",
+        "Mexico": "Auto",
+        "Netherlands": "Auto en motor",
+        "Poland": "Motoryzacja",
+        "Saudi Arabia": "قطع وإكسسوارات السيارات",
+        "Sweden": "Fordon",
+        "Singapore": "Automotive",
+        "Turkey": "Otomotiv",
+        "UK": "Car & Motorbike",
+        "USA": "Automotive Parts & Accessories"
+      }
+    }
+  },
+  "CAT_00015": {
+    "id": "CAT_00015",
+    "key": "baby",
+    "translations": {
+      "en": "Baby",
+      "de": "Baby",
+      "fr": "Bébés & Puériculture",
+      "it": "Prima infanzia",
+      "es": "Bebé",
+      "ja": "ベビー&マタニティ",
+      "pt": "Bebês",
+      "nl": "Babyproducten",
+      "sv": "Babyprodukter",
+      "pl": "Dziecko",
+      "tr": "Bebek",
+      "ar": "طفل"
+    },
+    "amazon": {
+      "search_alias": "baby",
+      "full_value": "search-alias=baby",
+      "markets": {
+        "UAE": "Baby",
+        "Australia": "Baby",
+        "Belgium": "Bébé",
+        "Brazil": "Bebês",
+        "Canada": "Baby",
+        "Germany": "Baby",
+        "Egypt": "طفل",
+        "Spain": "Bebé",
+        "France": "Bébés & Puériculture",
+        "India": "Baby",
+        "Italy": "Prima infanzia",
+        "Japan": "ベビー&マタニティ",
+        "Mexico": "Bebé",
+        "Netherlands": "Babyproducten",
+        "Poland": "Dziecko",
+        "Saudi Arabia": "طفل",
+        "Sweden": "Babyprodukter",
+        "Singapore": "Baby",
+        "Turkey": "Bebek",
+        "UK": "Baby"
+      }
+    }
+  },
+  "CAT_00016": {
+    "id": "CAT_00016",
+    "key": "baby-products",
+    "translations": {
+      "en": "Baby",
+      "de": "Baby & Kleinkind",
+      "fr": "Bébé",
+      "it": "Bambini",
+      "es": "Bebé",
+      "ja": "ベビー用品",
+      "pt": "Bebê",
+      "nl": "Babyproducten",
+      "sv": "Barn",
+      "pl": "Dziecko",
+      "tr": "Bebek",
+      "ar": "الأطفال"
+    },
+    "amazon": {
+      "search_alias": "baby-products",
+      "full_value": "search-alias=baby-products",
+      "markets": {
+        "USA": "Baby"
+      }
+    }
+  },
+  "CAT_00017": {
+    "id": "CAT_00017",
+    "key": "bazaar",
+    "translations": {
+      "en": "Amazon Haul",
+      "de": "Amazon Haul",
+      "fr": "Amazon Haul",
+      "it": "Amazon Haul",
+      "es": "Amazon Haul",
+      "ja": "Amazon Haul",
+      "ar": "أمازون بازار",
+      "pt": "Compras na Amazon",
+      "nl": "Amazon Aankoop",
+      "sv": "Amazon-fynd",
+      "pl": "Zakupy na Amazon",
+      "tr": "Amazon Alışverişi"
+    },
+    "amazon": {
+      "search_alias": "bazaar",
+      "full_value": "search-alias=bazaar",
+      "markets": {
+        "UAE": "Amazon Bazaar",
+        "Australia": "Amazon Haul",
+        "Canada": "Amazon Haul",
+        "Germany": "Amazon Haul",
+        "Egypt": "أمازون بازار",
+        "Spain": "Amazon Haul",
+        "France": "Amazon Haul",
+        "Italy": "Amazon Haul",
+        "Japan": "Amazon Haul",
+        "Saudi Arabia": "أمازون بازار",
+        "UK": "Amazon Haul",
+        "USA": "Amazon Haul"
+      }
+    }
+  },
+  "CAT_00018": {
+    "id": "CAT_00018",
+    "key": "beauty",
+    "translations": {
+      "en": "Beauty & Personal Care",
+      "de": "Kosmetik",
+      "fr": "Beauté et Parfum",
+      "it": "Bellezza",
+      "es": "Belleza",
+      "ja": "ビューティー",
+      "pt": "Beleza",
+      "nl": "Beauty en persoonlijke verzorging",
+      "sv": "Skönhet & kroppsvård",
+      "pl": "Uroda",
+      "tr": "Kişisel Bakım ve Kozmetik",
+      "ar": "الجمال والعناية الشخصية"
+    },
+    "amazon": {
+      "search_alias": "beauty",
+      "full_value": "search-alias=beauty",
+      "markets": {
+        "UAE": "Beauty & Personal Care",
+        "Australia": "Beauty",
+        "Belgium": "Beauté",
+        "Brazil": "Beleza",
+        "Canada": "Beauty",
+        "Germany": "Kosmetik",
+        "Egypt": "الجمال والعناية الشخصية",
+        "Spain": "Belleza",
+        "France": "Beauté et Parfum",
+        "India": "Beauty",
+        "Italy": "Bellezza",
+        "Japan": "ビューティー",
+        "Mexico": "Belleza",
+        "Netherlands": "Beauty en persoonlijke verzorging",
+        "Poland": "Uroda",
+        "Saudi Arabia": "الجمال والعناية الشخصية",
+        "Sweden": "Skönhet & kroppsvård",
+        "Singapore": "Beauty & Personal Care",
+        "Turkey": "Kişisel Bakım ve Kozmetik",
+        "UK": "Beauty",
+        "USA": "Beauty & Personal Care"
+      }
+    }
+  },
+  "CAT_00019": {
+    "id": "CAT_00019",
+    "key": "classical",
+    "translations": {
+      "en": "Classical Music",
+      "de": "Klassik",
+      "fr": "Musique classique",
+      "ja": "クラシック",
+      "it": "Musica Classica",
+      "es": "Música clásica",
+      "pt": "Música Clássica",
+      "nl": "Klassieke Muziek",
+      "sv": "Klassisk musik",
+      "pl": "Muzyka klasyczna",
+      "tr": "Klasik Müzik",
+      "ar": "الموسيقى الكلاسيكية"
+    },
+    "amazon": {
+      "search_alias": "classical",
+      "full_value": "search-alias=classical",
+      "markets": {
+        "Germany": "Klassik",
+        "France": "Musique classique",
+        "Japan": "クラシック",
+        "UK": "Classical Music"
+      }
+    }
+  },
+  "CAT_00020": {
+    "id": "CAT_00020",
+    "key": "collectibles",
+    "translations": {
+      "en": "Collectibles & Fine Art",
+      "de": "Sammlerstücke & Kunstwerke",
+      "fr": "Objets de collection et beaux-arts",
+      "it": "Collezionabili e Belle Arti",
+      "es": "Coleccionables y Bellas Artes",
+      "ja": "コレクターズアイテム・美術品",
+      "pt": "Colecionáveis e Belas Artes",
+      "nl": "Verzamelobjecten & Schone Kunsten",
+      "sv": "Samlarföremål & Konst",
+      "pl": "Kolekcje i Sztuka Wyrafinowana",
+      "tr": "Koleksiyon ve Güzel Sanatlar",
+      "ar": "المقتنيات والفنون الجميلة"
+    },
+    "amazon": {
+      "search_alias": "collectibles",
+      "full_value": "search-alias=collectibles",
+      "markets": {
+        "India": "Collectibles",
+        "USA": "Collectibles & Fine Art"
+      }
+    }
+  },
+  "CAT_00021": {
+    "id": "CAT_00021",
+    "key": "computers",
+    "translations": {
+      "en": "Computers",
+      "de": "Computer & Zubehör",
+      "fr": "Informatique",
+      "it": "Informatica",
+      "es": "Informática",
+      "ja": "パソコン・周辺機器",
+      "pt": "Computadores e Informática",
+      "pl": "Komputery i akcesoria",
+      "tr": "Bilgisayarlar",
+      "nl": "Computers",
+      "sv": "Datorer",
+      "ar": "أجهزة الكمبيوتر"
+    },
+    "amazon": {
+      "search_alias": "computers",
+      "full_value": "search-alias=computers",
+      "markets": {
+        "UAE": "Computer & Accessories",
+        "Australia": "Computer & Accessories",
+        "Belgium": "Ordinateurs",
+        "Brazil": "Computadores e Informática",
+        "Germany": "Computer & Zubehör",
+        "Spain": "Informática",
+        "France": "Informatique",
+        "India": "Computers & Accessories",
+        "Italy": "Informatica",
+        "Japan": "パソコン・周辺機器",
+        "Poland": "Komputery i akcesoria",
+        "Singapore": "Computer & Accessories",
+        "Turkey": "Bilgisayarlar",
+        "UK": "Computers & Accessories",
+        "USA": "Computers"
+      }
+    }
+  },
+  "CAT_00022": {
+    "id": "CAT_00022",
+    "key": "dia",
+    "translations": {
+      "es": "DIA",
+      "en": "Grocery",
+      "de": "DIA (Diabetes)",
+      "fr": "Épicerie Diététique",
+      "it": "DIA",
+      "ja": "ダイヤモンド",
+      "pt": "DIA",
+      "nl": "DIA (Dagelijkse behoeften)",
+      "sv": "DIA",
+      "pl": "DIA",
+      "tr": "DİA",
+      "ar": "دي ايه"
+    },
+    "amazon": {
+      "search_alias": "dia",
+      "full_value": "search-alias=dia",
+      "markets": {
+        "Spain": "DIA"
+      }
+    }
+  },
+  "CAT_00023": {
+    "id": "CAT_00023",
+    "key": "digital-music",
+    "translations": {
+      "en": "Digital Music",
+      "de": "Musik-Downloads",
+      "fr": "Téléchargement de musique",
+      "it": "Musica Digitale",
+      "es": "Música Digital",
+      "ja": "デジタルミュージック",
+      "pt": "Música Digital",
+      "nl": "Digitale Muziek",
+      "sv": "Digital musik",
+      "pl": "Muzyka cyfrowa",
+      "tr": "Dijital Müzik",
+      "ar": "الموسيقى الرقمية"
+    },
+    "amazon": {
+      "search_alias": "digital-music",
+      "full_value": "search-alias=digital-music",
+      "markets": {
+        "Canada": "MP3 Music",
+        "Germany": "Musik-Downloads",
+        "Spain": "Música Digital",
+        "France": "Téléchargement de musique",
+        "India": "MP3 Music",
+        "Italy": "Musica Digitale",
+        "Japan": "デジタルミュージック",
+        "UK": "Digital Music",
+        "USA": "Digital Music"
+      }
+    }
+  },
+  "CAT_00024": {
+    "id": "CAT_00024",
+    "key": "digital-text",
+    "translations": {
+      "en": "Kindle Store",
+      "de": "Kindle-Shop",
+      "fr": "Boutique Kindle",
+      "it": "Kindle Store",
+      "es": "Tienda Kindle",
+      "ja": "Kindleストア",
+      "pt": "Loja Kindle",
+      "nl": "Kindle Store",
+      "sv": "Kindle-butik",
+      "pl": "Sklep Kindle",
+      "tr": "Kindle Mağazası",
+      "ar": "متجر كيندل"
+    },
+    "amazon": {
+      "search_alias": "digital-text",
+      "full_value": "search-alias=digital-text",
+      "markets": {
+        "Australia": "Kindle Store",
+        "Brazil": "Loja Kindle",
+        "Canada": "Kindle Store",
+        "Germany": "Kindle-Shop",
+        "Spain": "Tienda Kindle",
+        "France": "Boutique Kindle",
+        "India": "Kindle Store",
+        "Italy": "Kindle Store",
+        "Japan": "Kindleストア",
+        "Mexico": "Tienda Kindle",
+        "Netherlands": "Kindle Store",
+        "UK": "Kindle Store",
+        "USA": "Kindle Store"
+      }
+    }
+  },
+  "CAT_00025": {
+    "id": "CAT_00025",
+    "key": "diy",
+    "translations": {
+      "en": "DIY & Tools",
+      "de": "Baumarkt",
+      "fr": "Bricolage",
+      "it": "Fai da te",
+      "es": "Bricolaje y herramientas",
+      "ja": "DIY、工具、ガーデニング",
+      "tr": "Yapı Market",
+      "pt": "Faça Você Mesmo e Ferramentas",
+      "nl": "Doe-het-zelf & Gereedschap",
+      "sv": "Gör det själv & Verktyg",
+      "pl": "Majsterkowanie i narzędzia",
+      "ar": "الأدوات وأعمال الصيانة المنزلية"
+    },
+    "amazon": {
+      "search_alias": "diy",
+      "full_value": "search-alias=diy",
+      "markets": {
+        "Germany": "Baumarkt",
+        "Spain": "Bricolaje y herramientas",
+        "France": "Bricolage",
+        "Italy": "Fai da te",
+        "Japan": "DIY、工具、ガーデニング",
+        "Turkey": "Yapı Market",
+        "UK": "DIY & Tools"
+      }
+    }
+  },
+  "CAT_00026": {
+    "id": "CAT_00026",
+    "key": "drugstore",
+    "translations": {
+      "en": "Health & Personal Care",
+      "de": "Drogerie & Körperpflege",
+      "fr": "Santé et soins personnels",
+      "it": "Salute e Cura della Persona",
+      "es": "Salud y Cuidado Personal",
+      "ja": "ヘルス＆パーソナルケア",
+      "pt": "Saúde e Cuidados Pessoais",
+      "nl": "Gezondheid & Persoonlijke Verzorging",
+      "sv": "Hälsa & Personlig Vård",
+      "pl": "Zdrowie i pielęgnacja osobista",
+      "tr": "Sağlık ve Kişisel Bakım",
+      "ar": "الصحة والعناية الشخصية"
+    },
+    "amazon": {
+      "search_alias": "drugstore",
+      "full_value": "search-alias=drugstore",
+      "markets": {
+        "Germany": "Drogerie & Körperpflege",
+        "UK": "Health & Personal Care"
+      }
+    }
+  },
+  "CAT_00027": {
+    "id": "CAT_00027",
+    "key": "dvd",
+    "translations": {
+      "en": "DVD & Blu-ray",
+      "de": "DVD & Blu-ray",
+      "fr": "DVD & Blu-ray",
+      "it": "Film e TV",
+      "es": "Películas y TV",
+      "ja": "DVD",
+      "pt": "DVD e Blu-Ray",
+      "nl": "Films en tv",
+      "sv": "DVD & Blu-ray",
+      "pl": "DVD i Blu-ray",
+      "tr": "DVD ve Blu-ray",
+      "ar": "أقراص DVD وبلو راي"
+    },
+    "amazon": {
+      "search_alias": "dvd",
+      "full_value": "search-alias=dvd",
+      "markets": {
+        "Brazil": "DVD e Blu-Ray",
+        "Canada": "Movies & TV",
+        "Germany": "DVD & Blu-ray",
+        "Spain": "Películas y TV",
+        "France": "DVD & Blu-ray",
+        "India": "Movies & TV Shows",
+        "Italy": "Film e TV",
+        "Japan": "DVD",
+        "Mexico": "Películas y Series de TV",
+        "Netherlands": "Films en tv",
+        "UK": "DVD & Blu-ray"
+      }
+    }
+  },
+  "CAT_00028": {
+    "id": "CAT_00028",
+    "key": "electronics",
+    "translations": {
+      "en": "Electronics",
+      "de": "Elektronik & Foto",
+      "fr": "High-Tech",
+      "it": "Elettronica",
+      "es": "Electrónica",
+      "ja": "エレクトロニクス&カメラ",
+      "pt": "Eletrônicos",
+      "nl": "Elektronica",
+      "sv": "Elektronik",
+      "pl": "Elektronika",
+      "tr": "Elektronik",
+      "ar": "الإلكترونيات"
+    },
+    "amazon": {
+      "search_alias": "electronics",
+      "full_value": "search-alias=electronics",
+      "markets": {
+        "UAE": "Electronics",
+        "Australia": "Electronics",
+        "Belgium": "High-Tech",
+        "Brazil": "Eletrônicos",
+        "Canada": "Electronics",
+        "Germany": "Elektronik & Foto",
+        "Egypt": "الإلكترونيات",
+        "Spain": "Electrónica",
+        "France": "High-Tech",
+        "India": "Electronics",
+        "Italy": "Elettronica",
+        "Japan": "エレクトロニクス&カメラ",
+        "Mexico": "Electrónicos",
+        "Netherlands": "Elektronica",
+        "Poland": "Elektronika",
+        "Saudi Arabia": "الإلكترونيات",
+        "Sweden": "Elektronik",
+        "Singapore": "Electronics",
+        "Turkey": "Elektronik",
+        "UK": "Electronics & Photo",
+        "USA": "Electronics"
+      }
+    }
+  },
+  "CAT_00029": {
+    "id": "CAT_00029",
+    "key": "english-books",
+    "translations": {
+      "ja": "洋書",
+      "en": "Foreign Books",
+      "de": "Fremdsprachige Bücher",
+      "fr": "Livres étrangers",
+      "it": "Libri in lingua straniera",
+      "es": "Libros en idiomas extranjeros",
+      "pt": "Livros em Língua Estrangeira",
+      "nl": "Engelstalige boeken",
+      "sv": "Utländska böcker",
+      "pl": "Książki w językach obcych",
+      "tr": "Yabancı Kitaplar",
+      "ar": "الكتب الأجنبية"
+    },
+    "amazon": {
+      "search_alias": "english-books",
+      "full_value": "search-alias=english-books",
+      "markets": {
+        "Japan": "洋書"
+      }
+    }
+  },
+  "CAT_00030": {
+    "id": "CAT_00030",
+    "key": "fashion",
+    "translations": {
+      "en": "Clothing, Shoes & Jewelry",
+      "de": "Fashion",
+      "fr": "Mode",
+      "it": "Moda",
+      "es": "Moda",
+      "ja": "ファッション",
+      "pt": "Roupas, Calçados e Joias",
+      "nl": "Kleding, schoenen en sieraden",
+      "sv": "Kläder, skor & accessoarer",
+      "pl": "Odzież, obuwie i akcesoria",
+      "tr": "Moda",
+      "ar": "أزياء Amazon"
+    },
+    "amazon": {
+      "search_alias": "fashion",
+      "full_value": "search-alias=fashion",
+      "markets": {
+        "UAE": "Amazon Fashion",
+        "Australia": "Clothing, Shoes & Accessories",
+        "Belgium": "Vêtements et accessoires",
+        "Brazil": "Roupas, Calçados e Joias",
+        "Canada": "Clothing, Shoes & Jewellery",
+        "Germany": "Fashion",
+        "Egypt": "أزياء Amazon",
+        "Spain": "Moda",
+        "France": "Mode",
+        "India": "Amazon Fashion",
+        "Italy": "Moda",
+        "Japan": "ファッション",
+        "Mexico": "Ropa, Zapatos y Accesorios",
+        "Netherlands": "Kleding, schoenen en sieraden",
+        "Poland": "Odzież, obuwie i akcesoria",
+        "Saudi Arabia": "أزياء Amazon",
+        "Sweden": "Kläder, skor & accessoarer",
+        "Singapore": "Clothing, Shoes & Jewellery",
+        "Turkey": "Moda",
+        "UK": "Fashion",
+        "USA": "Clothing, Shoes & Jewelry"
+      }
+    }
+  },
+  "CAT_00031": {
+    "id": "CAT_00031",
+    "key": "fashion-baby",
+    "translations": {
+      "en": "Baby Clothing, Shoes & Jewelry",
+      "de": "Babykleidung, Schuhe und Schmuck",
+      "fr": "Vêtements, chaussures et bijoux pour bébés",
+      "it": "Abbigliamento, scarpe e gioielli per bambini",
+      "es": "Ropa, zapatos y joyería de bebé",
+      "pt": "Roupas, sapatos e joias para bebês",
+      "ja": "ベビー服・靴・アクセサリー",
+      "nl": "Babykleding, Schoenen & Sieraden",
+      "sv": "Babykläder, skor och smycken",
+      "pl": "Ubranka, obuwie i biżuteria dla niemowląt",
+      "tr": "Bebek Giyim, Ayakkabı ve Takı",
+      "ar": "ملابس وأحذية ومجوهرات الأطفال"
+    },
+    "amazon": {
+      "search_alias": "fashion-baby",
+      "full_value": "search-alias=fashion-baby",
+      "markets": {
+        "Australia": "Baby Clothing, Shoes & Jewellery",
+        "Brazil": "Roupas, sapatos e joias para bebês",
+        "Canada": "Baby Clothing, Shoes and Jewellery",
+        "Germany": "Babykleidung, Schuhe und Schmuck",
+        "Spain": "Ropa, zapatos y joyería de bebé",
+        "France": "Vêtements, chaussures et bijoux pour bébés",
+        "Italy": "Abbigliamento, scarpe e gioielli per bambini",
+        "Mexico": "Ropa de bebé, zapatos y joyería",
+        "UK": "Baby Clothing, Shoes & Jewellery",
+        "USA": "Baby Clothing, Shoes & Jewelry"
+      }
+    }
+  },
+  "CAT_00032": {
+    "id": "CAT_00032",
+    "key": "fashion-baby-kids",
+    "translations": {
+      "ja": "ベビー服、靴、ジュエリー",
+      "en": "Baby Clothing, Shoes & Jewelry",
+      "de": "Babybekleidung, Schuhe, Schmuck",
+      "fr": "Vêtements, chaussures et bijoux pour bébés",
+      "it": "Abbigliamento, scarpe e gioielli per bambini",
+      "es": "Ropa, calzado y joyería para bebés",
+      "pt": "Roupas, calçados e joias para bebês",
+      "nl": "Babykleding, schoenen en sieraden",
+      "sv": "Babykläder, skor och smycken",
+      "pl": "Ubranka dziecięce, obuwie, biżuteria",
+      "tr": "Bebek Giysileri, Ayakkabılar, Takılar",
+      "ar": "ملابس وأحذية ومجوهرات الأطفال"
+    },
+    "amazon": {
+      "search_alias": "fashion-baby-kids",
+      "full_value": "search-alias=fashion-baby-kids",
+      "markets": {
+        "Japan": "ベビー服、靴、ジュエリー"
+      }
+    }
+  },
+  "CAT_00033": {
+    "id": "CAT_00033",
+    "key": "fashion-boys",
+    "translations": {
+      "en": "Boy's Clothing, Shoes & Jewelry",
+      "de": "Kleidung, Schuhe & Schmuck für Jungen",
+      "fr": "Vêtements, chaussures et bijoux pour garçons",
+      "it": "Abbigliamento, scarpe e gioielli da ragazzo",
+      "es": "Ropa, zapatos y joyería para chicos",
+      "pt": "Roupas, sapatos e joias para meninos",
+      "ja": "男の子用服、靴、アクセサリー",
+      "nl": "Jongenskleding, Schoenen & Sieraden",
+      "sv": "Pojkkläder, skor och smycken",
+      "pl": "Odzież, obuwie i biżuteria dla chłopców",
+      "tr": "Erkek Çocuk Giyim, Ayakkabı ve Takı",
+      "ar": "ملابس وأحذية ومجوهرات الأولاد"
+    },
+    "amazon": {
+      "search_alias": "fashion-boys",
+      "full_value": "search-alias=fashion-boys",
+      "markets": {
+        "Australia": "Boy's Clothing, Shoes and Jewellery",
+        "Brazil": "Roupas, sapatos e joias para meninos",
+        "Canada": "Boy's Clothing, Shoes & Jewellery",
+        "Germany": "Kleidung, Schuhe & Schmuck für Jungen",
+        "Spain": "Ropa, zapatos y joyería para chicos",
+        "France": "Vêtements, chaussures et bijoux pour garçons",
+        "Italy": "Abbigliamento, scarpe e gioielli da ragazzo",
+        "Mexico": "Ropa, zapatos y joyería para niños",
+        "UK": "Boy's Clothing, Shoes and Jewellery",
+        "USA": "Boy's Clothing, Shoes & Jewelry"
+      }
+    }
+  },
+  "CAT_00034": {
+    "id": "CAT_00034",
+    "key": "fashion-girls",
+    "translations": {
+      "en": "Girl's Clothing, Shoes & Jewelry",
+      "de": "Kleidung, Schuhe & Schmuck für Mädchen",
+      "fr": "Vêtements, chaussures et bijoux pour filles",
+      "it": "Abbigliamento, scarpe e gioielli da ragazza",
+      "es": "Ropa, zapatos y joyería para chicas",
+      "pt": "Roupas, sapatos e joias para meninas",
+      "ja": "ガールズ服・靴・アクセサリー",
+      "nl": "Meisjeskleding, Schoenen & Sieraden",
+      "sv": "Flickkläder, skor och smycken",
+      "pl": "Odzież, obuwie i biżuteria dla dziewczynek",
+      "tr": "Kız Çocuk Giyim, Ayakkabı ve Takı",
+      "ar": "ملابس وأحذية ومجوهرات للبنات"
+    },
+    "amazon": {
+      "search_alias": "fashion-girls",
+      "full_value": "search-alias=fashion-girls",
+      "markets": {
+        "Australia": "Girl's Clothing, Shoes & Jewellery",
+        "Brazil": "Roupas, sapatos e joias para meninas",
+        "Canada": "Girl's Clothing, Shoes & Jewellery",
+        "Germany": "Kleidung, Schuhe & Schmuck für Mädchen",
+        "Spain": "Ropa, zapatos y joyería para chicas",
+        "France": "Vêtements, chaussures et bijoux pour filles",
+        "Italy": "Abbigliamento, scarpe e gioielli da ragazza",
+        "Mexico": "Ropa, zapatos y joyería para niñas",
+        "UK": "Girl's Clothing, Shoes and Jewellery",
+        "USA": "Girl's Clothing, Shoes & Jewelry"
+      }
+    }
+  },
+  "CAT_00035": {
+    "id": "CAT_00035",
+    "key": "fashion-luggage",
+    "translations": {
+      "en": "Luggage & Travel Gear",
+      "de": "Koffer, Rucksäcke & Taschen",
+      "fr": "Bagages et accessoires de voyage",
+      "it": "Valigie e accessori da viaggio",
+      "es": "Equipaje y accesorios de viaje",
+      "pt": "Bolsas, Malas e Mochilas",
+      "ja": "旅行かばん・トラベル用品",
+      "nl": "Bagage & Reisaccessoires",
+      "sv": "Resväskor & Resutrustning",
+      "pl": "Bagaż i akcesoria podróżne",
+      "tr": "Bavul ve Seyahat Aksesuarları",
+      "ar": "الحقائب ومستلزمات السفر"
+    },
+    "amazon": {
+      "search_alias": "fashion-luggage",
+      "full_value": "search-alias=fashion-luggage",
+      "markets": {
+        "UAE": "Luggage & Travel Gear",
+        "Australia": "Luggage & Travel Gear",
+        "Brazil": "Bolsas, Malas e Mochilas",
+        "Canada": "Luggage & Travel Gear",
+        "Germany": "Koffer, Rucksäcke & Taschen",
+        "Spain": "Equipaje y accesorios de viaje",
+        "France": "Bagages et accessoires de voyage",
+        "Italy": "Valigie e accessori da viaggio",
+        "Singapore": "Luggage & Travel Gear",
+        "UK": "Luggage and travel gear",
+        "USA": "Luggage & Travel Gear"
+      }
+    }
+  },
+  "CAT_00036": {
+    "id": "CAT_00036",
+    "key": "fashion-mens",
+    "translations": {
+      "en": "Men's Clothing, Shoes & Jewelry",
+      "de": "Herrenbekleidung, Schuhe & Schmuck",
+      "fr": "Vêtements, chaussures et bijoux pour hommes",
+      "it": "Abbigliamento, scarpe e gioielli da uomo",
+      "es": "Ropa, zapatos y joyería para hombre",
+      "ja": "男性用服、靴、ジュエリー",
+      "pt": "Roupas, sapatos e joias masculinas",
+      "nl": "Herenkleding, Schoenen & Sieraden",
+      "sv": "Herrkläder, skor och smycken",
+      "pl": "Odzież, obuwie i biżuteria męska",
+      "tr": "Erkek Giyim, Ayakkabı ve Takı",
+      "ar": "ملابس، أحذية ومجوهرات رجالية"
+    },
+    "amazon": {
+      "search_alias": "fashion-mens",
+      "full_value": "search-alias=fashion-mens",
+      "markets": {
+        "Australia": "Men's Clothing, Shoes and Jewellery",
+        "Brazil": "Roupas, sapatos e joias masculinas",
+        "Canada": "Men's Clothing, Shoes & Jewellery",
+        "Germany": "Herrenbekleidung, Schuhe & Schmuck",
+        "Spain": "Ropa, zapatos y joyería para hombre",
+        "France": "Vêtements, chaussures et bijoux pour hommes",
+        "Italy": "Abbigliamento, scarpe e gioielli da uomo",
+        "Japan": "男性用服、靴、ジュエリー",
+        "Mexico": "Ropa, zapatos y joyería para hombres",
+        "UK": "Men's Clothing, Shoes and Jewellery",
+        "USA": "Men's Clothing, Shoes & Jewelry"
+      }
+    }
+  },
+  "CAT_00037": {
+    "id": "CAT_00037",
+    "key": "fashion-womens",
+    "translations": {
+      "en": "Women's Clothing, Shoes & Jewelry",
+      "de": "Damenbekleidung, Schuhe & Schmuck",
+      "fr": "Vêtements, chaussures et bijoux pour femmes",
+      "it": "Abbigliamento, scarpe e gioielli da donna",
+      "es": "Ropa, zapatos y joyería para mujer",
+      "ja": "女性服、靴、ジュエリー",
+      "pt": "Roupas, sapatos e joias femininas",
+      "nl": "Dameskleding, Schoenen & Sieraden",
+      "sv": "Damkläder, skor och smycken",
+      "pl": "Odzież, obuwie i biżuteria damska",
+      "tr": "Kadın Giyim, Ayakkabı ve Takı",
+      "ar": "ملابس وأحذية ومجوهرات نسائية"
+    },
+    "amazon": {
+      "search_alias": "fashion-womens",
+      "full_value": "search-alias=fashion-womens",
+      "markets": {
+        "Australia": "Women's Clothing, Shoes and Jewellery",
+        "Brazil": "Roupas, sapatos e joias femininas",
+        "Canada": "Women's Clothing, Shoes & Jewellery",
+        "Germany": "Damenbekleidung, Schuhe & Schmuck",
+        "Spain": "Ropa, zapatos y joyería para mujer",
+        "France": "Vêtements, chaussures et bijoux pour femmes",
+        "Italy": "Abbigliamento, scarpe e gioielli da donna",
+        "Japan": "女性服、靴、ジュエリー",
+        "Mexico": "Ropa, zapatos y joyería para mujeres",
+        "UK": "Women's Clothing, Shoes and Jewellery",
+        "USA": "Women's Clothing, Shoes & Jewelry"
+      }
+    }
+  },
+  "CAT_00038": {
+    "id": "CAT_00038",
+    "key": "financial",
+    "translations": {
+      "en": "Credit and Payment Cards",
+      "ja": "クレジットカード",
+      "de": "Kredit- und Zahlungskarten",
+      "fr": "Cartes de crédit et de paiement",
+      "it": "Carte di credito e di pagamento",
+      "es": "Tarjetas de Crédito y Pago",
+      "pt": "Cartões de Crédito e Pagamento",
+      "nl": "Creditcards en betaalkaarten",
+      "sv": "Kredit- och betalkort",
+      "pl": "Karty kredytowe i płatnicze",
+      "tr": "Kredi ve Ödeme Kartları",
+      "ar": "بطاقات الائتمان والدفع"
+    },
+    "amazon": {
+      "search_alias": "financial",
+      "full_value": "search-alias=financial",
+      "markets": {
+        "Japan": "クレジットカード",
+        "USA": "Credit and Payment Cards"
+      }
+    }
+  },
+  "CAT_00039": {
+    "id": "CAT_00039",
+    "key": "food-beverage",
+    "translations": {
+      "ja": "食品・飲料・お酒",
+      "en": "Food, Beverages & Alcohol",
+      "de": "Lebensmittel, Getränke & Alkohol",
+      "fr": "Alimentation, boissons et alcool",
+      "it": "Alimenti, Bevande e Alcolici",
+      "es": "Alimentos, bebidas y licores",
+      "pt": "Alimentos, Bebidas e Álcool",
+      "nl": "Voedsel, Dranken & Alcohol",
+      "sv": "Mat, dryck och alkohol",
+      "pl": "Żywność, napoje i alkohol",
+      "tr": "Gıda, İçecek ve Alkollü İçecekler",
+      "ar": "الأغذية والمشروبات والكحوليات"
+    },
+    "amazon": {
+      "search_alias": "food-beverage",
+      "full_value": "search-alias=food-beverage",
+      "markets": {
+        "Japan": "食品・飲料・お酒"
+      }
+    }
+  },
+  "CAT_00040": {
+    "id": "CAT_00040",
+    "key": "freshmeat",
+    "translations": {
+      "en": "Amazon Fresh Meat",
+      "de": "Amazon Frisches Fleisch",
+      "fr": "Viande Amazon Fresh",
+      "it": "Carne Fresca Amazon",
+      "es": "Carne Fresca Amazon",
+      "ja": "アマゾン生鮮肉",
+      "pt": "Carne Fresca Amazon",
+      "nl": "Amazon Verse Vleeswaren",
+      "sv": "Amazon Färskt Kött",
+      "pl": "Świeże mięso Amazon",
+      "tr": "Amazon Taze Et",
+      "ar": "لحوم طازجة أمازون"
+    },
+    "amazon": {
+      "search_alias": "freshmeat",
+      "full_value": "search-alias=freshmeat",
+      "markets": {
+        "India": "Amazon Fresh Meat"
+      }
+    }
+  },
+  "CAT_00041": {
+    "id": "CAT_00041",
+    "key": "freshtohome",
+    "translations": {
+      "en": "Fresh to home",
+      "de": "Frisch nach Hause",
+      "fr": "Frais à domicile",
+      "it": "Fresco a domicilio",
+      "es": "Fresco a domicilio",
+      "ja": "新鮮食品宅配",
+      "pt": "Frescos em casa",
+      "nl": "Vers van de boerderij",
+      "sv": "Färskt hemifrån",
+      "pl": "Świeże do domu",
+      "tr": "Taze Evden",
+      "ar": "طازج إلى المنزل"
+    },
+    "amazon": {
+      "search_alias": "freshtohome",
+      "full_value": "search-alias=freshtohome",
+      "markets": {
+        "UAE": "Fresh to home"
+      }
+    }
+  },
+  "CAT_00042": {
+    "id": "CAT_00042",
+    "key": "furniture",
+    "translations": {
+      "en": "Furniture",
+      "pt": "Móveis e Decoração",
+      "de": "Möbel",
+      "fr": "Meubles",
+      "it": "Mobili",
+      "es": "Muebles",
+      "ja": "家具",
+      "nl": "Meubels",
+      "sv": "Möbler",
+      "pl": "Meble",
+      "tr": "Mobilya",
+      "ar": "الأثاث"
+    },
+    "amazon": {
+      "search_alias": "furniture",
+      "full_value": "search-alias=furniture",
+      "markets": {
+        "Brazil": "Móveis e Decoração",
+        "India": "Furniture"
+      }
+    }
+  },
+  "CAT_00043": {
+    "id": "CAT_00043",
+    "key": "garden",
+    "translations": {
+      "en": "Home & Kitchen",
+      "fr": "Jardin",
+      "it": "Giardino e giardinaggio",
+      "pt": "Jardim e Piscina",
+      "es": "Jardín",
+      "sv": "Trädgård",
+      "pl": "Ogród",
+      "tr": "Bahçe",
+      "ar": "المنزل والحديقة",
+      "de": "Haushalt & Küche",
+      "ja": "ホーム＆キッチン",
+      "nl": "Wonen & Keuken"
+    },
+    "amazon": {
+      "search_alias": "garden",
+      "full_value": "search-alias=garden",
+      "markets": {
+        "UAE": "Home & Garden",
+        "Australia": "Garden",
+        "Belgium": "Jardin",
+        "Brazil": "Jardim e Piscina",
+        "Egypt": "المنزل والحديقة",
+        "France": "Jardin",
+        "Italy": "Giardino e giardinaggio",
+        "Mexico": "Jardín",
+        "Poland": "Ogród",
+        "Saudi Arabia": "المنزل والحديقة",
+        "Sweden": "Trädgård",
+        "Turkey": "Bahçe",
+        "USA": "Home & Kitchen"
+      }
+    }
+  },
+  "CAT_00044": {
+    "id": "CAT_00044",
+    "key": "gift-cards",
+    "translations": {
+      "en": "Gift Cards",
+      "de": "Geschenkgutscheine",
+      "fr": "Boutique chèques-cadeaux",
+      "it": "Buoni Regalo",
+      "es": "Cheques regalo",
+      "ja": "ギフトカード",
+      "nl": "Cadeaubonnen",
+      "sv": "Presentkort",
+      "pl": "Karty podarunkowe",
+      "tr": "Hediye Kartları",
+      "ar": "بطاقات الهدايا",
+      "pt": "Cartões-presente"
+    },
+    "amazon": {
+      "search_alias": "gift-cards",
+      "full_value": "search-alias=gift-cards",
+      "markets": {
+        "UAE": "Gift Cards",
+        "Australia": "Gift Cards",
+        "Belgium": "Boutique chèques-cadeaux",
+        "Canada": "Gift Cards",
+        "Germany": "Geschenkgutscheine",
+        "Egypt": "بطاقات الهدايا",
+        "Spain": "Cheques regalo",
+        "France": "Boutique chèques-cadeaux",
+        "India": "Gift Cards",
+        "Italy": "Buoni Regalo",
+        "Japan": "ギフトカード",
+        "Mexico": "Tarjetas de Regalo",
+        "Netherlands": "Cadeaubonnen",
+        "Poland": "Karty podarunkowe",
+        "Saudi Arabia": "بطاقات الهدايا",
+        "Sweden": "Presentkort",
+        "Singapore": "Gift Cards",
+        "Turkey": "Hediye Kartları",
+        "UK": "Gift Cards",
+        "USA": "Gift Cards"
+      }
+    }
+  },
+  "CAT_00045": {
+    "id": "CAT_00045",
+    "key": "gopuff",
+    "translations": {
+      "en": "Gopuff",
+      "de": "Gopuff",
+      "fr": "Gopuff",
+      "it": "Gopuff",
+      "es": "Gopuff",
+      "ja": "ゴパフ",
+      "pt": "Gopuff",
+      "nl": "Gopuff",
+      "sv": "Gopuff",
+      "pl": "Gopuff",
+      "tr": "Gopuff",
+      "ar": "جوبف"
+    },
+    "amazon": {
+      "search_alias": "gopuff",
+      "full_value": "search-alias=gopuff",
+      "markets": {
+        "UK": "Gopuff"
+      }
+    }
+  },
+  "CAT_00046": {
+    "id": "CAT_00046",
+    "key": "grocery",
+    "translations": {
+      "en": "Grocery & Gourmet Food",
+      "de": "Lebensmittel & Getränke",
+      "fr": "Epicerie",
+      "it": "Alimentari e cura della casa",
+      "es": "Alimentación y bebidas",
+      "pt": "Alimentos e Bebidas",
+      "nl": "Levensmiddelen",
+      "sv": "Livsmedel och gourmetmat",
+      "tr": "Gıda ve İçecek",
+      "ar": "البقالة والطعام الفاخر",
+      "ja": "食品・グルメ食品",
+      "pl": "Artykuły spożywcze i delikatesy"
+    },
+    "amazon": {
+      "search_alias": "grocery",
+      "full_value": "search-alias=grocery",
+      "markets": {
+        "UAE": "Grocery & Gourmet Food",
+        "Australia": "Pantry Food & Drinks",
+        "Belgium": "Alimentation",
+        "Brazil": "Alimentos e Bebidas",
+        "Canada": "Grocery",
+        "Germany": "Lebensmittel & Getränke",
+        "Egypt": "البقالة والطعام الفاخر",
+        "Spain": "Alimentación y bebidas",
+        "France": "Epicerie",
+        "India": "Grocery & Gourmet Foods",
+        "Italy": "Alimentari e cura della casa",
+        "Mexico": "Alimentos y Bebidas",
+        "Netherlands": "Levensmiddelen",
+        "Saudi Arabia": "البقالة والطعام الفاخر",
+        "Sweden": "Livsmedel och gourmetmat",
+        "Singapore": "Grocery",
+        "Turkey": "Gıda ve İçecek",
+        "UK": "Grocery",
+        "USA": "Grocery & Gourmet Food"
+      }
+    }
+  },
+  "CAT_00047": {
+    "id": "CAT_00047",
+    "key": "handmade",
+    "translations": {
+      "en": "Handmade",
+      "de": "Handmade",
+      "fr": "Handmade",
+      "it": "Handmade",
+      "es": "Handmade",
+      "ja": "ハンドメイド",
+      "pt": "Artesanato",
+      "nl": "Handgemaakt",
+      "sv": "Handgjort",
+      "pl": "Rękodzieło",
+      "tr": "El Yapımı",
+      "ar": "مصنوع يدويًا"
+    },
+    "amazon": {
+      "search_alias": "handmade",
+      "full_value": "search-alias=handmade",
+      "markets": {
+        "Canada": "Handmade",
+        "Germany": "Handmade",
+        "Spain": "Handmade",
+        "France": "Handmade",
+        "Italy": "Handmade",
+        "Mexico": "Hecho a mano",
+        "UK": "Handmade",
+        "USA": "Handmade"
+      }
+    }
+  },
+  "CAT_00048": {
+    "id": "CAT_00048",
+    "key": "hi",
+    "translations": {
+      "pt": "Ferramentas e Materiais de Construção",
+      "es": "Herramientas y Mejoras del Hogar",
+      "en": "Tools & Building Materials",
+      "de": "Werkzeuge und Baumaterialien",
+      "fr": "Outils et matériaux de construction",
+      "it": "Utensili e Materiali per l'Edilizia",
+      "ja": "工具・建築資材",
+      "nl": "Gereedschap en Bouwmaterialen",
+      "sv": "Verktyg och byggmaterial",
+      "pl": "Narzędzia i materiały budowlane",
+      "tr": "Aletler ve İnşaat Malzemeleri",
+      "ar": "أدوات ومواد البناء"
+    },
+    "amazon": {
+      "search_alias": "hi",
+      "full_value": "search-alias=hi",
+      "markets": {
+        "Brazil": "Ferramentas e Materiais de Construção",
+        "Mexico": "Herramientas y Mejoras del Hogar"
+      }
+    }
+  },
+  "CAT_00049": {
+    "id": "CAT_00049",
+    "key": "hobby",
+    "translations": {
+      "ja": "ホビー",
+      "en": "Hobbies",
+      "de": "Hobby & Freizeit",
+      "fr": "Loisirs créatifs",
+      "it": "Hobby",
+      "es": "Hobbies",
+      "pt": "Hobbies",
+      "nl": "Hobby's",
+      "sv": "Hobby",
+      "pl": "Hobby",
+      "tr": "Hobi",
+      "ar": "الهوايات"
+    },
+    "amazon": {
+      "search_alias": "hobby",
+      "full_value": "search-alias=hobby",
+      "markets": {
+        "Japan": "ホビー"
+      }
+    }
+  },
+  "CAT_00050": {
+    "id": "CAT_00050",
+    "key": "home",
+    "translations": {
+      "en": "Home",
+      "pt": "Casa",
+      "nl": "Wonen en keuken",
+      "sv": "Hem & kök",
+      "pl": "Dom i kuchnia",
+      "tr": "Ev",
+      "ar": "منتجات المنزل",
+      "de": "Haushalt",
+      "fr": "Maison",
+      "it": "Casa",
+      "es": "Hogar",
+      "ja": "ホーム＆キッチン"
+    },
+    "amazon": {
+      "search_alias": "home",
+      "full_value": "search-alias=home",
+      "markets": {
+        "Australia": "Home",
+        "Brazil": "Casa",
+        "Egypt": "منتجات المنزل",
+        "Netherlands": "Wonen en keuken",
+        "Poland": "Dom i kuchnia",
+        "Saudi Arabia": "منتجات المنزل",
+        "Sweden": "Hem & kök",
+        "Singapore": "Home",
+        "Turkey": "Ev"
+      }
+    }
+  },
+  "CAT_00051": {
+    "id": "CAT_00051",
+    "key": "home-improvement",
+    "translations": {
+      "en": "Home Improvement",
+      "nl": "Klussen en gereedschap",
+      "sv": "Bygg, el & verktyg",
+      "pl": "Renowacja domu",
+      "ar": "أدوات وتحسينات المنزل",
+      "fr": "Bricolage",
+      "de": "Heimwerken",
+      "it": "Fai da te e miglioramento casa",
+      "es": "Mejoras para el Hogar",
+      "ja": "ホーム改善",
+      "pt": "Melhorias para a Casa",
+      "tr": "Ev Geliştirme"
+    },
+    "amazon": {
+      "search_alias": "home-improvement",
+      "full_value": "search-alias=home-improvement",
+      "markets": {
+        "Australia": "Home Improvement",
+        "Belgium": "Bricolage",
+        "Egypt": "أدوات وتحسينات المنزل",
+        "India": "Tools & Home Improvement",
+        "Netherlands": "Klussen en gereedschap",
+        "Poland": "Renowacja domu",
+        "Saudi Arabia": "أدوات وتحسينات المنزل",
+        "Sweden": "Bygg, el & verktyg",
+        "Singapore": "Tools & Home Improvement"
+      }
+    }
+  },
+  "CAT_00052": {
+    "id": "CAT_00052",
+    "key": "hpc",
+    "translations": {
+      "en": "Health, Household & Baby Care",
+      "fr": "Hygiène et Santé",
+      "it": "Salute e cura della persona",
+      "es": "Salud y cuidado personal",
+      "ja": "ヘルスケア&パーソナルケア",
+      "pt": "Saúde e Cuidados Pessoais",
+      "nl": "Gezondheid en persoonlijke verzorging",
+      "sv": "Hälsa, vård & hushåll",
+      "pl": "Zdrowie i gospodarstwo domowe",
+      "tr": "Sağlık ve Bakım",
+      "ar": "مستلزمات الرعاية الصحية والأسرة والطفل",
+      "de": "Gesundheit, Haushalt & Babypflege"
+    },
+    "amazon": {
+      "search_alias": "hpc",
+      "full_value": "search-alias=hpc",
+      "markets": {
+        "UAE": "Health, Household & Baby Care",
+        "Australia": "Health, Household & Personal Care",
+        "Belgium": "Santé",
+        "Brazil": "Saúde e Cuidados Pessoais",
+        "Canada": "Health & Personal Care",
+        "Egypt": "مستلزمات الرعاية الصحية والأسرة والطفل",
+        "Spain": "Salud y cuidado personal",
+        "France": "Hygiène et Santé",
+        "India": "Health & Personal Care",
+        "Italy": "Salute e cura della persona",
+        "Japan": "ヘルスケア&パーソナルケア",
+        "Mexico": "Salud y Cuidado Personal",
+        "Netherlands": "Gezondheid en persoonlijke verzorging",
+        "Poland": "Zdrowie i gospodarstwo domowe",
+        "Saudi Arabia": "مستلزمات الرعاية الصحية والأسرة والطفل",
+        "Sweden": "Hälsa, vård & hushåll",
+        "Singapore": "Health, Household & Personal Care",
+        "Turkey": "Sağlık ve Bakım",
+        "USA": "Health, Household & Baby Care"
+      }
+    }
+  },
+  "CAT_00053": {
+    "id": "CAT_00053",
+    "key": "industrial",
+    "translations": {
+      "en": "Industrial & Scientific",
+      "de": "Gewerbe, Industrie & Wissenschaft",
+      "fr": "Secteur industriel et scientifique",
+      "it": "Industria e Scienza",
+      "es": "Industria y ciencia",
+      "ja": "産業・研究開発用品",
+      "pt": "Industrial",
+      "nl": "Zakelijk, industrie en wetenschap",
+      "sv": "Industriella verktyg & produkter",
+      "pl": "Biznes, przemysł i nauka",
+      "ar": "الصناعة والعلم",
+      "tr": "Endüstriyel & Bilimsel"
+    },
+    "amazon": {
+      "search_alias": "industrial",
+      "full_value": "search-alias=industrial",
+      "markets": {
+        "Australia": "Industrial & Scientific",
+        "Belgium": "Industrie & Science",
+        "Brazil": "Industrial",
+        "Canada": "Industrial & Scientific",
+        "Germany": "Gewerbe, Industrie & Wissenschaft",
+        "Egypt": "الصناعة والعلم",
+        "Spain": "Industria y ciencia",
+        "France": "Secteur industriel et scientifique",
+        "India": "Industrial & Scientific",
+        "Italy": "Industria e Scienza",
+        "Japan": "産業・研究開発用品",
+        "Mexico": "Industria y ciencia",
+        "Netherlands": "Zakelijk, industrie en wetenschap",
+        "Poland": "Biznes, przemysł i nauka",
+        "Saudi Arabia": "الصناعة والعلم",
+        "Sweden": "Industriella verktyg & produkter",
+        "Singapore": "Industrial & Scientific",
+        "UK": "Industrial & Scientific",
+        "USA": "Industrial & Scientific"
+      }
+    }
+  },
+  "CAT_00054": {
+    "id": "CAT_00054",
+    "key": "instant-video",
+    "translations": {
+      "en": "Prime Video",
+      "de": "Prime Video",
+      "fr": "Prime Video",
+      "it": "Prime Video",
+      "es": "Prime Video",
+      "ja": "Prime Video",
+      "pt": "Prime Video",
+      "nl": "Prime Video",
+      "sv": "Prime Video",
+      "tr": "Prime Video",
+      "ar": "برايم فيديو",
+      "pl": "Prime Video"
+    },
+    "amazon": {
+      "search_alias": "instant-video",
+      "full_value": "search-alias=instant-video",
+      "markets": {
+        "UAE": "Prime Video",
+        "Australia": "Prime Video",
+        "Brazil": "Prime Video",
+        "Canada": "Prime Video",
+        "Germany": "Prime Video",
+        "Spain": "Prime Video",
+        "France": "Prime Video",
+        "India": "Prime Video",
+        "Italy": "Prime Video",
+        "Japan": "Prime Video",
+        "Mexico": "Prime Video",
+        "Netherlands": "Prime Video",
+        "Saudi Arabia": "برايم فيديو",
+        "Sweden": "Prime Video",
+        "Singapore": "Prime Video",
+        "Turkey": "Prime Video",
+        "UK": "Prime Video",
+        "USA": "Prime Video"
+      }
+    }
+  },
+  "CAT_00055": {
+    "id": "CAT_00055",
+    "key": "jewelry",
+    "translations": {
+      "en": "Jewellery",
+      "de": "Schmuck",
+      "fr": "Bijoux",
+      "it": "Gioielli",
+      "es": "Joyería",
+      "ja": "ジュエリー",
+      "pt": "Joias",
+      "nl": "Sieraden",
+      "sv": "Smycken",
+      "pl": "Biżuteria",
+      "tr": "Takı",
+      "ar": "المجوهرات"
+    },
+    "amazon": {
+      "search_alias": "jewelry",
+      "full_value": "search-alias=jewelry",
+      "markets": {
+        "India": "Jewellery"
+      }
+    }
+  },
+  "CAT_00056": {
+    "id": "CAT_00056",
+    "key": "kitchen",
+    "translations": {
+      "en": "Home & Kitchen",
+      "de": "Küche, Haushalt & Wohnen",
+      "fr": "Cuisine & Maison",
+      "it": "Casa e cucina",
+      "es": "Hogar y cocina",
+      "ja": "キッチン&家庭用品",
+      "pt": "Cozinha",
+      "tr": "Ev ve Mutfak",
+      "ar": "المطبخ والطعام",
+      "nl": "Wonen & Keuken",
+      "sv": "Hem & Kök",
+      "pl": "Dom i kuchnia"
+    },
+    "amazon": {
+      "search_alias": "kitchen",
+      "full_value": "search-alias=kitchen",
+      "markets": {
+        "UAE": "Kitchen & Dining",
+        "Australia": "Kitchen & Dining",
+        "Belgium": "Maison & Cuisine",
+        "Brazil": "Cozinha",
+        "Canada": "Home & Kitchen",
+        "Germany": "Küche, Haushalt & Wohnen",
+        "Spain": "Hogar y cocina",
+        "France": "Cuisine & Maison",
+        "India": "Home & Kitchen",
+        "Italy": "Casa e cucina",
+        "Japan": "キッチン&家庭用品",
+        "Mexico": "Hogar y cocina",
+        "Saudi Arabia": "المطبخ والطعام",
+        "Singapore": "Kitchen & Dining",
+        "Turkey": "Ev ve Mutfak",
+        "UK": "Home & Kitchen"
+      }
+    }
+  },
+  "CAT_00057": {
+    "id": "CAT_00057",
+    "key": "knuspr",
+    "translations": {
+      "de": "Knuspr",
+      "en": "Crunchy",
+      "fr": "Knuspr",
+      "it": "Knuspr",
+      "es": "Knuspr",
+      "ja": "クヌスプル",
+      "pt": "Knuspr",
+      "nl": "Knuspr",
+      "sv": "Knaprig",
+      "pl": "Przekąski",
+      "tr": "Atıştırmalıklar",
+      "ar": "مقرمش"
+    },
+    "amazon": {
+      "search_alias": "knuspr",
+      "full_value": "search-alias=knuspr",
+      "markets": {
+        "Germany": "Knuspr"
+      }
+    }
+  },
+  "CAT_00058": {
+    "id": "CAT_00058",
+    "key": "lawngarden",
+    "translations": {
+      "en": "Garden & Outdoor",
+      "es": "Jardín",
+      "de": "Garten & Outdoor",
+      "fr": "Jardin et extérieur",
+      "it": "Giardino e Esterno",
+      "ja": "ガーデン・アウトドア",
+      "pt": "Jardim e Área Externa",
+      "nl": "Tuin & Buiten",
+      "sv": "Trädgård & Utomhus",
+      "pl": "Ogród i na zewnątrz",
+      "tr": "Bahçe ve Açık Hava",
+      "ar": "الحديقة والهواء الطلق"
+    },
+    "amazon": {
+      "search_alias": "lawngarden",
+      "full_value": "search-alias=lawngarden",
+      "markets": {
+        "Canada": "Patio, Lawn & Garden",
+        "Spain": "Jardín",
+        "India": "Garden & Outdoors",
+        "Singapore": "Garden & Outdoor",
+        "USA": "Garden & Outdoor"
+      }
+    }
+  },
+  "CAT_00059": {
+    "id": "CAT_00059",
+    "key": "lighting",
+    "translations": {
+      "en": "Lighting",
+      "de": "Beleuchtung",
+      "fr": "Luminaires et Eclairage",
+      "it": "Illuminazione",
+      "es": "Iluminación",
+      "ja": "照明器具",
+      "pt": "Iluminação",
+      "nl": "Verlichting",
+      "sv": "Belysning",
+      "pl": "Oświetlenie",
+      "tr": "Aydınlatma",
+      "ar": "الإضاءة"
+    },
+    "amazon": {
+      "search_alias": "lighting",
+      "full_value": "search-alias=lighting",
+      "markets": {
+        "Germany": "Beleuchtung",
+        "Spain": "Iluminación",
+        "France": "Luminaires et Eclairage",
+        "Italy": "Illuminazione",
+        "UK": "Lighting"
+      }
+    }
+  },
+  "CAT_00060": {
+    "id": "CAT_00060",
+    "key": "littlefarms",
+    "translations": {
+      "en": "Little Farms",
+      "de": "Kleine Bauernhöfe",
+      "fr": "Petites Fermes",
+      "it": "Piccole Fattorie",
+      "es": "Pequeñas Granjas",
+      "ja": "リトルファームズ",
+      "pt": "Pequenas Fazendas",
+      "nl": "Kleine Boerderijen",
+      "sv": "Små Gårdar",
+      "pl": "Małe gospodarstwa",
+      "tr": "Küçük Çiftlikler",
+      "ar": "المزارع الصغيرة"
+    },
+    "amazon": {
+      "search_alias": "littlefarms",
+      "full_value": "search-alias=littlefarms",
+      "markets": {
+        "Singapore": "Little Farms"
+      }
+    }
+  },
+  "CAT_00061": {
+    "id": "CAT_00061",
+    "key": "local-services",
+    "translations": {
+      "en": "Home & Business Services",
+      "de": "Home & Business Services",
+      "fr": "Services à domicile et aux entreprises",
+      "it": "Servizi per la Casa e l'Azienda",
+      "es": "Servicios para el Hogar y Negocios",
+      "ja": "住宅・ビジネスサービス",
+      "pt": "Serviços para Casa e Empresas",
+      "nl": "Huis & Zakelijke Diensten",
+      "sv": "Hem- och företagstjänster",
+      "pl": "Usługi domowe i biznesowe",
+      "tr": "Ev ve İş Hizmetleri",
+      "ar": "الخدمات المنزلية والتجارية"
+    },
+    "amazon": {
+      "search_alias": "local-services",
+      "full_value": "search-alias=local-services",
+      "markets": {
+        "UAE": "Home & Business Services",
+        "Germany": "Home & Business Services",
+        "UK": "Home & Business Services",
+        "USA": "Home & Business Services"
+      }
+    }
+  },
+  "CAT_00062": {
+    "id": "CAT_00062",
+    "key": "luggage",
+    "translations": {
+      "en": "Luggage & Bags",
+      "fr": "Bagages",
+      "de": "Gepäck & Taschen",
+      "it": "Valigie e Borse",
+      "es": "Equipaje y Bolsos",
+      "ja": "かばん・バッグ",
+      "pt": "Mala e Bolsas",
+      "nl": "Bagage & Tassen",
+      "sv": "Resväskor & Väskor",
+      "pl": "Bagaże i torby",
+      "tr": "Bavul ve Çantalar",
+      "ar": "الحقائب والأمتعة"
+    },
+    "amazon": {
+      "search_alias": "luggage",
+      "full_value": "search-alias=luggage",
+      "markets": {
+        "Belgium": "Bagages",
+        "India": "Luggage & Bags"
+      }
+    }
+  },
+  "CAT_00063": {
+    "id": "CAT_00063",
+    "key": "lulu",
+    "translations": {
+      "en": "LuLu",
+      "de": "LuLu",
+      "fr": "LuLu",
+      "it": "LuLu",
+      "es": "LuLu",
+      "ja": "ルル",
+      "pt": "LuLu",
+      "nl": "LuLu",
+      "sv": "LuLu",
+      "pl": "LuLu",
+      "tr": "LuLu",
+      "ar": "لولُو"
+    },
+    "amazon": {
+      "search_alias": "lulu",
+      "full_value": "search-alias=lulu",
+      "markets": {
+        "UAE": "LuLu"
+      }
+    }
+  },
+  "CAT_00064": {
+    "id": "CAT_00064",
+    "key": "luxury",
+    "translations": {
+      "en": "Luxury Stores",
+      "de": "Luxury Stores",
+      "fr": "Luxury Stores",
+      "it": "Luxury Stores",
+      "es": "Luxury Stores",
+      "ja": "高級ストア",
+      "pt": "Lojas de Luxo",
+      "nl": "Luxe Winkels",
+      "sv": "Lyxbutiker",
+      "pl": "Sklepy luksusowe",
+      "tr": "Lüks Mağazalar",
+      "ar": "متاجر فاخرة"
+    },
+    "amazon": {
+      "search_alias": "luxury",
+      "full_value": "search-alias=luxury",
+      "markets": {
+        "Germany": "Luxury Stores",
+        "Spain": "Luxury Stores",
+        "France": "Luxury Stores",
+        "Italy": "Luxury Stores",
+        "UK": "Luxury Stores",
+        "USA": "Luxury Stores"
+      }
+    }
+  },
+  "CAT_00065": {
+    "id": "CAT_00065",
+    "key": "luxury-beauty",
+    "translations": {
+      "en": "Premium Beauty",
+      "de": "Premium Beauty",
+      "fr": "Beauté Premium",
+      "pt": "Beleza de luxo",
+      "es": "Belleza Premium",
+      "it": "Bellezza Premium",
+      "ja": "プレミアムビューティー",
+      "nl": "Premium Beauty",
+      "sv": "Premium Skönhet",
+      "pl": "Ekskluzywna uroda",
+      "tr": "Premium Güzellik",
+      "ar": "الجمال الفاخر"
+    },
+    "amazon": {
+      "search_alias": "luxury-beauty",
+      "full_value": "search-alias=luxury-beauty",
+      "markets": {
+        "Australia": "Premium Beauty",
+        "Brazil": "Beleza de luxo",
+        "Canada": "Luxury Beauty",
+        "Germany": "Premium Beauty",
+        "France": "Beauté Premium",
+        "India": "Luxury Beauty",
+        "Mexico": "Belleza Premium",
+        "Singapore": "Luxury Beauty",
+        "UK": "Premium Beauty",
+        "USA": "Premium Beauty"
+      }
+    }
+  },
+  "CAT_00066": {
+    "id": "CAT_00066",
+    "key": "magazines",
+    "translations": {
+      "en": "Magazine Subscriptions",
+      "de": "Zeitschriften",
+      "fr": "Abonnements aux magazines",
+      "it": "Abbonamenti a Riviste",
+      "es": "Suscripciones a revistas",
+      "ja": "雑誌定期購読",
+      "pt": "Assinaturas de Revistas",
+      "nl": "Tijdschriftabonnementen",
+      "sv": "Tidskriftsprenumerationer",
+      "pl": "Prenumeraty czasopism",
+      "tr": "Dergi Abonelikleri",
+      "ar": "اشتراكات المجلات"
+    },
+    "amazon": {
+      "search_alias": "magazines",
+      "full_value": "search-alias=magazines",
+      "markets": {
+        "Germany": "Zeitschriften",
+        "USA": "Magazine Subscriptions"
+      }
+    }
+  },
+  "CAT_00067": {
+    "id": "CAT_00067",
+    "key": "mercadodelapaz",
+    "translations": {
+      "es": "Mercado de la Paz",
+      "en": "Peace Market",
+      "de": "Mercado de la Paz",
+      "fr": "Marché de la Paix",
+      "it": "Mercato della Pace",
+      "ja": "メルカード・デ・ラ・パス",
+      "pt": "Mercado da Paz",
+      "nl": "Mercado de la Paz",
+      "sv": "Mercado de la Paz",
+      "pl": "Rynek Pokoju",
+      "tr": "Barış Pazarı",
+      "ar": "سوق السلام"
+    },
+    "amazon": {
+      "search_alias": "mercadodelapaz",
+      "full_value": "search-alias=mercadodelapaz",
+      "markets": {
+        "Spain": "Mercado de la Paz"
+      }
+    }
+  },
+  "CAT_00068": {
+    "id": "CAT_00068",
+    "key": "mi",
+    "translations": {
+      "en": "Musical Instruments",
+      "de": "Musikinstrumente & DJ-Equipment",
+      "fr": "Instruments de musique & Sono",
+      "it": "Strumenti musicali e DJ",
+      "es": "Instrumentos musicales",
+      "ja": "楽器",
+      "pt": "Instrumentos Musicais",
+      "nl": "Muziekinstrumenten",
+      "sv": "Musikinstrument",
+      "pl": "Instrumenty muzyczne",
+      "tr": "Müzik Aletleri",
+      "ar": "آلات موسيقية"
+    },
+    "amazon": {
+      "search_alias": "mi",
+      "full_value": "search-alias=mi",
+      "markets": {
+        "UAE": "Musical Instruments",
+        "Australia": "Musical Instruments",
+        "Belgium": "Instruments de musique",
+        "Brazil": "Instrumentos Musicais",
+        "Canada": "Musical Instruments, Stage & Studio",
+        "Germany": "Musikinstrumente & DJ-Equipment",
+        "Egypt": "آلات موسيقية",
+        "Spain": "Instrumentos musicales",
+        "France": "Instruments de musique & Sono",
+        "India": "Musical Instruments",
+        "Italy": "Strumenti musicali e DJ",
+        "Japan": "楽器",
+        "Mexico": "Instrumentos musicales",
+        "Netherlands": "Muziekinstrumenten",
+        "Poland": "Instrumenty muzyczne",
+        "Saudi Arabia": "آلات موسيقية",
+        "Sweden": "Musikinstrument",
+        "Singapore": "Musical Instruments",
+        "Turkey": "Müzik Aletleri",
+        "UK": "Musical Instruments & DJ Equipment",
+        "USA": "Musical Instruments"
+      }
+    }
+  },
+  "CAT_00069": {
+    "id": "CAT_00069",
+    "key": "misc",
+    "translations": {
+      "es": "Otros Productos",
+      "nl": "Overig",
+      "en": "Other Products",
+      "de": "Andere Produkte",
+      "fr": "Autres Produits",
+      "it": "Altri Prodotti",
+      "ja": "その他の商品",
+      "pt": "Outros Produtos",
+      "sv": "Övriga produkter",
+      "pl": "Inne produkty",
+      "tr": "Diğer Ürünler",
+      "ar": "منتجات أخرى"
+    },
+    "amazon": {
+      "search_alias": "misc",
+      "full_value": "search-alias=misc",
+      "markets": {
+        "Mexico": "Otros Productos",
+        "Netherlands": "Overig"
+      }
+    }
+  },
+  "CAT_00070": {
+    "id": "CAT_00070",
+    "key": "mobile",
+    "translations": {
+      "en": "Cell Phones & Accessories",
+      "de": "Handys & Zubehör",
+      "fr": "Téléphones portables et accessoires",
+      "it": "Cellulari e Accessori",
+      "es": "Teléfonos móviles y accesorios",
+      "ja": "携帯電話・アクセサリー",
+      "pt": "Celulares e Acessórios",
+      "nl": "Mobiele telefoons & accessoires",
+      "sv": "Mobiltelefoner & tillbehör",
+      "pl": "Telefony komórkowe i akcesoria",
+      "tr": "Cep Telefonları ve Aksesuarları",
+      "ar": "الهواتف المحمولة والإكسسوارات"
+    },
+    "amazon": {
+      "search_alias": "mobile",
+      "full_value": "search-alias=mobile",
+      "markets": {
+        "USA": "Cell Phones & Accessories"
+      }
+    }
+  },
+  "CAT_00071": {
+    "id": "CAT_00071",
+    "key": "mobile-apps",
+    "translations": {
+      "en": "Apps & Games",
+      "de": "Apps & Spiele",
+      "fr": "Applis & Jeux",
+      "it": "App e Giochi",
+      "es": "Aplicaciones y juegos",
+      "ja": "アプリ&ゲーム",
+      "pt": "Apps e Jogos",
+      "nl": "Apps & Spellen",
+      "sv": "Appar och spel",
+      "pl": "Aplikacje i gry",
+      "tr": "Uygulamalar ve Oyunlar",
+      "ar": "التطبيقات والألعاب"
+    },
+    "amazon": {
+      "search_alias": "mobile-apps",
+      "full_value": "search-alias=mobile-apps",
+      "markets": {
+        "Australia": "Apps & Games",
+        "Brazil": "Apps e Jogos",
+        "Canada": "Apps & Games",
+        "Germany": "Apps & Spiele",
+        "Spain": "Aplicaciones y juegos",
+        "France": "Applis & Jeux",
+        "India": "Apps & Games",
+        "Italy": "App e Giochi",
+        "Japan": "アプリ&ゲーム",
+        "UK": "Apps & Games",
+        "USA": "Apps & Games"
+      }
+    }
+  },
+  "CAT_00072": {
+    "id": "CAT_00072",
+    "key": "monoprix",
+    "translations": {
+      "fr": "Monoprix",
+      "en": "Monoprix",
+      "de": "Monoprix",
+      "it": "Monoprix",
+      "es": "Monoprix",
+      "ja": "モノプリ",
+      "pt": "Monoprix",
+      "nl": "Monoprix",
+      "sv": "Monoprix",
+      "pl": "Monoprix",
+      "tr": "Monoprix",
+      "ar": "مونوبري"
+    },
+    "amazon": {
+      "search_alias": "monoprix",
+      "full_value": "search-alias=monoprix",
+      "markets": {
+        "France": "Monoprix"
+      }
+    }
+  },
+  "CAT_00073": {
+    "id": "CAT_00073",
+    "key": "morrisons",
+    "translations": {
+      "en": "Morrisons",
+      "de": "Morrisons",
+      "fr": "Morrisons",
+      "it": "Morrisons",
+      "es": "Morrisons",
+      "ja": "モリソンズ",
+      "pt": "Morrisons",
+      "nl": "Morrisons",
+      "sv": "Morrisons",
+      "pl": "Morrisons",
+      "tr": "Morrisons",
+      "ar": "موريسونز"
+    },
+    "amazon": {
+      "search_alias": "morrisons",
+      "full_value": "search-alias=morrisons",
+      "markets": {
+        "UK": "Morrisons"
+      }
+    }
+  },
+  "CAT_00074": {
+    "id": "CAT_00074",
+    "key": "movies-tv",
+    "translations": {
+      "en": "Movies & TV",
+      "sv": "Film & TV-serier",
+      "pl": "Filmy i programy TV",
+      "fr": "DVD et Blu-ray",
+      "de": "Filme & TV",
+      "it": "Film e TV",
+      "es": "Películas y TV",
+      "ja": "映画＆テレビ",
+      "pt": "Filmes e TV",
+      "nl": "Films & TV",
+      "tr": "Filmler ve TV",
+      "ar": "الأفلام والتلفزيون"
+    },
+    "amazon": {
+      "search_alias": "movies-tv",
+      "full_value": "search-alias=movies-tv",
+      "markets": {
+        "Australia": "Movies & TV",
+        "Belgium": "DVD et Blu-ray",
+        "Poland": "Filmy i programy TV",
+        "Sweden": "Film & TV-serier",
+        "Singapore": "Movies & TV",
+        "USA": "Movies & TV"
+      }
+    }
+  },
+  "CAT_00075": {
+    "id": "CAT_00075",
+    "key": "nowstore",
+    "translations": {
+      "en": "Amazon Fresh",
+      "de": "Amazon Frischprodukte",
+      "fr": "Amazon Frais",
+      "it": "Amazon Fresco",
+      "es": "Amazon Fresh",
+      "ja": "アマゾンフレッシュ",
+      "pt": "Amazon Fresh",
+      "nl": "Amazon Fresh",
+      "sv": "Amazon Fresh",
+      "pl": "Amazon Fresh",
+      "tr": "Amazon Taze",
+      "ar": "أمازون فريش"
+    },
+    "amazon": {
+      "search_alias": "nowstore",
+      "full_value": "search-alias=nowstore",
+      "markets": {
+        "India": "Amazon Fresh"
+      }
+    }
+  },
+  "CAT_00076": {
+    "id": "CAT_00076",
+    "key": "office-products",
+    "translations": {
+      "en": "Office Products",
+      "de": "Bürobedarf & Schreibwaren",
+      "fr": "Fournitures de bureau",
+      "it": "Cancelleria e prodotti per ufficio",
+      "es": "Oficina y papelería",
+      "ja": "文房具・オフィス用品",
+      "pt": "Material para Escritório e Papelaria",
+      "nl": "Kantoorproducten",
+      "sv": "Kontorsprodukter & skolmaterial",
+      "pl": "Biuro",
+      "tr": "Ofis Ürünleri",
+      "ar": "منتجات المكتب"
+    },
+    "amazon": {
+      "search_alias": "office-products",
+      "full_value": "search-alias=office-products",
+      "markets": {
+        "UAE": "Office Products",
+        "Australia": "Stationery & Office Products",
+        "Belgium": "Produits de bureau",
+        "Brazil": "Material para Escritório e Papelaria",
+        "Canada": "Office Products",
+        "Germany": "Bürobedarf & Schreibwaren",
+        "Egypt": "منتجات المكتب",
+        "Spain": "Oficina y papelería",
+        "France": "Fournitures de bureau",
+        "India": "Office Products",
+        "Italy": "Cancelleria e prodotti per ufficio",
+        "Japan": "文房具・オフィス用品",
+        "Mexico": "Oficina y Papelería",
+        "Netherlands": "Kantoorproducten",
+        "Poland": "Biuro",
+        "Saudi Arabia": "منتجات المكتب",
+        "Sweden": "Kontorsprodukter & skolmaterial",
+        "Singapore": "Office Products",
+        "Turkey": "Ofis Ürünleri",
+        "UK": "Stationery & Office Supplies",
+        "USA": "Office Products"
+      }
+    }
+  },
+  "CAT_00077": {
+    "id": "CAT_00077",
+    "key": "othaim",
+    "translations": {
+      "ar": "أسواق العثيم",
+      "en": "Othaim Markets",
+      "de": "Al Othaim Märkte",
+      "fr": "Marchés Al Othaim",
+      "it": "Mercati Al Othaim",
+      "es": "Mercados Al Othaim",
+      "ja": "アルサティームマーケット",
+      "pt": "Mercados Al Othaim",
+      "nl": "Al Othaim Markten",
+      "sv": "Al Othaim Markets",
+      "pl": "Rynki Al-Othaim",
+      "tr": "Al Othaim Marketleri"
+    },
+    "amazon": {
+      "search_alias": "othaim",
+      "full_value": "search-alias=othaim",
+      "markets": {
+        "Saudi Arabia": "أسواق العثيم"
+      }
+    }
+  },
+  "CAT_00078": {
+    "id": "CAT_00078",
+    "key": "outdoor",
+    "translations": {
+      "en": "Garden & Outdoors",
+      "de": "Garten",
+      "nl": "Tuin, terras en gazon",
+      "fr": "Jardin et plein air",
+      "it": "Giardino e Esterni",
+      "es": "Jardín y Exterior",
+      "ja": "ガーデン・アウトドア",
+      "pt": "Jardim e Área Externa",
+      "sv": "Trädgård & Utomhus",
+      "pl": "Ogród i na zewnątrz",
+      "tr": "Bahçe ve Açık Hava",
+      "ar": "الحديقة والهواء الطلق"
+    },
+    "amazon": {
+      "search_alias": "outdoor",
+      "full_value": "search-alias=outdoor",
+      "markets": {
+        "Germany": "Garten",
+        "Netherlands": "Tuin, terras en gazon",
+        "UK": "Garden & Outdoors"
+      }
+    }
+  },
+  "CAT_00079": {
+    "id": "CAT_00079",
+    "key": "pbdd",
+    "translations": {
+      "ja": "プライム感謝セール",
+      "en": "Prime Appreciation Sale",
+      "de": "Prime Dankeschön-Verkauf",
+      "fr": "Vente de remerciement Prime",
+      "it": "Saldi di ringraziamento Prime",
+      "es": "Oferta de agradecimiento Prime",
+      "pt": "Promoção de Agradecimento Prime",
+      "nl": "Prime Dankjewel Sale",
+      "sv": "Prime Tackförsäljning",
+      "pl": "Wyprzedaż Prime z okazji podziękowań",
+      "tr": "Prime Teşekkür İndirimi",
+      "ar": "تخفيضات شكر برايم"
+    },
+    "amazon": {
+      "search_alias": "pbdd",
+      "full_value": "search-alias=pbdd",
+      "markets": {
+        "Japan": "プライム感謝セール"
+      }
+    }
+  },
+  "CAT_00080": {
+    "id": "CAT_00080",
+    "key": "pets",
+    "translations": {
+      "en": "Pet Supplies",
+      "de": "Haustier",
+      "fr": "Animalerie",
+      "it": "Prodotti per animali domestici",
+      "es": "Productos para mascotas",
+      "ja": "ペット用品",
+      "pt": "Pet Shop",
+      "nl": "Huisdierbenodigdheden",
+      "sv": "Husdjursprodukter",
+      "pl": "Zwierzęta",
+      "tr": "Evcil Hayvan Malzemeleri",
+      "ar": "مستلزمات الحيوانات الأليفة"
+    },
+    "amazon": {
+      "search_alias": "pets",
+      "full_value": "search-alias=pets",
+      "markets": {
+        "UAE": "Pet Supplies",
+        "Australia": "Pet Supplies",
+        "Belgium": "Animalerie",
+        "Brazil": "Pet Shop",
+        "Canada": "Pet Supplies",
+        "Germany": "Haustier",
+        "Egypt": "مستلزمات الحيوانات الأليفة",
+        "Spain": "Productos para mascotas",
+        "France": "Animalerie",
+        "India": "Pet Supplies",
+        "Italy": "Prodotti per animali domestici",
+        "Japan": "ペット用品",
+        "Mexico": "Mascotas",
+        "Netherlands": "Huisdierbenodigdheden",
+        "Poland": "Zwierzęta",
+        "Saudi Arabia": "مستلزمات الحيوانات الأليفة",
+        "Sweden": "Husdjursprodukter",
+        "Singapore": "Pet Supplies",
+        "Turkey": "Evcil Hayvan Malzemeleri",
+        "UK": "Pet Supplies",
+        "USA": "Pet Supplies"
+      }
+    }
+  },
+  "CAT_00081": {
+    "id": "CAT_00081",
+    "key": "photo",
+    "translations": {
+      "de": "Kamera & Foto",
+      "en": "Camera & Photo",
+      "fr": "Appareils photo et caméras",
+      "it": "Fotocamere e Foto",
+      "es": "Cámaras y Fotografía",
+      "ja": "カメラ・写真用品",
+      "pt": "Câmeras e Fotos",
+      "nl": "Camera's & Foto's",
+      "sv": "Kameror & Fotoutrustning",
+      "pl": "Kamery i aparaty fotograficzne",
+      "tr": "Kamera ve Fotoğrafçılık",
+      "ar": "الكاميرات والتصوير"
+    },
+    "amazon": {
+      "search_alias": "photo",
+      "full_value": "search-alias=photo",
+      "markets": {
+        "Germany": "Kamera & Foto"
+      }
+    }
+  },
+  "CAT_00082": {
+    "id": "CAT_00082",
+    "key": "popular",
+    "translations": {
+      "en": "CDs & Vinyl",
+      "de": "Musik-CDs & Vinyl",
+      "fr": "Musique : CD & Vinyles",
+      "it": "CD e Vinili",
+      "es": "Música: CDs y vinilos",
+      "ja": "音楽",
+      "pt": "CD e Vinil",
+      "nl": "Cd's en lp's",
+      "sv": "Musik",
+      "pl": "Muzyka",
+      "tr": "CD'ler ve Plaklar",
+      "ar": "الأقراص المدمجة والفينيل"
+    },
+    "amazon": {
+      "search_alias": "popular",
+      "full_value": "search-alias=popular",
+      "markets": {
+        "Australia": "CDs & Vinyl",
+        "Belgium": "Musique",
+        "Brazil": "CD e Vinil",
+        "Canada": "Music",
+        "Germany": "Musik-CDs & Vinyl",
+        "Spain": "Música: CDs y vinilos",
+        "France": "Musique : CD & Vinyles",
+        "India": "Music",
+        "Italy": "CD e Vinili",
+        "Japan": "音楽",
+        "Mexico": "Música",
+        "Netherlands": "Cd's en lp's",
+        "Poland": "Muzyka",
+        "Sweden": "Musik",
+        "Singapore": "CDs and Vinyl",
+        "UK": "CDs & Vinyl",
+        "USA": "CDs & Vinyl"
+      }
+    }
+  },
+  "CAT_00083": {
+    "id": "CAT_00083",
+    "key": "prime-exclusive",
+    "translations": {
+      "en": "Just for Prime",
+      "de": "Nur für Prime-Mitglieder",
+      "fr": "Exclusivement pour Prime",
+      "it": "Solo per Prime",
+      "es": "Solo para Prime",
+      "ja": "プライム会員限定",
+      "pt": "Exclusivo para Prime",
+      "nl": "Alleen voor Prime",
+      "sv": "Endast för Prime",
+      "pl": "Tylko dla Prime",
+      "tr": "Sadece Prime Üyelerine",
+      "ar": "حصري لأعضاء برايم"
+    },
+    "amazon": {
+      "search_alias": "prime-exclusive",
+      "full_value": "search-alias=prime-exclusive",
+      "markets": {
+        "USA": "Just for Prime"
+      }
+    }
+  },
+  "CAT_00084": {
+    "id": "CAT_00084",
+    "key": "samedaystore",
+    "translations": {
+      "en": "Same-Day Store",
+      "de": "Same-Day Store",
+      "fr": "Magasin en livraison le jour même",
+      "it": "Negozio con Consegna in Giornata",
+      "es": "Tienda de Entrega en el Mismo Día",
+      "ja": "当日店舗受取",
+      "pt": "Loja com Entrega no Mesmo Dia",
+      "nl": "Winkel met levering dezelfde dag",
+      "sv": "Samma dag butik",
+      "pl": "Sklep z dostawą tego samego dnia",
+      "tr": "Aynı Gün Mağazası",
+      "ar": "متجر التوصيل في نفس اليوم"
+    },
+    "amazon": {
+      "search_alias": "samedaystore",
+      "full_value": "search-alias=samedaystore",
+      "markets": {
+        "USA": "Same-Day Store"
+      }
+    }
+  },
+  "CAT_00085": {
+    "id": "CAT_00085",
+    "key": "shoes",
+    "translations": {
+      "en": "Shoes & Handbags",
+      "de": "Schuhe & Handtaschen",
+      "fr": "Chaussures et Sacs à main",
+      "it": "Scarpe e Borse",
+      "es": "Zapatos y Bolsos",
+      "ja": "靴・ハンドバッグ",
+      "pt": "Calçados e Bolsas",
+      "nl": "Schoenen & Tassen",
+      "sv": "Skor & Handväskor",
+      "pl": "Buty i torebki",
+      "tr": "Ayakkabı ve Çantalar",
+      "ar": "الأحذية والحقائب اليدوية"
+    },
+    "amazon": {
+      "search_alias": "shoes",
+      "full_value": "search-alias=shoes",
+      "markets": {
+        "India": "Shoes & Handbags"
+      }
+    }
+  },
+  "CAT_00086": {
+    "id": "CAT_00086",
+    "key": "smart-home",
+    "translations": {
+      "en": "Smart Home",
+      "de": "Smart Home",
+      "fr": "Maison connectée",
+      "it": "Casa Intelligente",
+      "es": "Hogar Inteligente",
+      "ja": "スマートホーム",
+      "pt": "Casa Inteligente",
+      "nl": "Slimme woning",
+      "sv": "Smarta Hem",
+      "pl": "Inteligentny Dom",
+      "tr": "Akıllı Ev",
+      "ar": "المنزل الذكي"
+    },
+    "amazon": {
+      "search_alias": "smart-home",
+      "full_value": "search-alias=smart-home",
+      "markets": {
+        "Canada": "Smart Home",
+        "USA": "Smart Home"
+      }
+    }
+  },
+  "CAT_00087": {
+    "id": "CAT_00087",
+    "key": "software",
+    "translations": {
+      "en": "Software",
+      "de": "Software",
+      "fr": "Logiciels",
+      "it": "Software",
+      "es": "Software",
+      "ja": "PCソフト",
+      "nl": "Software",
+      "sv": "Programvara",
+      "pl": "Oprogramowanie",
+      "ar": "برمجية",
+      "pt": "Software",
+      "tr": "Yazılım"
+    },
+    "amazon": {
+      "search_alias": "software",
+      "full_value": "search-alias=software",
+      "markets": {
+        "Australia": "Software",
+        "Belgium": "Logiciels",
+        "Canada": "Software",
+        "Germany": "Software",
+        "Egypt": "برمجية",
+        "Spain": "Software",
+        "France": "Logiciels",
+        "India": "Software",
+        "Italy": "Software",
+        "Japan": "PCソフト",
+        "Mexico": "Software",
+        "Netherlands": "Software",
+        "Poland": "Oprogramowanie",
+        "Sweden": "Programvara",
+        "Singapore": "Software",
+        "UK": "Software",
+        "USA": "Software"
+      }
+    }
+  },
+  "CAT_00088": {
+    "id": "CAT_00088",
+    "key": "specialty-aps-sns",
+    "translations": {
+      "en": "Subscribe & Save",
+      "de": "Spar-Abo",
+      "fr": "Prévoyez et Économisez",
+      "it": "Iscriviti e Risparmia",
+      "es": "Suscríbete y Ahorra",
+      "ja": "Amazon定期おトク便",
+      "pt": "Programe e Poupe",
+      "nl": "Abonneren en besparen",
+      "ar": "اشترك ووفّر",
+      "sv": "Prenumerera och spara",
+      "pl": "Subskrybuj i oszczędzaj",
+      "tr": "Abone Ol & Tasarruf Et"
+    },
+    "amazon": {
+      "search_alias": "specialty-aps-sns",
+      "full_value": "search-alias=specialty-aps-sns",
+      "markets": {
+        "UAE": "Subscribe & Save",
+        "Australia": "Subscribe & Save",
+        "Brazil": "Programe e Poupe",
+        "Canada": "Subscribe & Save",
+        "Germany": "Spar-Abo",
+        "Egypt": "اشترك ووفّر",
+        "Spain": "Suscríbete y Ahorra",
+        "France": "Prévoyez et Économisez",
+        "India": "Subscribe & Save",
+        "Italy": "Iscriviti e Risparmia",
+        "Japan": "Amazon定期おトク便",
+        "Mexico": "Planea y Ahorra",
+        "Netherlands": "Abonneren en besparen",
+        "Saudi Arabia": "اشترك ووفّر",
+        "UK": "Subscribe & Save",
+        "USA": "Subscribe & Save"
+      }
+    }
+  },
+  "CAT_00089": {
+    "id": "CAT_00089",
+    "key": "sporting",
+    "translations": {
+      "en": "Sports & Outdoors",
+      "it": "Sport e tempo libero",
+      "es": "Deportes y aire libre",
+      "ja": "スポーツ&アウトドア",
+      "pt": "Esportes e Aventura",
+      "sv": "Sport & outdoor",
+      "pl": "Sport i turystyka",
+      "fr": "Sports & Loisirs",
+      "de": "Sport & Freizeit",
+      "nl": "Sport & Outdoor",
+      "tr": "Spor & Açık Hava",
+      "ar": "الرياضة والأنشطة الخارجية"
+    },
+    "amazon": {
+      "search_alias": "sporting",
+      "full_value": "search-alias=sporting",
+      "markets": {
+        "Australia": "Sports & Outdoors",
+        "Belgium": "Sports & Loisirs",
+        "Brazil": "Esportes e Aventura",
+        "Canada": "Sports & Outdoors",
+        "Spain": "Deportes y aire libre",
+        "India": "Sports, Fitness & Outdoors",
+        "Italy": "Sport e tempo libero",
+        "Japan": "スポーツ&アウトドア",
+        "Mexico": "Deportes y aire libre",
+        "Poland": "Sport i turystyka",
+        "Sweden": "Sport & outdoor",
+        "Singapore": "Sports and Outdoors",
+        "USA": "Sports & Outdoors"
+      }
+    }
+  },
+  "CAT_00090": {
+    "id": "CAT_00090",
+    "key": "sports",
+    "translations": {
+      "en": "Sports & Outdoors",
+      "de": "Sport & Freizeit",
+      "fr": "Sports et loisirs",
+      "nl": "Sport en outdoor",
+      "tr": "Spor",
+      "ar": "الرياضة واللياقة البدنية",
+      "it": "Sport e attività all'aperto",
+      "es": "Deportes y Aire Libre",
+      "ja": "スポーツ＆アウトドア",
+      "pt": "Esportes e Ar Livre",
+      "sv": "Sport & Fritid",
+      "pl": "Sport i rekreacja"
+    },
+    "amazon": {
+      "search_alias": "sports",
+      "full_value": "search-alias=sports",
+      "markets": {
+        "UAE": "Sports",
+        "Germany": "Sport & Freizeit",
+        "Egypt": "الرياضة واللياقة البدنية",
+        "France": "Sports et loisirs",
+        "Netherlands": "Sport en outdoor",
+        "Saudi Arabia": "الرياضة واللياقة البدنية",
+        "Turkey": "Spor",
+        "UK": "Sports & Outdoors"
+      }
+    }
+  },
+  "CAT_00091": {
+    "id": "CAT_00091",
+    "key": "stripbooks",
+    "translations": {
+      "en": "Books",
+      "de": "Bücher",
+      "fr": "Livres",
+      "it": "Libri",
+      "es": "Libros",
+      "ja": "本",
+      "pt": "Livros",
+      "nl": "Boeken",
+      "sv": "Böcker",
+      "pl": "Książki",
+      "tr": "Kitaplar",
+      "ar": "كتب"
+    },
+    "amazon": {
+      "search_alias": "stripbooks",
+      "full_value": "search-alias=stripbooks",
+      "markets": {
+        "UAE": "Books",
+        "Australia": "Books",
+        "Belgium": "Livres",
+        "Brazil": "Livros",
+        "Canada": "Books",
+        "Germany": "Bücher",
+        "Egypt": "كتب",
+        "Spain": "Libros",
+        "France": "Livres",
+        "India": "Books",
+        "Italy": "Libri",
+        "Japan": "本",
+        "Mexico": "Libros",
+        "Netherlands": "Boeken",
+        "Poland": "Książki",
+        "Saudi Arabia": "كتب",
+        "Sweden": "Böcker",
+        "Singapore": "Books",
+        "Turkey": "Kitaplar",
+        "UK": "Books",
+        "USA": "Books"
+      }
+    }
+  },
+  "CAT_00092": {
+    "id": "CAT_00092",
+    "key": "subscribe-with-amazon",
+    "translations": {
+      "en": "Subscription Boxes",
+      "de": "Abonnement-Boxen",
+      "fr": "Boîtes d'abonnement",
+      "it": "Box in abbonamento",
+      "es": "Cajas de suscripción",
+      "ja": "定期購入ボックス",
+      "pt": "Caixas de Assinatura",
+      "nl": "Abonnementsboxen",
+      "sv": "Prenumerationslådor",
+      "pl": "Pudełka subskrypcyjne",
+      "tr": "Abonelik Kutuları",
+      "ar": "صناديق الاشتراك"
+    },
+    "amazon": {
+      "search_alias": "subscribe-with-amazon",
+      "full_value": "search-alias=subscribe-with-amazon",
+      "markets": {
+        "USA": "Subscription Boxes"
+      }
+    }
+  },
+  "CAT_00093": {
+    "id": "CAT_00093",
+    "key": "todays-deals",
+    "translations": {
+      "en": "Deals",
+      "de": "Angebote",
+      "fr": "Ventes Flash",
+      "it": "Offerte",
+      "es": "Ofertas",
+      "ja": "お得情報",
+      "pt": "Ofertas",
+      "nl": "Aanbiedingen",
+      "sv": "Erbjudanden",
+      "pl": "Okazje",
+      "tr": "Fırsatlar",
+      "ar": "عروض خاصة"
+    },
+    "amazon": {
+      "search_alias": "todays-deals",
+      "full_value": "search-alias=todays-deals",
+      "markets": {
+        "Germany": "Angebote",
+        "France": "Ventes Flash",
+        "India": "Deals",
+        "UK": "Deals"
+      }
+    }
+  },
+  "CAT_00094": {
+    "id": "CAT_00094",
+    "key": "tools",
+    "translations": {
+      "en": "Tools & Home Improvement",
+      "de": "Werkzeuge & Heimwerken",
+      "fr": "Outils et Amélioration de la Maison",
+      "it": "Utensili e Fai da Te",
+      "es": "Herramientas y Mejoras para el Hogar",
+      "ja": "工具・ホームインプルーブメント",
+      "pt": "Ferramentas e Melhorias para Casa",
+      "nl": "Gereedschap & Huisverbetering",
+      "sv": "Verktyg & Hemförbättring",
+      "pl": "Narzędzia i Dom i Ogród",
+      "tr": "Aletler ve Ev Geliştirme",
+      "ar": "الأدوات وتحسين المنزل"
+    },
+    "amazon": {
+      "search_alias": "tools",
+      "full_value": "search-alias=tools",
+      "markets": {
+        "UAE": "Tools & Home Improvement",
+        "Canada": "Tools & Home Improvement",
+        "USA": "Tools & Home Improvement"
+      }
+    }
+  },
+  "CAT_00095": {
+    "id": "CAT_00095",
+    "key": "toys",
+    "translations": {
+      "en": "Toys & Games",
+      "de": "Spielzeug",
+      "fr": "Jeux et Jouets",
+      "it": "Giochi e giocattoli",
+      "es": "Juguetes y juegos",
+      "ja": "玩具",
+      "pt": "Brinquedos e Jogos",
+      "nl": "Speelgoed en spellen",
+      "sv": "Leksaker & spel",
+      "pl": "Zabawki i gry",
+      "tr": "Oyuncaklar ve Oyunlar",
+      "ar": "الألعاب والدمى"
+    },
+    "amazon": {
+      "search_alias": "toys",
+      "full_value": "search-alias=toys",
+      "markets": {
+        "UAE": "Toys & Games",
+        "Australia": "Toys & Games",
+        "Belgium": "Jeux & Jouets",
+        "Brazil": "Brinquedos e Jogos",
+        "Canada": "Toys & Games",
+        "Germany": "Spielzeug",
+        "Egypt": "الألعاب والدمى",
+        "Spain": "Juguetes y juegos",
+        "France": "Jeux et Jouets",
+        "India": "Toys & Games",
+        "Italy": "Giochi e giocattoli",
+        "Japan": "玩具",
+        "Mexico": "Juegos y juguetes",
+        "Netherlands": "Speelgoed en spellen",
+        "Poland": "Zabawki i gry",
+        "Saudi Arabia": "الألعاب والدمى",
+        "Sweden": "Leksaker & spel",
+        "Singapore": "Toys and Games",
+        "Turkey": "Oyuncaklar ve Oyunlar",
+        "UK": "Toys & Games"
+      }
+    }
+  },
+  "CAT_00096": {
+    "id": "CAT_00096",
+    "key": "toys-and-games",
+    "translations": {
+      "en": "Toys & Games",
+      "de": "Spielzeug & Spiele",
+      "fr": "Jouets et jeux",
+      "it": "Giochi e giocattoli",
+      "es": "Juguetes y Juegos",
+      "ja": "おもちゃ・ゲーム",
+      "pt": "Brinquedos e Jogos",
+      "nl": "Speelgoed & Spellen",
+      "sv": "Leksaker & Spel",
+      "pl": "Zabawki i gry",
+      "tr": "Oyuncaklar ve Oyunlar",
+      "ar": "الألعاب واللعب"
+    },
+    "amazon": {
+      "search_alias": "toys-and-games",
+      "full_value": "search-alias=toys-and-games",
+      "markets": {
+        "USA": "Toys & Games"
+      }
+    }
+  },
+  "CAT_00097": {
+    "id": "CAT_00097",
+    "key": "under-ten-dollars",
+    "translations": {
+      "en": "Under $10",
+      "fr": "Moins de 10€",
+      "it": "Meno di 10€",
+      "es": "Menos de 10€",
+      "de": "Unter 10 $",
+      "ja": "10ドル以下",
+      "pt": "Por menos de R$ 50",
+      "nl": "Onder €10",
+      "sv": "Under 10 dollar",
+      "pl": "Do 10 USD",
+      "tr": "10 ABD Doları Altı",
+      "ar": "أقل من 10 دولارات"
+    },
+    "amazon": {
+      "search_alias": "under-ten-dollars",
+      "full_value": "search-alias=under-ten-dollars",
+      "markets": {
+        "Spain": "Menos de 10€",
+        "France": "Moins de 10€",
+        "India": "Under ₹500",
+        "Italy": "Meno di 10€",
+        "USA": "Under $10"
+      }
+    }
+  },
+  "CAT_00098": {
+    "id": "CAT_00098",
+    "key": "uvesco",
+    "translations": {
+      "es": "Uvesco",
+      "en": "Uvesco",
+      "de": "Uvesco",
+      "fr": "Uvesco",
+      "it": "Uvesco",
+      "ja": "ウベスコ",
+      "pt": "Uvesco",
+      "nl": "Uvesco",
+      "sv": "Uvesco",
+      "pl": "Uvesco",
+      "tr": "Uvesco",
+      "ar": "أوفيسكو"
+    },
+    "amazon": {
+      "search_alias": "uvesco",
+      "full_value": "search-alias=uvesco",
+      "markets": {
+        "Spain": "Uvesco"
+      }
+    }
+  },
+  "CAT_00099": {
+    "id": "CAT_00099",
+    "key": "vehicles",
+    "translations": {
+      "en": "Amazon Autos",
+      "de": "Amazon Auto & Motorrad",
+      "fr": "Amazon Auto et Moto",
+      "it": "Amazon Auto e Moto",
+      "es": "Amazon Automóviles",
+      "ja": "Amazon 自動車用品",
+      "pt": "Amazon Automóveis",
+      "nl": "Amazon Auto's",
+      "sv": "Amazon Bilar",
+      "pl": "Amazon Motoryzacja",
+      "tr": "Amazon Otomotiv",
+      "ar": "أمازون السيارات"
+    },
+    "amazon": {
+      "search_alias": "vehicles",
+      "full_value": "search-alias=vehicles",
+      "markets": {
+        "USA": "Amazon Autos"
+      }
+    }
+  },
+  "CAT_00100": {
+    "id": "CAT_00100",
+    "key": "videogames",
+    "translations": {
+      "en": "Video Games",
+      "de": "Games",
+      "fr": "Jeux vidéo",
+      "it": "Videogiochi",
+      "es": "Videojuegos",
+      "ja": "コンピューター&テレビゲーム",
+      "pt": "Games",
+      "nl": "Videogames",
+      "sv": "TV-spel & konsoler",
+      "pl": "Gry wideo",
+      "tr": "PC ve Video Oyunları",
+      "ar": "ألعاب الفيديو"
+    },
+    "amazon": {
+      "search_alias": "videogames",
+      "full_value": "search-alias=videogames",
+      "markets": {
+        "UAE": "Video Games",
+        "Australia": "Video Games",
+        "Belgium": "Jeux vidéo",
+        "Brazil": "Games",
+        "Canada": "Video Games",
+        "Germany": "Games",
+        "Egypt": "ألعاب الفيديو",
+        "Spain": "Videojuegos",
+        "France": "Jeux vidéo",
+        "India": "Video Games",
+        "Italy": "Videogiochi",
+        "Japan": "コンピューター&テレビゲーム",
+        "Mexico": "Videojuegos",
+        "Netherlands": "Videogames",
+        "Poland": "Gry wideo",
+        "Saudi Arabia": "ألعاب الفيديو",
+        "Sweden": "TV-spel & konsoler",
+        "Singapore": "Video Games",
+        "Turkey": "PC ve Video Oyunları",
+        "UK": "PC & Video Games",
+        "USA": "Video Games"
+      }
+    }
+  },
+  "CAT_00101": {
+    "id": "CAT_00101",
+    "key": "warehouse-deals",
+    "translations": {
+      "en": "Amazon Resale",
+      "de": "Amazon Retourenkauf",
+      "fr": "Amazon Seconde main",
+      "it": "Amazon Seconda mano",
+      "es": "Amazon Segunda mano",
+      "ja": "Amazonアウトレット",
+      "pt": "Amazon Quase Novo",
+      "nl": "Amazon RetourDeals",
+      "tr": "Amazon Depo",
+      "ar": "عروض مستودع أمازون",
+      "sv": "Amazon Återförsäljning",
+      "pl": "Amazon Odnowione"
+    },
+    "amazon": {
+      "search_alias": "warehouse-deals",
+      "full_value": "search-alias=warehouse-deals",
+      "markets": {
+        "UAE": "Amazon Resale",
+        "Australia": "Amazon Resale",
+        "Brazil": "Amazon Quase Novo",
+        "Canada": "Amazon Resale",
+        "Germany": "Amazon Retourenkauf",
+        "Egypt": "عروض مستودع أمازون",
+        "Spain": "Amazon Segunda mano",
+        "France": "Amazon Seconde main",
+        "Italy": "Amazon Seconda mano",
+        "Japan": "Amazonアウトレット",
+        "Mexico": "Remates de almacén",
+        "Netherlands": "Amazon RetourDeals",
+        "Saudi Arabia": "عروض مستودع أمازون",
+        "Turkey": "Amazon Depo",
+        "UK": "Amazon Resale",
+        "USA": "Amazon Resale"
+      }
+    }
+  },
+  "CAT_00102": {
+    "id": "CAT_00102",
+    "key": "watches",
+    "translations": {
+      "en": "Watches",
+      "de": "Uhren",
+      "fr": "Montres",
+      "it": "Orologi",
+      "es": "Relojes",
+      "ja": "時計",
+      "pt": "Relógios",
+      "nl": "Horloges",
+      "sv": "Klockor",
+      "pl": "Zegarki",
+      "tr": "Saatler",
+      "ar": "الساعات"
+    },
+    "amazon": {
+      "search_alias": "watches",
+      "full_value": "search-alias=watches",
+      "markets": {
+        "India": "Watches"
+      }
+    }
+  },
+  "CAT_00103": {
+    "id": "CAT_00103",
+    "key": "watsons",
+    "translations": {
+      "en": "Watsons",
+      "de": "Watsons",
+      "fr": "Watsons",
+      "it": "Watsons",
+      "es": "Watsons",
+      "ja": "ワトソンズ",
+      "pt": "Watsons",
+      "nl": "Watsons",
+      "sv": "Watsons",
+      "pl": "Watsons",
+      "tr": "Watsons",
+      "ar": "واتسونز"
+    },
+    "amazon": {
+      "search_alias": "watsons",
+      "full_value": "search-alias=watsons",
+      "markets": {
+        "Singapore": "Watsons"
+      }
+    }
+  },
+  "CAT_00104": {
+    "id": "CAT_00104",
+    "key": "wholefoods",
+    "translations": {
+      "en": "Whole Foods Market",
+      "de": "Whole Foods Market",
+      "fr": "Épicerie fine",
+      "it": "Mercato di Prodotti Naturali",
+      "es": "Mercado de alimentos naturales",
+      "ja": "ホールフーズ・マーケット",
+      "pt": "Mercado de Produtos Naturais",
+      "nl": "Volwaardige Voedingsmiddelen Markt",
+      "sv": "Hela livsmedel marknad",
+      "pl": "Whole Foods Market",
+      "tr": "Bütün Gıda Marketi",
+      "ar": "سوق الأغذية الكاملة"
+    },
+    "amazon": {
+      "search_alias": "wholefoods",
+      "full_value": "search-alias=wholefoods",
+      "markets": {
+        "USA": "Whole Foods Market"
+      }
+    }
+  }
+}
