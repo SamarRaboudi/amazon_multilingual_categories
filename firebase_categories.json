@@ -219,31 +219,6 @@
       }
     }
   },
-  "CAT_00009": {
-    "id": "CAT_00009",
-    "key": "apparel",
-    "translations": {
-      "en": "Clothing & Accessories",
-      "de": "Bekleidung & Accessoires",
-      "fr": "Vêtements et accessoires",
-      "it": "Abbigliamento e Accessori",
-      "es": "Ropa y accesorios",
-      "ja": "服＆ファッション小物",
-      "pt": "Roupas e Acessórios",
-      "nl": "Kleding & Accessoires",
-      "sv": "Kläder & Accessoarer",
-      "pl": "Odzież i dodatki",
-      "tr": "Giyim & Aksesuarlar",
-      "ar": "الملابس والإكسسوارات"
-    },
-    "amazon": {
-      "search_alias": "apparel",
-      "full_value": "search-alias=apparel",
-      "markets": {
-        "India": "Clothing & Accessories"
-      }
-    }
-  },
   "CAT_00010": {
     "id": "CAT_00010",
     "key": "appliances",
@@ -948,76 +923,6 @@
       }
     }
   },
-  "CAT_00036": {
-    "id": "CAT_00036",
-    "key": "fashion-mens",
-    "translations": {
-      "en": "Men's Clothing, Shoes & Jewelry",
-      "de": "Herrenbekleidung, Schuhe & Schmuck",
-      "fr": "Vêtements, chaussures et bijoux pour hommes",
-      "it": "Abbigliamento, scarpe e gioielli da uomo",
-      "es": "Ropa, zapatos y joyería para hombre",
-      "ja": "男性用服、靴、ジュエリー",
-      "pt": "Roupas, sapatos e joias masculinas",
-      "nl": "Herenkleding, Schoenen & Sieraden",
-      "sv": "Herrkläder, skor och smycken",
-      "pl": "Odzież, obuwie i biżuteria męska",
-      "tr": "Erkek Giyim, Ayakkabı ve Takı",
-      "ar": "ملابس، أحذية ومجوهرات رجالية"
-    },
-    "amazon": {
-      "search_alias": "fashion-mens",
-      "full_value": "search-alias=fashion-mens",
-      "markets": {
-        "Australia": "Men's Clothing, Shoes and Jewellery",
-        "Brazil": "Roupas, sapatos e joias masculinas",
-        "Canada": "Men's Clothing, Shoes & Jewellery",
-        "Germany": "Herrenbekleidung, Schuhe & Schmuck",
-        "Spain": "Ropa, zapatos y joyería para hombre",
-        "France": "Vêtements, chaussures et bijoux pour hommes",
-        "Italy": "Abbigliamento, scarpe e gioielli da uomo",
-        "Japan": "男性用服、靴、ジュエリー",
-        "Mexico": "Ropa, zapatos y joyería para hombres",
-        "UK": "Men's Clothing, Shoes and Jewellery",
-        "USA": "Men's Clothing, Shoes & Jewelry"
-      }
-    }
-  },
-  "CAT_00037": {
-    "id": "CAT_00037",
-    "key": "fashion-womens",
-    "translations": {
-      "en": "Women's Clothing, Shoes & Jewelry",
-      "de": "Damenbekleidung, Schuhe & Schmuck",
-      "fr": "Vêtements, chaussures et bijoux pour femmes",
-      "it": "Abbigliamento, scarpe e gioielli da donna",
-      "es": "Ropa, zapatos y joyería para mujer",
-      "ja": "女性服、靴、ジュエリー",
-      "pt": "Roupas, sapatos e joias femininas",
-      "nl": "Dameskleding, Schoenen & Sieraden",
-      "sv": "Damkläder, skor och smycken",
-      "pl": "Odzież, obuwie i biżuteria damska",
-      "tr": "Kadın Giyim, Ayakkabı ve Takı",
-      "ar": "ملابس وأحذية ومجوهرات نسائية"
-    },
-    "amazon": {
-      "search_alias": "fashion-womens",
-      "full_value": "search-alias=fashion-womens",
-      "markets": {
-        "Australia": "Women's Clothing, Shoes and Jewellery",
-        "Brazil": "Roupas, sapatos e joias femininas",
-        "Canada": "Women's Clothing, Shoes & Jewellery",
-        "Germany": "Damenbekleidung, Schuhe & Schmuck",
-        "Spain": "Ropa, zapatos y joyería para mujer",
-        "France": "Vêtements, chaussures et bijoux pour femmes",
-        "Italy": "Abbigliamento, scarpe e gioielli da donna",
-        "Japan": "女性服、靴、ジュエリー",
-        "Mexico": "Ropa, zapatos y joyería para mujeres",
-        "UK": "Women's Clothing, Shoes and Jewellery",
-        "USA": "Women's Clothing, Shoes & Jewelry"
-      }
-    }
-  },
   "CAT_00038": {
     "id": "CAT_00038",
     "key": "financial",
@@ -1647,40 +1552,6 @@
         "Italy": "Luxury Stores",
         "UK": "Luxury Stores",
         "USA": "Luxury Stores"
-      }
-    }
-  },
-  "CAT_00065": {
-    "id": "CAT_00065",
-    "key": "luxury-beauty",
-    "translations": {
-      "en": "Premium Beauty",
-      "de": "Premium Beauty",
-      "fr": "Beauté Premium",
-      "pt": "Beleza de luxo",
-      "es": "Belleza Premium",
-      "it": "Bellezza Premium",
-      "ja": "プレミアムビューティー",
-      "nl": "Premium Beauty",
-      "sv": "Premium Skönhet",
-      "pl": "Ekskluzywna uroda",
-      "tr": "Premium Güzellik",
-      "ar": "الجمال الفاخر"
-    },
-    "amazon": {
-      "search_alias": "luxury-beauty",
-      "full_value": "search-alias=luxury-beauty",
-      "markets": {
-        "Australia": "Premium Beauty",
-        "Brazil": "Beleza de luxo",
-        "Canada": "Luxury Beauty",
-        "Germany": "Premium Beauty",
-        "France": "Beauté Premium",
-        "India": "Luxury Beauty",
-        "Mexico": "Belleza Premium",
-        "Singapore": "Luxury Beauty",
-        "UK": "Premium Beauty",
-        "USA": "Premium Beauty"
       }
     }
   },
@@ -2751,31 +2622,6 @@
       "full_value": "search-alias=watsons",
       "markets": {
         "Singapore": "Watsons"
-      }
-    }
-  },
-  "CAT_00104": {
-    "id": "CAT_00104",
-    "key": "wholefoods",
-    "translations": {
-      "en": "Whole Foods Market",
-      "de": "Whole Foods Market",
-      "fr": "Épicerie fine",
-      "it": "Mercato di Prodotti Naturali",
-      "es": "Mercado de alimentos naturales",
-      "ja": "ホールフーズ・マーケット",
-      "pt": "Mercado de Produtos Naturais",
-      "nl": "Volwaardige Voedingsmiddelen Markt",
-      "sv": "Hela livsmedel marknad",
-      "pl": "Whole Foods Market",
-      "tr": "Bütün Gıda Marketi",
-      "ar": "سوق الأغذية الكاملة"
-    },
-    "amazon": {
-      "search_alias": "wholefoods",
-      "full_value": "search-alias=wholefoods",
-      "markets": {
-        "USA": "Whole Foods Market"
       }
     }
   }
