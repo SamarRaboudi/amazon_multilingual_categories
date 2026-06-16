@@ -983,74 +983,6 @@
       }
     }
   },
-  "CAT_00031": {
-    "id": "CAT_00031",
-    "key": "fashion-baby",
-    "translations": {
-      "en": "Baby Clothing, Shoes & Jewelry",
-      "de": "Babykleidung, Schuhe und Schmuck",
-      "fr": "Vêtements, chaussures et bijoux pour bébés",
-      "it": "Abbigliamento, scarpe e gioielli per bambini",
-      "es": "Ropa, zapatos y joyería de bebé",
-      "pt": "Roupas, sapatos e joias para bebês",
-      "ja": "ベビー服・靴・アクセサリー",
-      "nl": "Babykleding, Schoenen & Sieraden",
-      "sv": "Babykläder, skor och smycken",
-      "pl": "Ubranka, obuwie i biżuteria dla niemowląt",
-      "tr": "Bebek Giyim, Ayakkabı ve Takı",
-      "ar": "ملابس وأحذية ومجوهرات الأطفال"
-    },
-    "amazon": {
-      "search_alias": "fashion-baby",
-      "full_value": "search-alias=fashion-baby",
-      "markets": {
-        "Australia": "Baby Clothing, Shoes & Jewellery",
-        "Brazil": "Roupas, sapatos e joias para bebês",
-        "Canada": "Baby Clothing, Shoes and Jewellery",
-        "Germany": "Babykleidung, Schuhe und Schmuck",
-        "Spain": "Ropa, zapatos y joyería de bebé",
-        "France": "Vêtements, chaussures et bijoux pour bébés",
-        "Italy": "Abbigliamento, scarpe e gioielli per bambini",
-        "Mexico": "Ropa de bebé, zapatos y joyería",
-        "UK": "Baby Clothing, Shoes & Jewellery",
-        "USA": "Baby Clothing, Shoes & Jewelry"
-      }
-    }
-  },
-  "CAT_00033": {
-    "id": "CAT_00033",
-    "key": "fashion-boys",
-    "translations": {
-      "en": "Boy's Clothing, Shoes & Jewelry",
-      "de": "Kleidung, Schuhe & Schmuck für Jungen",
-      "fr": "Vêtements, chaussures et bijoux pour garçons",
-      "it": "Abbigliamento, scarpe e gioielli da ragazzo",
-      "es": "Ropa, zapatos y joyería para chicos",
-      "pt": "Roupas, sapatos e joias para meninos",
-      "ja": "男の子用服、靴、アクセサリー",
-      "nl": "Jongenskleding, Schoenen & Sieraden",
-      "sv": "Pojkkläder, skor och smycken",
-      "pl": "Odzież, obuwie i biżuteria dla chłopców",
-      "tr": "Erkek Çocuk Giyim, Ayakkabı ve Takı",
-      "ar": "ملابس وأحذية ومجوهرات الأولاد"
-    },
-    "amazon": {
-      "search_alias": "fashion-boys",
-      "full_value": "search-alias=fashion-boys",
-      "markets": {
-        "Australia": "Boy's Clothing, Shoes and Jewellery",
-        "Brazil": "Roupas, sapatos e joias para meninos",
-        "Canada": "Boy's Clothing, Shoes & Jewellery",
-        "Germany": "Kleidung, Schuhe & Schmuck für Jungen",
-        "Spain": "Ropa, zapatos y joyería para chicos",
-        "France": "Vêtements, chaussures et bijoux pour garçons",
-        "Italy": "Abbigliamento, scarpe e gioielli da ragazzo",
-        "Mexico": "Ropa, zapatos y joyería para niños",
-        "UK": "Boy's Clothing, Shoes and Jewellery",
-        "USA": "Boy's Clothing, Shoes & Jewelry"
-      }
-    }
-  },
   "CAT_00034": {
     "id": "CAT_00034",
     "key": "fashion-girls",
@@ -1612,49 +1544,6 @@
         "Saudi Arabia": "أدوات وتحسينات المنزل",
         "Sweden": "Bygg, el & verktyg",
         "Singapore": "Tools & Home Improvement"
-      }
-    }
-  },
-  "CAT_00052": {
-    "id": "CAT_00052",
-    "key": "hpc",
-    "translations": {
-      "en": "Health, Household & Baby Care",
-      "fr": "Hygiène et Santé",
-      "it": "Salute e cura della persona",
-      "es": "Salud y cuidado personal",
-      "ja": "ヘルスケア&パーソナルケア",
-      "pt": "Saúde e Cuidados Pessoais",
-      "nl": "Gezondheid en persoonlijke verzorging",
-      "sv": "Hälsa, vård & hushåll",
-      "pl": "Zdrowie i gospodarstwo domowe",
-      "tr": "Sağlık ve Bakım",
-      "ar": "مستلزمات الرعاية الصحية والأسرة والطفل",
-      "de": "Gesundheit, Haushalt & Babypflege"
-    },
-    "amazon": {
-      "search_alias": "hpc",
-      "full_value": "search-alias=hpc",
-      "markets": {
-        "UAE": "Health, Household & Baby Care",
-        "Australia": "Health, Household & Personal Care",
-        "Belgium": "Santé",
-        "Brazil": "Saúde e Cuidados Pessoais",
-        "Canada": "Health & Personal Care",
-        "Egypt": "مستلزمات الرعاية الصحية والأسرة والطفل",
-        "Spain": "Salud y cuidado personal",
-        "France": "Hygiène et Santé",
-        "India": "Health & Personal Care",
-        "Italy": "Salute e cura della persona",
-        "Japan": "ヘルスケア&パーソナルケア",
-        "Mexico": "Salud y Cuidado Personal",
-        "Netherlands": "Gezondheid en persoonlijke verzorging",
-        "Poland": "Zdrowie i gospodarstwo domowe",
-        "Saudi Arabia": "مستلزمات الرعاية الصحية والأسرة والطفل",
-        "Sweden": "Hälsa, vård & hushåll",
-        "Singapore": "Health, Household & Personal Care",
-        "Turkey": "Sağlık ve Bakım",
-        "USA": "Health, Household & Baby Care"
       }
     }
   },
