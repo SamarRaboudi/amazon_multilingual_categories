@@ -304,7 +304,7 @@
       }
     }
   },
-  "CAT_00011": {
+   "CAT_00011": {
     "id": "CAT_00011",
     "key": "aps",
     "translations": {
@@ -504,31 +504,6 @@
         "Singapore": "Baby",
         "Turkey": "Bebek",
         "UK": "Baby"
-      }
-    }
-  },
-  "CAT_00016": {
-    "id": "CAT_00016",
-    "key": "baby-products",
-    "translations": {
-      "en": "Baby",
-      "de": "Baby & Kleinkind",
-      "fr": "Bébé",
-      "it": "Bambini",
-      "es": "Bebé",
-      "ja": "ベビー用品",
-      "pt": "Bebê",
-      "nl": "Babyproducten",
-      "sv": "Barn",
-      "pl": "Dziecko",
-      "tr": "Bebek",
-      "ar": "الأطفال"
-    },
-    "amazon": {
-      "search_alias": "baby-products",
-      "full_value": "search-alias=baby-products",
-      "markets": {
-        "USA": "Baby"
       }
     }
   },
@@ -1039,31 +1014,6 @@
         "Mexico": "Ropa de bebé, zapatos y joyería",
         "UK": "Baby Clothing, Shoes & Jewellery",
         "USA": "Baby Clothing, Shoes & Jewelry"
-      }
-    }
-  },
-  "CAT_00032": {
-    "id": "CAT_00032",
-    "key": "fashion-baby-kids",
-    "translations": {
-      "ja": "ベビー服、靴、ジュエリー",
-      "en": "Baby Clothing, Shoes & Jewelry",
-      "de": "Babybekleidung, Schuhe, Schmuck",
-      "fr": "Vêtements, chaussures et bijoux pour bébés",
-      "it": "Abbigliamento, scarpe e gioielli per bambini",
-      "es": "Ropa, calzado y joyería para bebés",
-      "pt": "Roupas, calçados e joias para bebês",
-      "nl": "Babykleding, schoenen en sieraden",
-      "sv": "Babykläder, skor och smycken",
-      "pl": "Ubranka dziecięce, obuwie, biżuteria",
-      "tr": "Bebek Giysileri, Ayakkabılar, Takılar",
-      "ar": "ملابس وأحذية ومجوهرات الأطفال"
-    },
-    "amazon": {
-      "search_alias": "fashion-baby-kids",
-      "full_value": "search-alias=fashion-baby-kids",
-      "markets": {
-        "Japan": "ベビー服、靴、ジュエリー"
       }
     }
   },
@@ -1818,46 +1768,6 @@
       }
     }
   },
-  "CAT_00056": {
-    "id": "CAT_00056",
-    "key": "kitchen",
-    "translations": {
-      "en": "Home & Kitchen",
-      "de": "Küche, Haushalt & Wohnen",
-      "fr": "Cuisine & Maison",
-      "it": "Casa e cucina",
-      "es": "Hogar y cocina",
-      "ja": "キッチン&家庭用品",
-      "pt": "Cozinha",
-      "tr": "Ev ve Mutfak",
-      "ar": "المطبخ والطعام",
-      "nl": "Wonen & Keuken",
-      "sv": "Hem & Kök",
-      "pl": "Dom i kuchnia"
-    },
-    "amazon": {
-      "search_alias": "kitchen",
-      "full_value": "search-alias=kitchen",
-      "markets": {
-        "UAE": "Kitchen & Dining",
-        "Australia": "Kitchen & Dining",
-        "Belgium": "Maison & Cuisine",
-        "Brazil": "Cozinha",
-        "Canada": "Home & Kitchen",
-        "Germany": "Küche, Haushalt & Wohnen",
-        "Spain": "Hogar y cocina",
-        "France": "Cuisine & Maison",
-        "India": "Home & Kitchen",
-        "Italy": "Casa e cucina",
-        "Japan": "キッチン&家庭用品",
-        "Mexico": "Hogar y cocina",
-        "Saudi Arabia": "المطبخ والطعام",
-        "Singapore": "Kitchen & Dining",
-        "Turkey": "Ev ve Mutfak",
-        "UK": "Home & Kitchen"
-      }
-    }
-  },
   "CAT_00057": {
     "id": "CAT_00057",
     "key": "knuspr",
@@ -2371,31 +2281,6 @@
       }
     }
   },
-  "CAT_00075": {
-    "id": "CAT_00075",
-    "key": "nowstore",
-    "translations": {
-      "en": "Amazon Fresh",
-      "de": "Amazon Frischprodukte",
-      "fr": "Amazon Frais",
-      "it": "Amazon Fresco",
-      "es": "Amazon Fresh",
-      "ja": "アマゾンフレッシュ",
-      "pt": "Amazon Fresh",
-      "nl": "Amazon Fresh",
-      "sv": "Amazon Fresh",
-      "pl": "Amazon Fresh",
-      "tr": "Amazon Taze",
-      "ar": "أمازون فريش"
-    },
-    "amazon": {
-      "search_alias": "nowstore",
-      "full_value": "search-alias=nowstore",
-      "markets": {
-        "India": "Amazon Fresh"
-      }
-    }
-  },
   "CAT_00076": {
     "id": "CAT_00076",
     "key": "office-products",
@@ -2463,33 +2348,6 @@
       "full_value": "search-alias=othaim",
       "markets": {
         "Saudi Arabia": "أسواق العثيم"
-      }
-    }
-  },
-  "CAT_00078": {
-    "id": "CAT_00078",
-    "key": "outdoor",
-    "translations": {
-      "en": "Garden & Outdoors",
-      "de": "Garten",
-      "nl": "Tuin, terras en gazon",
-      "fr": "Jardin et plein air",
-      "it": "Giardino e Esterni",
-      "es": "Jardín y Exterior",
-      "ja": "ガーデン・アウトドア",
-      "pt": "Jardim e Área Externa",
-      "sv": "Trädgård & Utomhus",
-      "pl": "Ogród i na zewnątrz",
-      "tr": "Bahçe ve Açık Hava",
-      "ar": "الحديقة والهواء الطلق"
-    },
-    "amazon": {
-      "search_alias": "outdoor",
-      "full_value": "search-alias=outdoor",
-      "markets": {
-        "Germany": "Garten",
-        "Netherlands": "Tuin, terras en gazon",
-        "UK": "Garden & Outdoors"
       }
     }
   },
@@ -2848,38 +2706,6 @@
       }
     }
   },
-  "CAT_00090": {
-    "id": "CAT_00090",
-    "key": "sports",
-    "translations": {
-      "en": "Sports & Outdoors",
-      "de": "Sport & Freizeit",
-      "fr": "Sports et loisirs",
-      "nl": "Sport en outdoor",
-      "tr": "Spor",
-      "ar": "الرياضة واللياقة البدنية",
-      "it": "Sport e attività all'aperto",
-      "es": "Deportes y Aire Libre",
-      "ja": "スポーツ＆アウトドア",
-      "pt": "Esportes e Ar Livre",
-      "sv": "Sport & Fritid",
-      "pl": "Sport i rekreacja"
-    },
-    "amazon": {
-      "search_alias": "sports",
-      "full_value": "search-alias=sports",
-      "markets": {
-        "UAE": "Sports",
-        "Germany": "Sport & Freizeit",
-        "Egypt": "الرياضة واللياقة البدنية",
-        "France": "Sports et loisirs",
-        "Netherlands": "Sport en outdoor",
-        "Saudi Arabia": "الرياضة واللياقة البدنية",
-        "Turkey": "Spor",
-        "UK": "Sports & Outdoors"
-      }
-    }
-  },
   "CAT_00091": {
     "id": "CAT_00091",
     "key": "stripbooks",
@@ -3046,31 +2872,6 @@
         "Singapore": "Toys and Games",
         "Turkey": "Oyuncaklar ve Oyunlar",
         "UK": "Toys & Games"
-      }
-    }
-  },
-  "CAT_00096": {
-    "id": "CAT_00096",
-    "key": "toys-and-games",
-    "translations": {
-      "en": "Toys & Games",
-      "de": "Spielzeug & Spiele",
-      "fr": "Jouets et jeux",
-      "it": "Giochi e giocattoli",
-      "es": "Juguetes y Juegos",
-      "ja": "おもちゃ・ゲーム",
-      "pt": "Brinquedos e Jogos",
-      "nl": "Speelgoed & Spellen",
-      "sv": "Leksaker & Spel",
-      "pl": "Zabawki i gry",
-      "tr": "Oyuncaklar ve Oyunlar",
-      "ar": "الألعاب واللعب"
-    },
-    "amazon": {
-      "search_alias": "toys-and-games",
-      "full_value": "search-alias=toys-and-games",
-      "markets": {
-        "USA": "Toys & Games"
       }
     }
   },
