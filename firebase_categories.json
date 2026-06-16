@@ -279,51 +279,6 @@
       }
     }
   },
-   "CAT_00011": {
-    "id": "CAT_00011",
-    "key": "aps",
-    "translations": {
-      "en": "All Departments",
-      "de": "Alle Kategorien",
-      "fr": "Toutes nos catégories",
-      "it": "Tutte le categorie",
-      "es": "Todos los departamentos",
-      "ja": "すべてのカテゴリー",
-      "pt": "Todos os departamentos",
-      "nl": "Alle afdelingen",
-      "sv": "Alla kategorier",
-      "pl": "Wszystkie kategorie",
-      "tr": "Tüm Kategoriler",
-      "ar": "جميع الأقسام"
-    },
-    "amazon": {
-      "search_alias": "aps",
-      "full_value": "search-alias=aps",
-      "markets": {
-        "UAE": "All Categories",
-        "Australia": "All Departments",
-        "Belgium": "Toutes nos catégories",
-        "Brazil": "Todos os departamentos",
-        "Canada": "All Departments",
-        "Germany": "Alle Kategorien",
-        "Egypt": "جميع الأقسام",
-        "Spain": "Todos los departamentos",
-        "France": "Toutes nos catégories",
-        "India": "All Categories",
-        "Italy": "Tutte le categorie",
-        "Japan": "すべてのカテゴリー",
-        "Mexico": "Todas las categorías",
-        "Netherlands": "Alle afdelingen",
-        "Poland": "Wszystkie kategorie",
-        "Saudi Arabia": "جميع الأقسام",
-        "Sweden": "Alla kategorier",
-        "Singapore": "All Departments",
-        "Turkey": "Tüm Kategoriler",
-        "UK": "All Departments",
-        "USA": "All Departments"
-      }
-    }
-  },
   "CAT_00012": {
     "id": "CAT_00012",
     "key": "arts-crafts",
@@ -1268,49 +1223,6 @@
       "full_value": "search-alias=gopuff",
       "markets": {
         "UK": "Gopuff"
-      }
-    }
-  },
-  "CAT_00046": {
-    "id": "CAT_00046",
-    "key": "grocery",
-    "translations": {
-      "en": "Grocery & Gourmet Food",
-      "de": "Lebensmittel & Getränke",
-      "fr": "Epicerie",
-      "it": "Alimentari e cura della casa",
-      "es": "Alimentación y bebidas",
-      "pt": "Alimentos e Bebidas",
-      "nl": "Levensmiddelen",
-      "sv": "Livsmedel och gourmetmat",
-      "tr": "Gıda ve İçecek",
-      "ar": "البقالة والطعام الفاخر",
-      "ja": "食品・グルメ食品",
-      "pl": "Artykuły spożywcze i delikatesy"
-    },
-    "amazon": {
-      "search_alias": "grocery",
-      "full_value": "search-alias=grocery",
-      "markets": {
-        "UAE": "Grocery & Gourmet Food",
-        "Australia": "Pantry Food & Drinks",
-        "Belgium": "Alimentation",
-        "Brazil": "Alimentos e Bebidas",
-        "Canada": "Grocery",
-        "Germany": "Lebensmittel & Getränke",
-        "Egypt": "البقالة والطعام الفاخر",
-        "Spain": "Alimentación y bebidas",
-        "France": "Epicerie",
-        "India": "Grocery & Gourmet Foods",
-        "Italy": "Alimentari e cura della casa",
-        "Mexico": "Alimentos y Bebidas",
-        "Netherlands": "Levensmiddelen",
-        "Saudi Arabia": "البقالة والطعام الفاخر",
-        "Sweden": "Livsmedel och gourmetmat",
-        "Singapore": "Grocery",
-        "Turkey": "Gıda ve İçecek",
-        "UK": "Grocery",
-        "USA": "Grocery & Gourmet Food"
       }
     }
   },
