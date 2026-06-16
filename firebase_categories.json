@@ -139,31 +139,6 @@
       }
     }
   },
-  "CAT_00005": {
-    "id": "CAT_00005",
-    "key": "amazon-one-medical",
-    "translations": {
-      "en": "Amazon One Medical",
-      "de": "Amazon One Medical",
-      "fr": "Amazon One Medical",
-      "it": "Amazon One Medical",
-      "es": "Amazon One Medical",
-      "ja": "アマゾン ワンメディカル",
-      "pt": "Amazon One Medical",
-      "nl": "Amazon One Medical",
-      "sv": "Amazon One Medical",
-      "pl": "Amazon One Medical",
-      "tr": "Amazon One Medical",
-      "ar": "أمازون ون ميديكال"
-    },
-    "amazon": {
-      "search_alias": "amazon-one-medical",
-      "full_value": "search-alias=amazon-one-medical",
-      "markets": {
-        "USA": "Amazon One Medical"
-      }
-    }
-  },
   "CAT_00006": {
     "id": "CAT_00006",
     "key": "amazon-pharmacy",
@@ -983,40 +958,6 @@
       }
     }
   },
-  "CAT_00034": {
-    "id": "CAT_00034",
-    "key": "fashion-girls",
-    "translations": {
-      "en": "Girl's Clothing, Shoes & Jewelry",
-      "de": "Kleidung, Schuhe & Schmuck für Mädchen",
-      "fr": "Vêtements, chaussures et bijoux pour filles",
-      "it": "Abbigliamento, scarpe e gioielli da ragazza",
-      "es": "Ropa, zapatos y joyería para chicas",
-      "pt": "Roupas, sapatos e joias para meninas",
-      "ja": "ガールズ服・靴・アクセサリー",
-      "nl": "Meisjeskleding, Schoenen & Sieraden",
-      "sv": "Flickkläder, skor och smycken",
-      "pl": "Odzież, obuwie i biżuteria dla dziewczynek",
-      "tr": "Kız Çocuk Giyim, Ayakkabı ve Takı",
-      "ar": "ملابس وأحذية ومجوهرات للبنات"
-    },
-    "amazon": {
-      "search_alias": "fashion-girls",
-      "full_value": "search-alias=fashion-girls",
-      "markets": {
-        "Australia": "Girl's Clothing, Shoes & Jewellery",
-        "Brazil": "Roupas, sapatos e joias para meninas",
-        "Canada": "Girl's Clothing, Shoes & Jewellery",
-        "Germany": "Kleidung, Schuhe & Schmuck für Mädchen",
-        "Spain": "Ropa, zapatos y joyería para chicas",
-        "France": "Vêtements, chaussures et bijoux pour filles",
-        "Italy": "Abbigliamento, scarpe e gioielli da ragazza",
-        "Mexico": "Ropa, zapatos y joyería para niñas",
-        "UK": "Girl's Clothing, Shoes and Jewellery",
-        "USA": "Girl's Clothing, Shoes & Jewelry"
-      }
-    }
-  },
   "CAT_00035": {
     "id": "CAT_00035",
     "key": "fashion-luggage",
@@ -1145,31 +1086,6 @@
       "markets": {
         "Japan": "クレジットカード",
         "USA": "Credit and Payment Cards"
-      }
-    }
-  },
-  "CAT_00039": {
-    "id": "CAT_00039",
-    "key": "food-beverage",
-    "translations": {
-      "ja": "食品・飲料・お酒",
-      "en": "Food, Beverages & Alcohol",
-      "de": "Lebensmittel, Getränke & Alkohol",
-      "fr": "Alimentation, boissons et alcool",
-      "it": "Alimenti, Bevande e Alcolici",
-      "es": "Alimentos, bebidas y licores",
-      "pt": "Alimentos, Bebidas e Álcool",
-      "nl": "Voedsel, Dranken & Alcohol",
-      "sv": "Mat, dryck och alkohol",
-      "pl": "Żywność, napoje i alkohol",
-      "tr": "Gıda, İçecek ve Alkollü İçecekler",
-      "ar": "الأغذية والمشروبات والكحوليات"
-    },
-    "amazon": {
-      "search_alias": "food-beverage",
-      "full_value": "search-alias=food-beverage",
-      "markets": {
-        "Japan": "食品・飲料・お酒"
       }
     }
   },
@@ -1427,32 +1343,6 @@
         "Mexico": "Hecho a mano",
         "UK": "Handmade",
         "USA": "Handmade"
-      }
-    }
-  },
-  "CAT_00048": {
-    "id": "CAT_00048",
-    "key": "hi",
-    "translations": {
-      "pt": "Ferramentas e Materiais de Construção",
-      "es": "Herramientas y Mejoras del Hogar",
-      "en": "Tools & Building Materials",
-      "de": "Werkzeuge und Baumaterialien",
-      "fr": "Outils et matériaux de construction",
-      "it": "Utensili e Materiali per l'Edilizia",
-      "ja": "工具・建築資材",
-      "nl": "Gereedschap en Bouwmaterialen",
-      "sv": "Verktyg och byggmaterial",
-      "pl": "Narzędzia i materiały budowlane",
-      "tr": "Aletler ve İnşaat Malzemeleri",
-      "ar": "أدوات ومواد البناء"
-    },
-    "amazon": {
-      "search_alias": "hi",
-      "full_value": "search-alias=hi",
-      "markets": {
-        "Brazil": "Ferramentas e Materiais de Construção",
-        "Mexico": "Herramientas y Mejoras del Hogar"
       }
     }
   },
@@ -1790,32 +1680,6 @@
         "Germany": "Home & Business Services",
         "UK": "Home & Business Services",
         "USA": "Home & Business Services"
-      }
-    }
-  },
-  "CAT_00062": {
-    "id": "CAT_00062",
-    "key": "luggage",
-    "translations": {
-      "en": "Luggage & Bags",
-      "fr": "Bagages",
-      "de": "Gepäck & Taschen",
-      "it": "Valigie e Borse",
-      "es": "Equipaje y Bolsos",
-      "ja": "かばん・バッグ",
-      "pt": "Mala e Bolsas",
-      "nl": "Bagage & Tassen",
-      "sv": "Resväskor & Väskor",
-      "pl": "Bagaże i torby",
-      "tr": "Bavul ve Çantalar",
-      "ar": "الحقائب والأمتعة"
-    },
-    "amazon": {
-      "search_alias": "luggage",
-      "full_value": "search-alias=luggage",
-      "markets": {
-        "Belgium": "Bagages",
-        "India": "Luggage & Bags"
       }
     }
   },
