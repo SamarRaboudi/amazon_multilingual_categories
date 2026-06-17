@@ -1132,39 +1132,6 @@
       }
     }
   },
-  "CAT_00050": {
-    "id": "CAT_00050",
-    "key": "home",
-    "translations": {
-      "en": "Home",
-      "pt": "Casa",
-      "nl": "Wonen en keuken",
-      "sv": "Hem & kök",
-      "pl": "Dom i kuchnia",
-      "tr": "Ev",
-      "ar": "منتجات المنزل",
-      "de": "Haushalt",
-      "fr": "Maison",
-      "it": "Casa",
-      "es": "Hogar",
-      "ja": "ホーム＆キッチン"
-    },
-    "amazon": {
-      "search_alias": "home",
-      "full_value": "search-alias=home",
-      "markets": {
-        "Australia": "Home",
-        "Brazil": "Casa",
-        "Egypt": "منتجات المنزل",
-        "Netherlands": "Wonen en keuken",
-        "Poland": "Dom i kuchnia",
-        "Saudi Arabia": "منتجات المنزل",
-        "Sweden": "Hem & kök",
-        "Singapore": "Home",
-        "Turkey": "Ev"
-      }
-    }
-  },
   "CAT_00051": {
     "id": "CAT_00051",
     "key": "home-improvement",
