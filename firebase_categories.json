@@ -681,37 +681,6 @@
       }
     }
   },
-  "CAT_00025": {
-    "id": "CAT_00025",
-    "key": "diy",
-    "translations": {
-      "en": "DIY & Tools",
-      "de": "Baumarkt",
-      "fr": "Bricolage",
-      "it": "Fai da te",
-      "es": "Bricolaje y herramientas",
-      "ja": "DIY、工具、ガーデニング",
-      "tr": "Yapı Market",
-      "pt": "Faça Você Mesmo e Ferramentas",
-      "nl": "Doe-het-zelf & Gereedschap",
-      "sv": "Gör det själv & Verktyg",
-      "pl": "Majsterkowanie i narzędzia",
-      "ar": "الأدوات وأعمال الصيانة المنزلية"
-    },
-    "amazon": {
-      "search_alias": "diy",
-      "full_value": "search-alias=diy",
-      "markets": {
-        "Germany": "Baumarkt",
-        "Spain": "Bricolaje y herramientas",
-        "France": "Bricolage",
-        "Italy": "Fai da te",
-        "Japan": "DIY、工具、ガーデニング",
-        "Turkey": "Yapı Market",
-        "UK": "DIY & Tools"
-      }
-    }
-  },
   "CAT_00026": {
     "id": "CAT_00026",
     "key": "drugstore",
@@ -815,31 +784,6 @@
         "Turkey": "Elektronik",
         "UK": "Electronics & Photo",
         "USA": "Electronics"
-      }
-    }
-  },
-  "CAT_00029": {
-    "id": "CAT_00029",
-    "key": "english-books",
-    "translations": {
-      "ja": "洋書",
-      "en": "Foreign Books",
-      "de": "Fremdsprachige Bücher",
-      "fr": "Livres étrangers",
-      "it": "Libri in lingua straniera",
-      "es": "Libros en idiomas extranjeros",
-      "pt": "Livros em Língua Estrangeira",
-      "nl": "Engelstalige boeken",
-      "sv": "Utländska böcker",
-      "pl": "Książki w językach obcych",
-      "tr": "Yabancı Kitaplar",
-      "ar": "الكتب الأجنبية"
-    },
-    "amazon": {
-      "search_alias": "english-books",
-      "full_value": "search-alias=english-books",
-      "markets": {
-        "Japan": "洋書"
       }
     }
   },
@@ -2337,33 +2281,6 @@
         "France": "Ventes Flash",
         "India": "Deals",
         "UK": "Deals"
-      }
-    }
-  },
-  "CAT_00094": {
-    "id": "CAT_00094",
-    "key": "tools",
-    "translations": {
-      "en": "Tools & Home Improvement",
-      "de": "Werkzeuge & Heimwerken",
-      "fr": "Outils et Amélioration de la Maison",
-      "it": "Utensili e Fai da Te",
-      "es": "Herramientas y Mejoras para el Hogar",
-      "ja": "工具・ホームインプルーブメント",
-      "pt": "Ferramentas e Melhorias para Casa",
-      "nl": "Gereedschap & Huisverbetering",
-      "sv": "Verktyg & Hemförbättring",
-      "pl": "Narzędzia i Dom i Ogród",
-      "tr": "Aletler ve Ev Geliştirme",
-      "ar": "الأدوات وتحسين المنزل"
-    },
-    "amazon": {
-      "search_alias": "tools",
-      "full_value": "search-alias=tools",
-      "markets": {
-        "UAE": "Tools & Home Improvement",
-        "Canada": "Tools & Home Improvement",
-        "USA": "Tools & Home Improvement"
       }
     }
   },
