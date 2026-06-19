@@ -249,34 +249,6 @@
       }
     }
   },
-  "CAT_00019": {
-    "id": "CAT_00019",
-    "key": "classical",
-    "translations": {
-      "en": "Classical Music",
-      "de": "Klassik",
-      "fr": "Musique classique",
-      "ja": "クラシック",
-      "it": "Musica Classica",
-      "es": "Música clásica",
-      "pt": "Música Clássica",
-      "nl": "Klassieke Muziek",
-      "sv": "Klassisk musik",
-      "pl": "Muzyka klasyczna",
-      "tr": "Klasik Müzik",
-      "ar": "الموسيقى الكلاسيكية"
-    },
-    "amazon": {
-      "search_alias": "classical",
-      "full_value": "search-alias=classical",
-      "markets": {
-        "Germany": "Klassik",
-        "France": "Musique classique",
-        "Japan": "クラシック",
-        "UK": "Classical Music"
-      }
-    }
-  },
   "CAT_00022": {
     "id": "CAT_00022",
     "key": "dia",
