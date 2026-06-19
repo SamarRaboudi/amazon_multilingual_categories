@@ -129,32 +129,6 @@
       }
     }
   },
-  "CAT_00008": {
-    "id": "CAT_00008",
-    "key": "amazonnow",
-    "translations": {
-      "pt": "Amazon Now",
-      "es": "Amazon Now",
-      "en": "Amazon Now",
-      "de": "Amazon Now",
-      "fr": "Amazon Now",
-      "it": "Amazon Ora",
-      "ja": "アマゾンナウ",
-      "nl": "Amazon Nu",
-      "sv": "Amazon Nu",
-      "pl": "Amazon Teraz",
-      "tr": "Amazon Şimdi",
-      "ar": "أمازون الآن"
-    },
-    "amazon": {
-      "search_alias": "amazonnow",
-      "full_value": "search-alias=amazonnow",
-      "markets": {
-        "Brazil": "Amazon Now",
-        "Mexico": "Amazon Now"
-      }
-    }
-  },
   "CAT_00012": {
     "id": "CAT_00012",
     "key": "arts-crafts",
@@ -478,38 +452,6 @@
       }
     }
   },
-  "CAT_00047": {
-    "id": "CAT_00047",
-    "key": "handmade",
-    "translations": {
-      "en": "Handmade",
-      "de": "Handmade",
-      "fr": "Handmade",
-      "it": "Handmade",
-      "es": "Handmade",
-      "ja": "ハンドメイド",
-      "pt": "Artesanato",
-      "nl": "Handgemaakt",
-      "sv": "Handgjort",
-      "pl": "Rękodzieło",
-      "tr": "El Yapımı",
-      "ar": "مصنوع يدويًا"
-    },
-    "amazon": {
-      "search_alias": "handmade",
-      "full_value": "search-alias=handmade",
-      "markets": {
-        "Canada": "Handmade",
-        "Germany": "Handmade",
-        "Spain": "Handmade",
-        "France": "Handmade",
-        "Italy": "Handmade",
-        "Mexico": "Hecho a mano",
-        "UK": "Handmade",
-        "USA": "Handmade"
-      }
-    }
-  },
   "CAT_00051": {
     "id": "CAT_00051",
     "key": "home-improvement",
@@ -540,31 +482,6 @@
         "Saudi Arabia": "أدوات وتحسينات المنزل",
         "Sweden": "Bygg, el & verktyg",
         "Singapore": "Tools & Home Improvement"
-      }
-    }
-  },
-  "CAT_00057": {
-    "id": "CAT_00057",
-    "key": "knuspr",
-    "translations": {
-      "de": "Knuspr",
-      "en": "Crunchy",
-      "fr": "Knuspr",
-      "it": "Knuspr",
-      "es": "Knuspr",
-      "ja": "クヌスプル",
-      "pt": "Knuspr",
-      "nl": "Knuspr",
-      "sv": "Knaprig",
-      "pl": "Przekąski",
-      "tr": "Atıştırmalıklar",
-      "ar": "مقرمش"
-    },
-    "amazon": {
-      "search_alias": "knuspr",
-      "full_value": "search-alias=knuspr",
-      "markets": {
-        "Germany": "Knuspr"
       }
     }
   },
@@ -744,47 +661,6 @@
       }
     }
   },
-  "CAT_00087": {
-    "id": "CAT_00087",
-    "key": "software",
-    "translations": {
-      "en": "Software",
-      "de": "Software",
-      "fr": "Logiciels",
-      "it": "Software",
-      "es": "Software",
-      "ja": "PCソフト",
-      "nl": "Software",
-      "sv": "Programvara",
-      "pl": "Oprogramowanie",
-      "ar": "برمجية",
-      "pt": "Software",
-      "tr": "Yazılım"
-    },
-    "amazon": {
-      "search_alias": "software",
-      "full_value": "search-alias=software",
-      "markets": {
-        "Australia": "Software",
-        "Belgium": "Logiciels",
-        "Canada": "Software",
-        "Germany": "Software",
-        "Egypt": "برمجية",
-        "Spain": "Software",
-        "France": "Logiciels",
-        "India": "Software",
-        "Italy": "Software",
-        "Japan": "PCソフト",
-        "Mexico": "Software",
-        "Netherlands": "Software",
-        "Poland": "Oprogramowanie",
-        "Sweden": "Programvara",
-        "Singapore": "Software",
-        "UK": "Software",
-        "USA": "Software"
-      }
-    }
-  },
   "CAT_00089": {
     "id": "CAT_00089",
     "key": "sporting",
@@ -908,35 +784,6 @@
         "Singapore": "Toys and Games",
         "Turkey": "Oyuncaklar ve Oyunlar",
         "UK": "Toys & Games"
-      }
-    }
-  },
-  "CAT_00097": {
-    "id": "CAT_00097",
-    "key": "under-ten-dollars",
-    "translations": {
-      "en": "Under $10",
-      "fr": "Moins de 10€",
-      "it": "Meno di 10€",
-      "es": "Menos de 10€",
-      "de": "Unter 10 $",
-      "ja": "10ドル以下",
-      "pt": "Por menos de R$ 50",
-      "nl": "Onder €10",
-      "sv": "Under 10 dollar",
-      "pl": "Do 10 USD",
-      "tr": "10 ABD Doları Altı",
-      "ar": "أقل من 10 دولارات"
-    },
-    "amazon": {
-      "search_alias": "under-ten-dollars",
-      "full_value": "search-alias=under-ten-dollars",
-      "markets": {
-        "Spain": "Menos de 10€",
-        "France": "Moins de 10€",
-        "India": "Under ₹500",
-        "Italy": "Meno di 10€",
-        "USA": "Under $10"
       }
     }
   },
