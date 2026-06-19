@@ -2,6 +2,7 @@
   "CAT_00022": {
     "id": "CAT_00022",
     "key": "dia",
+    "icon": "ShoppingBasket",
     "translations": {
       "en": "Grocery",
       "de": "Lebensmittel",
@@ -27,6 +28,7 @@
   "CAT_00018": {
     "id": "CAT_00018",
     "key": "beauty",
+    "icon": "Sparkles",
     "translations": {
       "en": "Beauty",
       "de": "Schönheit",
@@ -72,6 +74,7 @@
   "CAT_00003": {
     "id": "CAT_00003",
     "key": "amazon-devices",
+    "icon": "Laptop",
     "translations": {
       "en": "Electronics & Technology",
       "de": "Elektronik & Technologie",
@@ -115,6 +118,7 @@
   "CAT_00030": {
     "id": "CAT_00030",
     "key": "fashion",
+    "icon": "Shirt",
     "translations": {
       "en": "Fashion",
       "de": "Mode",
@@ -160,6 +164,7 @@
   "CAT_00043": {
     "id": "CAT_00043",
     "key": "garden",
+    "icon": "House",
     "translations": {
       "en": "Home & Living",
       "de": "Wohnen & Haushalt",
@@ -197,6 +202,7 @@
   "CAT_00006": {
     "id": "CAT_00006",
     "key": "amazon-pharmacy",
+    "icon": "HeartPulse",
     "translations": {
       "en": "Health & Personal Care",
       "de": "Gesundheit & Körperpflege",
@@ -223,6 +229,7 @@
   "CAT_00004": {
     "id": "CAT_00004",
     "key": "amazon-global-store",
+    "icon": "Tag",
     "translations": {
       "en": "Deals & Offers",
       "de": "Angebote & Deals",
@@ -259,6 +266,7 @@
   "CAT_00015": {
     "id": "CAT_00015",
     "key": "baby",
+    "icon": "Baby",
     "translations": {
       "en": "Baby",
       "de": "Baby",
@@ -303,6 +311,7 @@
   "CAT_00095": {
     "id": "CAT_00095",
     "key": "toys",
+    "icon": "Gamepad2",
     "translations": {
       "en": "Toys & Games",
       "de": "Spielzeug",
@@ -347,6 +356,7 @@
   "CAT_00089": {
     "id": "CAT_00089",
     "key": "sporting",
+    "icon": "Dumbbell",
     "translations": {
       "en": "Sports & Outdoors",
       "it": "Sport e tempo libero",
@@ -384,6 +394,7 @@
   "CAT_00099": {
     "id": "CAT_00099",
     "key": "vehicles",
+    "icon": "Car",
     "translations": {
       "en": "Automotive",
       "de": "Automobil",
@@ -409,6 +420,7 @@
   "CAT_00091": {
     "id": "CAT_00091",
     "key": "stripbooks",
+    "icon": "BookOpen",
     "translations": {
       "en": "Books",
       "de": "Bücher",
@@ -454,6 +466,7 @@
   "CAT_00023": {
     "id": "CAT_00023",
     "key": "digital-music",
+    "icon": "Music",
     "translations": {
       "en": "Music",
       "de": "Musik",
@@ -487,6 +500,7 @@
   "CAT_00071": {
     "id": "CAT_00071",
     "key": "mobile-apps",
+    "icon": "Clapperboard",
     "translations": {
       "en": "Digital Entertainment",
       "de": "Digitale Unterhaltung",
@@ -522,6 +536,7 @@
   "CAT_00060": {
     "id": "CAT_00060",
     "key": "littlefarms",
+    "icon": "Leaf",
     "translations": {
       "en": "Garden & Outdoor",
       "de": "Garten & Outdoor",
@@ -547,6 +562,7 @@
   "CAT_00051": {
     "id": "CAT_00051",
     "key": "home-improvement",
+    "icon": "Wrench",
     "translations": {
       "en": "Tools & DIY",
       "nl": "Klussen & Gereedschap",
@@ -580,6 +596,7 @@
   "CAT_00076": {
     "id": "CAT_00076",
     "key": "office-products",
+    "icon": "BriefcaseBusiness",
     "translations": {
       "en": "Office Products",
       "de": "Bürobedarf & Schreibwaren",
@@ -625,6 +642,7 @@
   "CAT_00012": {
     "id": "CAT_00012",
     "key": "arts-crafts",
+    "icon": "Palette",
     "translations": {
       "en": "Arts & Crafts",
       "nl": "Kunst & Hobby",
@@ -656,6 +674,7 @@
   "CAT_00080": {
     "id": "CAT_00080",
     "key": "pets",
+    "icon": "PawPrint",
     "translations": {
       "en": "Pet Supplies",
       "de": "Haustier",
@@ -701,6 +720,7 @@
   "CAT_00035": {
     "id": "CAT_00035",
     "key": "fashion-luggage",
+    "icon": "Luggage",
     "translations": {
       "en": "Travel & Luggage",
       "de": "Reise & Gepäck",
@@ -736,6 +756,7 @@
   "CAT_00001": {
     "id": "CAT_00001",
     "key": "alcohol",
+    "icon": "Wine",
     "translations": {
       "en": "Wine and Spirits",
       "de": "Wein und Spirituosen",
@@ -761,6 +782,7 @@
   "CAT_00069": {
     "id": "CAT_00069",
     "key": "misc",
+    "icon": "Grid2X2",
     "translations": {
       "es": "Otros Productos",
       "nl": "Overig",
