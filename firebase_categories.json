@@ -3,19 +3,57 @@
     "id": "CAT_00022",
     "key": "dia",
     "icon": "ShoppingBasket",
+    "image": "https://storage.googleapis.com/categories-images-bucket/grocery.jpg",
+    "theme": "green",
     "translations": {
-      "en": "Grocery",
-      "de": "Lebensmittel",
-      "fr": "Épicerie",
-      "it": "Alimentari",
-      "es": "Comestibles",
-      "ja": "食品・食料品",
-      "pt": "Mercearia",
-      "nl": "Boodschappen",
-      "sv": "Livsmedel",
-      "pl": "Artykuły spożywcze",
-      "tr": "Market Alışverişi",
-      "ar": "البقالة"
+      "en": {
+        "name": "Grocery",
+        "description": "Everyday groceries & specialty foods."
+      },
+      "de": {
+        "name": "Lebensmittel",
+        "description": "Lebensmittel für den täglichen Bedarf und Spezialitäten."
+      },
+      "fr": {
+        "name": "Épicerie",
+        "description": "Produits alimentaires du quotidien et spécialités."
+      },
+      "it": {
+        "name": "Alimentari",
+        "description": "Generi alimentari quotidiani e specialità alimentari."
+      },
+      "es": {
+        "name": "Comestibles",
+        "description": "Productos de alimentación diaria y alimentos especiales."
+      },
+      "ja": {
+        "name": "食品・食料品",
+        "description": "日常の食料品や特別な食品。"
+      },
+      "pt": {
+        "name": "Mercearia",
+        "description": "Mantimentos do dia a dia e alimentos especiais."
+      },
+      "nl": {
+        "name": "Boodschappen",
+        "description": "Dagelijkse boodschappen en speciale voedingsmiddelen."
+      },
+      "sv": {
+        "name": "Livsmedel",
+        "description": "Dagliga livsmedel och specialprodukter."
+      },
+      "pl": {
+        "name": "Artykuły spożywcze",
+        "description": "Codzienne produkty spożywcze i żywność specjalistyczna."
+      },
+      "tr": {
+        "name": "Market Alışverişi",
+        "description": "Günlük market ürünleri ve özel gıdalar."
+      },
+      "ar": {
+        "name": "البقالة",
+        "description": ".مواد غذائية يومية وأطعمة متخصصة"
+      }
     },
     "amazon": {
       "search_alias": "dia",
@@ -25,69 +63,143 @@
       }
     }
   },
-  "CAT_00018": {
-    "id": "CAT_00018",
-    "key": "beauty",
-    "icon": "Sparkles",
-    "translations": {
-      "en": "Beauty",
-      "de": "Schönheit",
-      "fr": "Beauté",
-      "it": "Bellezza",
-      "es": "Belleza",
-      "ja": "ビューティー",
-      "pt": "Beleza",
-      "nl": "Beauty",
-      "sv": "Skönhet",
-      "pl": "Uroda",
-      "tr": "Güzellik",
-      "ar": "الجمال"
+ "id": "CAT_00018",
+  "key": "beauty",
+  "icon": "Sparkles",
+  "image": "https://storage.googleapis.com/categories-images-bucket/beauty.jpg",
+  "theme": "pink",
+  "translations": {
+    "en": {
+      "name": "Beauty",
+      "description": "Cosmetics, skincare & global beauty trends."
     },
-    "amazon": {
-      "search_alias": "beauty",
-      "full_value": "search-alias=beauty",
-      "markets": {
-        "UAE": "Beauty & Personal Care",
-        "Australia": "Beauty",
-        "Belgium": "Beauté",
-        "Brazil": "Beleza",
-        "Canada": "Beauty",
-        "Germany": "Kosmetik",
-        "Egypt": "الجمال والعناية الشخصية",
-        "Spain": "Belleza",
-        "France": "Beauté et Parfum",
-        "India": "Beauty",
-        "Italy": "Bellezza",
-        "Japan": "ビューティー",
-        "Mexico": "Belleza",
-        "Netherlands": "Beauty en persoonlijke verzorging",
-        "Poland": "Uroda",
-        "Saudi Arabia": "الجمال والعناية الشخصية",
-        "Sweden": "Skönhet & kroppsvård",
-        "Singapore": "Beauty & Personal Care",
-        "Turkey": "Kişisel Bakım ve Kozmetik",
-        "UK": "Beauty",
-        "USA": "Beauty & Personal Care"
-      }
+    "de": {
+      "name": "Schönheit",
+      "description": "Kosmetik, Hautpflege und internationale Schönheitstrends."
+    },
+    "fr": {
+      "name": "Beauté",
+      "description": "Cosmétiques, soins de la peau et tendances beauté du monde entier."
+    },
+    "it": {
+      "name": "Bellezza",
+      "description": "Cosmetici, cura della pelle e tendenze beauty globali."
+    },
+    "es": {
+      "name": "Belleza",
+      "description": "Cosméticos, cuidado de la piel y tendencias de belleza globales."
+    },
+    "ja": {
+      "name": "ビューティー",
+      "description": "化粧品、スキンケア、世界の美容トレンド。"
+    },
+    "pt": {
+      "name": "Beleza",
+      "description": "Cosméticos, cuidados com a pele e tendências globais de beleza."
+    },
+    "nl": {
+      "name": "Beauty",
+      "description": "Cosmetica, huidverzorging en wereldwijde schoonheidstrends."
+    },
+    "sv": {
+      "name": "Skönhet",
+      "description": "Kosmetika, hudvård och globala skönhetstrender."
+    },
+    "pl": {
+      "name": "Uroda",
+      "description": "Kosmetyki, pielęgnacja skóry i światowe trendy urodowe."
+    },
+    "tr": {
+      "name": "Güzellik",
+      "description": "Kozmetik, cilt bakımı ve küresel güzellik trendleri."
+    },
+    "ar": {
+      "name": "الجمال",
+      "description": ".مستحضرات التجميل والعناية بالبشرة واتجاهات الجمال العالمية"
+    }
+  },
+  "amazon": {
+    "search_alias": "beauty",
+    "full_value": "search-alias=beauty",
+    "markets": {
+      "UAE": "Beauty & Personal Care",
+      "Australia": "Beauty",
+      "Belgium": "Beauté",
+      "Brazil": "Beleza",
+      "Canada": "Beauty",
+      "Germany": "Kosmetik",
+      "Egypt": "الجمال والعناية الشخصية",
+      "Spain": "Belleza",
+      "France": "Beauté et Parfum",
+      "India": "Beauty",
+      "Italy": "Bellezza",
+      "Japan": "ビューティー",
+      "Mexico": "Belleza",
+      "Netherlands": "Beauty en persoonlijke verzorging",
+      "Poland": "Uroda",
+      "Saudi Arabia": "الجمال والعناية الشخصية",
+      "Sweden": "Skönhet & kroppsvård",
+      "Singapore": "Beauty & Personal Care",
+      "Turkey": "Kişisel Bakım ve Kozmetik",
+      "UK": "Beauty",
+      "USA": "Beauty & Personal Care"
     }
   },
   "CAT_00003": {
     "id": "CAT_00003",
     "key": "amazon-devices",
     "icon": "Laptop",
+    "image": "https://storage.googleapis.com/categories-images-bucket/electronics.png",
+    "theme": "blue",
     "translations": {
-      "en": "Electronics & Technology",
-      "de": "Elektronik & Technologie",
-      "fr": "Électronique et Technologie",
-      "it": "Elettronica e Tecnologia",
-      "es": "Electrónica y Tecnología",
-      "ja": "電子機器・テクノロジー",
-      "pt": "Eletrônicos e Tecnologia",
-      "nl": "Elektronica & Technologie",
-      "sv": "Elektronik & Teknik",
-      "pl": "Elektronika i Technologia",
-      "ar": "الإلكترونيات والتقنية",
-      "tr": "Elektronik ve Teknoloji"
+      "en": {
+        "name": "Electronics & Technology",
+        "description": "Gadgets, accessories & cutting-edge tech."
+      },
+      "de": {
+        "name": "Elektronik & Technologie",
+        "description": "Gadgets, Zubehör und modernste Technologie."
+      },
+      "fr": {
+        "name": "Électronique et Technologie",
+        "description": "Gadgets, accessoires et technologies de pointe."
+      },
+      "it": {
+        "name": "Elettronica e Tecnologia",
+        "description": "Gadget, accessori e tecnologie all'avanguardia."
+      },
+      "es": {
+        "name": "Electrónica y Tecnología",
+        "description": "Dispositivos, accesorios y tecnología de vanguardia."
+      },
+      "ja": {
+        "name": "電子機器・テクノロジー",
+        "description": "ガジェット、アクセサリー、最先端テクノロジー。"
+      },
+      "pt": {
+        "name": "Eletrônicos e Tecnologia",
+        "description": "Gadgets, acessórios e tecnologia de ponta."
+      },
+      "nl": {
+        "name": "Elektronica & Technologie",
+        "description": "Gadgets, accessoires en geavanceerde technologie."
+      },
+      "sv": {
+        "name": "Elektronik & Teknik",
+        "description": "Prylar, tillbehör och den senaste tekniken."
+      },
+      "pl": {
+        "name": "Elektronika i Technologia",
+        "description": "Gadżety, akcesoria i najnowocześniejsza technologia."
+      },
+      "tr": {
+        "name": "Elektronik ve Teknoloji",
+        "description": "Gadget'lar, aksesuarlar ve en son teknoloji ürünleri."
+      },
+      "ar": {
+        "name": "الإلكترونيات والتقنية",
+        "description": "الأجهزة الذكية والملحقات وأحدث التقنيات."
+      }
     },
     "amazon": {
       "search_alias": "amazon-devices",
@@ -119,20 +231,58 @@
     "id": "CAT_00030",
     "key": "fashion",
     "icon": "Shirt",
-    "translations": {
-      "en": "Fashion",
-      "de": "Mode",
-      "fr": "Mode",
-      "it": "Moda",
-      "es": "Moda",
-      "ja": "ファッション",
-      "pt": "Moda",
-      "nl": "Mode",
-      "sv": "Mode",
-      "pl": "Moda",
-      "tr": "Moda",
-      "ar": "الأزياء"
-    },
+    "image": "https://storage.googleapis.com/categories-images-bucket/fashion.jpeg",
+    "theme": "purple",
+      "translations": {
+        "en": {
+          "name": "Fashion",
+          "description": "Clothing, accessories & international fashion finds."
+        },
+        "de": {
+          "name": "Mode",
+          "description": "Kleidung, Accessoires und internationale Modetrends."
+        },
+        "fr": {
+          "name": "Mode",
+          "description": "Vêtements, accessoires et trouvailles mode du monde entier."
+        },
+        "it": {
+          "name": "Moda",
+          "description": "Abbigliamento, accessori e tendenze moda internazionali."
+        },
+        "es": {
+          "name": "Moda",
+          "description": "Ropa, accesorios y descubrimientos de moda internacionales."
+        },
+        "ja": {
+          "name": "ファッション",
+          "description": "衣類、アクセサリー、世界のファッショントレンド。"
+        },
+        "pt": {
+          "name": "Moda",
+          "description": "Roupas, acessórios e tendências da moda internacional."
+        },
+        "nl": {
+          "name": "Mode",
+          "description": "Kleding, accessoires en internationale modevondsten."
+        },
+        "sv": {
+          "name": "Mode",
+          "description": "Kläder, accessoarer och internationella modetrender."
+        },
+        "pl": {
+          "name": "Moda",
+          "description": "Odzież, akcesoria i międzynarodowe trendy modowe."
+        },
+        "tr": {
+          "name": "Moda",
+          "description": "Giyim, aksesuarlar ve uluslararası moda trendleri."
+        },
+        "ar": {
+          "name": "الأزياء",
+          "description": "الملابس والإكسسوارات وأحدث صيحات الموضة العالمية."
+        }
+      },
     "amazon": {
       "search_alias": "fashion",
       "full_value": "search-alias=fashion",
@@ -165,19 +315,57 @@
     "id": "CAT_00043",
     "key": "garden",
     "icon": "House",
+    "image": "https://storage.googleapis.com/categories-images-bucket/home.jpg",
+    "theme": "green",
     "translations": {
-      "en": "Home & Living",
-      "de": "Wohnen & Haushalt",
-      "fr": "Maison & Vie quotidienne",
-      "it": "Casa e Vita",
-      "pt": "Casa e Estilo de Vida",
-      "es": "Hogar y Estilo de Vida",
-      "sv": "Hem & Livsstil",
-      "pl": "Dom i Styl Życia",
-      "tr": "Ev ve Yaşam",
-      "ar": "المنزل ونمط الحياة",
-      "ja": "ホーム・ライフスタイル",
-      "nl": "Wonen & Leven"
+      "en": {
+        "name": "Home & Living",
+        "description": "Home décor, kitchen items & everyday essentials."
+      },
+      "de": {
+        "name": "Wohnen & Haushalt",
+        "description": "Wohnaccessoires, Küchenartikel und Alltagsbedarf."
+      },
+      "fr": {
+        "name": "Maison & Vie quotidienne",
+        "description": "Décoration intérieure, articles de cuisine et essentiels du quotidien."
+      },
+      "it": {
+        "name": "Casa e Vita",
+        "description": "Arredamento, articoli per la cucina e prodotti essenziali per la vita quotidiana."
+      },
+      "pt": {
+        "name": "Casa e Estilo de Vida",
+        "description": "Decoração, artigos de cozinha e produtos essenciais do dia a dia."
+      },
+      "es": {
+        "name": "Hogar y Estilo de Vida",
+        "description": "Decoración del hogar, artículos de cocina y productos esenciales."
+      },
+      "sv": {
+        "name": "Hem & Livsstil",
+        "description": "Heminredning, köksartiklar och vardagliga produkter."
+      },
+      "pl": {
+        "name": "Dom i Styl Życia",
+        "description": "Wystrój domu, artykuły kuchenne i codzienne niezbędne produkty."
+      },
+      "tr": {
+        "name": "Ev ve Yaşam",
+        "description": "Ev dekorasyonu, mutfak ürünleri ve günlük ihtiyaçlar."
+      },
+      "ar": {
+        "name": "المنزل ونمط الحياة",
+        "description": ".ديكور المنزل وأدوات المطبخ والاحتياجات اليومية"
+      },
+      "ja": {
+        "name": "ホーム・ライフスタイル",
+        "description": "ホームインテリア、キッチン用品、日用品。"
+      },
+      "nl": {
+        "name": "Wonen & Leven",
+        "description": "Woondecoratie, keukenartikelen en dagelijkse benodigdheden."
+      }
     },
     "amazon": {
       "search_alias": "garden",
@@ -203,19 +391,57 @@
     "id": "CAT_00006",
     "key": "amazon-pharmacy",
     "icon": "HeartPulse",
+    "image": "https://storage.googleapis.com/categories-images-bucket/health.jpeg",
+    "theme": "green",
     "translations": {
-      "en": "Health & Personal Care",
-      "de": "Gesundheit & Körperpflege",
-      "fr": "Santé et Soins personnels",
-      "it": "Salute e Cura della Persona",
-      "es": "Salud y Cuidado Personal",
-      "ja": "ヘルスケア・パーソナルケア",
-      "pt": "Saúde e Cuidados Pessoais",
-      "nl": "Gezondheid & Persoonlijke Verzorging",
-      "sv": "Hälsa & Personlig vård",
-      "pl": "Zdrowie i Higiena Osobista",
-      "tr": "Sağlık ve Kişisel Bakım",
-      "ar": "الصحة والعناية الشخصية"
+      "en": {
+        "name": "Health & Personal Care",
+        "description": "Wellness products, supplements & personal care."
+      },
+      "de": {
+        "name": "Gesundheit & Körperpflege",
+        "description": "Wellnessprodukte, Nahrungsergänzungsmittel und Körperpflege."
+      },
+      "fr": {
+        "name": "Santé et Soins personnels",
+        "description": "Produits de bien-être, compléments alimentaires et soins personnels."
+      },
+      "it": {
+        "name": "Salute e Cura della Persona",
+        "description": "Prodotti per il benessere, integratori e cura della persona."
+      },
+      "es": {
+        "name": "Salud y Cuidado Personal",
+        "description": "Productos de bienestar, suplementos y cuidado personal."
+      },
+      "ja": {
+        "name": "ヘルスケア・パーソナルケア",
+        "description": "健康用品、サプリメント、パーソナルケア用品。"
+      },
+      "pt": {
+        "name": "Saúde e Cuidados Pessoais",
+        "description": "Produtos de bem-estar, suplementos e cuidados pessoais."
+      },
+      "nl": {
+        "name": "Gezondheid & Persoonlijke Verzorging",
+        "description": "Wellnessproducten, supplementen en persoonlijke verzorging."
+      },
+      "sv": {
+        "name": "Hälsa & Personlig vård",
+        "description": "Hälsoprodukter, kosttillskott och personlig vård."
+      },
+      "pl": {
+        "name": "Zdrowie i Higiena Osobista",
+        "description": "Produkty zdrowotne, suplementy i pielęgnacja osobista."
+      },
+      "tr": {
+        "name": "Sağlık ve Kişisel Bakım",
+        "description": "Sağlık ürünleri, takviyeler ve kişisel bakım ürünleri."
+      },
+      "ar": {
+        "name": "الصحة والعناية الشخصية",
+        "description": "منتجات العافية والمكملات الغذائية والعناية الشخصية."
+      }
     },
     "amazon": {
       "search_alias": "amazon-pharmacy",
@@ -230,19 +456,57 @@
     "id": "CAT_00004",
     "key": "amazon-global-store",
     "icon": "Tag",
+    "image": "",
+    "theme": "orange",
     "translations": {
-      "en": "Deals & Offers",
-      "de": "Angebote & Deals",
-      "fr": "Offres & Bons plans",
-      "it": "Offerte & Promozioni",
-      "es": "Ofertas y Promociones",
-      "ja": "セール・お得情報",
-      "ar": "العروض والصفقات",
-      "pt": "Ofertas e Promoções",
-      "nl": "Aanbiedingen & Deals",
-      "sv": "Erbjudanden & Kampanjer",
-      "pl": "Oferty i Promocje",
-      "tr": "Teklifler ve Fırsatlar"
+      "en": {
+        "name": "Deals & Offers",
+        "description": "Special offers, discounts and limited-time deals."
+      },
+      "de": {
+        "name": "Angebote & Deals",
+        "description": "Sonderangebote, Rabatte und zeitlich begrenzte Aktionen."
+      },
+      "fr": {
+        "name": "Offres & Bons plans",
+        "description": "Offres spéciales, réductions et bonnes affaires limitées."
+      },
+      "it": {
+        "name": "Offerte & Promozioni",
+        "description": "Offerte speciali, sconti e promozioni a tempo limitato."
+      },
+      "es": {
+        "name": "Ofertas y Promociones",
+        "description": "Ofertas especiales, descuentos y promociones por tiempo limitado."
+      },
+      "ja": {
+        "name": "セール・お得情報",
+        "description": "特別オファー、割引、期間限定のお得な商品。"
+      },
+      "ar": {
+        "name": "العروض والصفقات",
+        "description": "عروض خاصة وخصومات وصفقات لفترة محدودة."
+      },
+      "pt": {
+        "name": "Ofertas e Promoções",
+        "description": "Ofertas especiais, descontos e promoções por tempo limitado."
+      },
+      "nl": {
+        "name": "Aanbiedingen & Deals",
+        "description": "Speciale aanbiedingen, kortingen en tijdelijke deals."
+      },
+      "sv": {
+        "name": "Erbjudanden & Kampanjer",
+        "description": "Specialerbjudanden, rabatter och tidsbegränsade kampanjer."
+      },
+      "pl": {
+        "name": "Oferty i Promocje",
+        "description": "Specjalne oferty, rabaty i promocje ograniczone czasowo."
+      },
+      "tr": {
+        "name": "Teklifler ve Fırsatlar",
+        "description": "Özel teklifler, indirimler ve sınırlı süreli fırsatlar."
+      }
     },
     "amazon": {
       "search_alias": "amazon-global-store",
@@ -267,19 +531,57 @@
     "id": "CAT_00015",
     "key": "baby",
     "icon": "Baby",
+    "image": "https://storage.googleapis.com/categories-images-bucket/baby.jpg",
+    "theme": "blue",
     "translations": {
-      "en": "Baby",
-      "de": "Baby",
-      "fr": "Bébés & Puériculture",
-      "it": "Prima infanzia",
-      "es": "Bebé",
-      "ja": "ベビー&マタニティ",
-      "pt": "Bebês",
-      "nl": "Babyproducten",
-      "sv": "Babyprodukter",
-      "pl": "Dziecko",
-      "tr": "Bebek",
-      "ar": "طفل"
+      "en": {
+        "name": "Baby",
+        "description": "Baby essentials, toys & care products."
+      },
+      "de": {
+        "name": "Baby",
+        "description": "Babybedarf, Spielzeug und Pflegeprodukte."
+      },
+      "fr": {
+        "name": "Bébés & Puériculture",
+        "description": "Produits essentiels pour bébé, jouets et soins."
+      },
+      "it": {
+        "name": "Prima infanzia",
+        "description": "Prodotti per neonati, giocattoli e articoli per la cura."
+      },
+      "es": {
+        "name": "Bebé",
+        "description": "Productos esenciales para bebés, juguetes y cuidado infantil."
+      },
+      "ja": {
+        "name": "ベビー&マタニティ",
+        "description": "ベビー用品、おもちゃ、ケア用品。"
+      },
+      "pt": {
+        "name": "Bebês",
+        "description": "Produtos essenciais para bebês, brinquedos e cuidados."
+      },
+      "nl": {
+        "name": "Babyproducten",
+        "description": "Babybenodigdheden, speelgoed en verzorgingsproducten."
+      },
+      "sv": {
+        "name": "Babyprodukter",
+        "description": "Babyartiklar, leksaker och vårdprodukter."
+      },
+      "pl": {
+        "name": "Dziecko",
+        "description": "Artykuły dla niemowląt, zabawki i produkty pielęgnacyjne."
+      },
+      "tr": {
+        "name": "Bebek",
+        "description": "Bebek ihtiyaçları, oyuncaklar ve bakım ürünleri."
+      },
+      "ar": {
+        "name": "طفل",
+        "description": "مستلزمات الأطفال والألعاب ومنتجات العناية."
+      }
     },
     "amazon": {
       "search_alias": "baby",
@@ -312,19 +614,57 @@
     "id": "CAT_00095",
     "key": "toys",
     "icon": "Gamepad2",
+    "image": "https://storage.googleapis.com/categories-images-bucket/games.jpg",
+    "theme": "purple",
     "translations": {
-      "en": "Toys & Games",
-      "de": "Spielzeug",
-      "fr": "Jeux et Jouets",
-      "it": "Giochi e giocattoli",
-      "es": "Juguetes y juegos",
-      "ja": "玩具",
-      "pt": "Brinquedos e Jogos",
-      "nl": "Speelgoed en spellen",
-      "sv": "Leksaker & spel",
-      "pl": "Zabawki i gry",
-      "tr": "Oyuncaklar ve Oyunlar",
-      "ar": "الألعاب والدمى"
+      "en": {
+        "name": "Toys & Games",
+        "description": "Video games, consoles & gaming accessories."
+      },
+      "de": {
+        "name": "Spielzeug",
+        "description": "Videospiele, Konsolen und Gaming-Zubehör."
+      },
+      "fr": {
+        "name": "Jeux et Jouets",
+        "description": "Jeux vidéo, consoles et accessoires de gaming."
+      },
+      "it": {
+        "name": "Giochi e giocattoli",
+        "description": "Videogiochi, console e accessori per il gaming."
+      },
+      "es": {
+        "name": "Juguetes y juegos",
+        "description": "Videojuegos, consolas y accesorios gaming."
+      },
+      "ja": {
+        "name": "玩具",
+        "description": "ビデオゲーム、ゲーム機、ゲーミングアクセサリー。"
+      },
+      "pt": {
+        "name": "Brinquedos e Jogos",
+        "description": "Videojogos, consoles e acessórios para jogos."
+      },
+      "nl": {
+        "name": "Speelgoed en spellen",
+        "description": "Videogames, consoles en gamingaccessoires."
+      },
+      "sv": {
+        "name": "Leksaker & spel",
+        "description": "TV-spel, konsoler och speltillbehör."
+      },
+      "pl": {
+        "name": "Zabawki i gry",
+        "description": "Gry wideo, konsole i akcesoria gamingowe."
+      },
+      "tr": {
+        "name": "Oyuncaklar ve Oyunlar",
+        "description": "Video oyunları, konsollar ve oyun aksesuarları."
+      },
+      "ar": {
+        "name": "الألعاب والدمى",
+        "description": "ألعاب الفيديو ووحدات التحكم وملحقات الألعاب."
+      }
     },
     "amazon": {
       "search_alias": "toys",
@@ -357,19 +697,57 @@
     "id": "CAT_00089",
     "key": "sporting",
     "icon": "Dumbbell",
+    "image": "https://storage.googleapis.com/categories-images-bucket/sports.jpg",
+    "theme": "orange",
     "translations": {
-      "en": "Sports & Outdoors",
-      "it": "Sport e tempo libero",
-      "es": "Deportes y aire libre",
-      "ja": "スポーツ&アウトドア",
-      "pt": "Esportes e Aventura",
-      "sv": "Sport & outdoor",
-      "pl": "Sport i turystyka",
-      "fr": "Sports & Loisirs",
-      "de": "Sport & Freizeit",
-      "nl": "Sport & Outdoor",
-      "tr": "Spor & Açık Hava",
-      "ar": "الرياضة والأنشطة الخارجية"
+      "en": {
+        "name": "Sports & Outdoors",
+        "description": "Sports gear, fitness equipment & active lifestyle items."
+      },
+      "it": {
+        "name": "Sport e tempo libero",
+        "description": "Attrezzatura sportiva, fitness e prodotti per uno stile di vita attivo."
+      },
+      "es": {
+        "name": "Deportes y aire libre",
+        "description": "Equipamiento deportivo, fitness y artículos per uno stile di vita attivo."
+      },
+      "ja": {
+        "name": "スポーツ&アウトドア",
+        "description": "スポーツ用品、フィットネス機器、アクティブライフスタイル用品。"
+      },
+      "pt": {
+        "name": "Esportes e Aventura",
+        "description": "Equipamentos esportivos, fitness e produtos para um estilo de vida ativo."
+      },
+      "sv": {
+        "name": "Sport & outdoor",
+        "description": "Sportutrustning, träningsprodukter och aktiv livsstil."
+      },
+      "pl": {
+        "name": "Sport i turystyka",
+        "description": "Sprzęt sportowy, fitness i produkty dla aktywnego stylu życia."
+      },
+      "fr": {
+        "name": "Sports & Loisirs",
+        "description": "Équipements sportifs, fitness et articles pour un mode de vie actif."
+      },
+      "de": {
+        "name": "Sport & Freizeit",
+        "description": "Sportausrüstung, Fitnessgeräte und Produkte für einen aktiven Lebensstil."
+      },
+      "nl": {
+        "name": "Sport & Outdoor",
+        "description": "Sportartikelen, fitnessapparatuur en producten voor een actieve levensstijl."
+      },
+      "tr": {
+        "name": "Spor & Açık Hava",
+        "description": "Spor ekipmanları, fitness ürünleri ve aktif yaşam ürünleri."
+      },
+      "ar": {
+        "name": "الرياضة والأنشطة الخارجية",
+        "description": ".معدات رياضية وأدوات اللياقة ومنتجات أسلوب الحياة النشط"
+      }
     },
     "amazon": {
       "search_alias": "sporting",
@@ -395,19 +773,58 @@
     "id": "CAT_00099",
     "key": "vehicles",
     "icon": "Car",
+    "description": "Automotive tools & vehicle accessories.",
+    "image": "https://storage.googleapis.com/categories-images-bucket/vehicles.jpg",
+    "theme": "gray",
     "translations": {
-      "en": "Automotive",
-      "de": "Automobil",
-      "fr": "Automobile",
-      "it": "Automotive",
-      "es": "Automoción",
-      "ja": "自動車・カー用品",
-      "pt": "Automotivo",
-      "nl": "Auto & Voertuigen",
-      "sv": "Bil & Fordon",
-      "pl": "Motoryzacja",
-      "tr": "Otomotiv",
-      "ar": "السيارات"
+      "en": {
+        "name": "Automotive",
+        "description": "Automotive tools & vehicle accessories."
+      },
+      "de": {
+        "name": "Automobil",
+        "description": "Autowerkzeuge und Fahrzeugzubehör."
+      },
+      "fr": {
+        "name": "Automobile",
+        "description": "Outils automobiles et accessoires pour véhicules."
+      },
+      "it": {
+        "name": "Automotive",
+        "description": "Strumenti per auto e accessori per veicoli."
+      },
+      "es": {
+        "name": "Automoción",
+        "description": "Herramientas para automóviles y accesorios para vehículos."
+      },
+      "ja": {
+        "name": "自動車・カー用品",
+        "description": "自動車工具、車両アクセサリー。"
+      },
+      "pt": {
+        "name": "Automotivo",
+        "description": "Ferramentas automotivas e acessórios para veículos."
+      },
+      "nl": {
+        "name": "Auto & Voertuigen",
+        "description": "Autogereedschap en accessoires voor voertuigen."
+      },
+      "sv": {
+        "name": "Bil & Fordon",
+        "description": "Bilverktyg och fordonstillbehör."
+      },
+      "pl": {
+        "name": "Motoryzacja",
+        "description": "Narzędzia samochodowe i akcesoria motoryzacyjne."
+      },
+      "tr": {
+        "name": "Otomotiv",
+        "description": "Otomotiv araçları ve araç aksesuarları."
+      },
+      "ar": {
+        "name": "السيارات",
+        "description": ".أدوات السيارات وملحقات المركبات"
+      }
     },
     "amazon": {
       "search_alias": "vehicles",
@@ -421,19 +838,57 @@
     "id": "CAT_00091",
     "key": "stripbooks",
     "icon": "BookOpen",
+    "image": "https://storage.googleapis.com/categories-images-bucket/books.jpg",
+    "theme": "orange",
     "translations": {
-      "en": "Books",
-      "de": "Bücher",
-      "fr": "Livres",
-      "it": "Libri",
-      "es": "Libros",
-      "ja": "本",
-      "pt": "Livros",
-      "nl": "Boeken",
-      "sv": "Böcker",
-      "pl": "Książki",
-      "tr": "Kitaplar",
-      "ar": "كتب"
+      "en": {
+        "name": "Books",
+        "description": "Books across every genre and interest."
+      },
+      "de": {
+        "name": "Bücher",
+        "description": "Bücher aus allen Genres und für jedes Interesse."
+      },
+      "fr": {
+        "name": "Livres",
+        "description": "Livres de tous les genres et pour tous les centres d’intérêt."
+      },
+      "it": {
+        "name": "Libri",
+        "description": "Libri di ogni genere e per ogni interesse."
+      },
+      "es": {
+        "name": "Libros",
+        "description": "Libros de todos los géneros e intereses."
+      },
+      "ja": {
+        "name": "本",
+        "description": "あらゆるジャンルと興味に合わせた本。"
+      },
+      "pt": {
+        "name": "Livros",
+        "description": "Livros de todos os gêneros e interesses."
+      },
+      "nl": {
+        "name": "Boeken",
+        "description": "Boeken voor elk genre en interessegebied."
+      },
+      "sv": {
+        "name": "Böcker",
+        "description": "Böcker inom alla genrer och intresseområden."
+      },
+      "pl": {
+        "name": "Książki",
+        "description": "Książki z każdego gatunku i dla każdego zainteresowania."
+      },
+      "tr": {
+        "name": "Kitaplar",
+        "description": "Her türden ve ilgi alanından kitaplar."
+      },
+      "ar": {
+        "name": "كتب",
+        "description": "كتب من جميع الأنواع والاهتمامات."
+      }
     },
     "amazon": {
       "search_alias": "stripbooks",
@@ -467,19 +922,57 @@
     "id": "CAT_00023",
     "key": "digital-music",
     "icon": "Music",
+    "image": "https://storage.googleapis.com/categories-images-bucket/music.png",
+    "theme": "purple",
     "translations": {
-      "en": "Music",
-      "de": "Musik",
-      "fr": "Musique",
-      "it": "Musica",
-      "es": "Música",
-      "ja": "音楽",
-      "pt": "Música",
-      "nl": "Muziek",
-      "sv": "Musik",
-      "pl": "Muzyka",
-      "tr": "Müzik",
-      "ar": "الموسيقى"
+      "en": {
+        "name": "Music",
+        "description": "Instruments, accessories & audio gear."
+      },
+      "de": {
+        "name": "Musik",
+        "description": "Instrumente, Zubehör und Audioausrüstung."
+      },
+      "fr": {
+        "name": "Musique",
+        "description": "Instruments, accessoires et équipement audio."
+      },
+      "it": {
+        "name": "Musica",
+        "description": "Strumenti, accessori e apparecchiature audio."
+      },
+      "es": {
+        "name": "Música",
+        "description": "Instrumentos, accesorios y equipos de audio."
+      },
+      "ja": {
+        "name": "音楽",
+        "description": "楽器、アクセサリー、オーディオ機器。"
+      },
+      "pt": {
+        "name": "Música",
+        "description": "Instrumentos, acessórios e equipamentos de áudio."
+      },
+      "nl": {
+        "name": "Muziek",
+        "description": "Instrumenten, accessoires en audioapparatuur."
+      },
+      "sv": {
+        "name": "Musik",
+        "description": "Instrument, tillbehör och ljudutrustning."
+      },
+      "pl": {
+        "name": "Muzyka",
+        "description": "Instrumenty, akcesoria i sprzęt audio."
+      },
+      "tr": {
+        "name": "Müzik",
+        "description": "Enstrümanlar, aksesuarlar ve ses ekipmanları."
+      },
+      "ar": {
+        "name": "الموسيقى",
+        "description": "الآلات الموسيقية والإكسسوارات ومعدات الصوت."
+      }
     },
     "amazon": {
       "search_alias": "digital-music",
@@ -501,20 +994,58 @@
     "id": "CAT_00071",
     "key": "mobile-apps",
     "icon": "Clapperboard",
-    "translations": {
-      "en": "Digital Entertainment",
-      "de": "Digitale Unterhaltung",
-      "fr": "Divertissement numérique",
-      "it": "Intrattenimento digitale",
-      "es": "Entretenimiento digital",
-      "ja": "デジタルエンターテインメント",
-      "pt": "Entretenimento Digital",
-      "nl": "Digitale entertainment",
-      "sv": "Digital underhållning",
-      "pl": "Rozrywka cyfrowa",
-      "tr": "Dijital Eğlence",
-      "ar": "الترفيه الرقمي"
-    },
+    "image": "https://storage.googleapis.com/categories-images-bucket/movies.png",
+    "theme": "gray",
+      "translations": {
+        "en": {
+          "name": "Digital Entertainment",
+          "description": "Movies, TV shows & entertainment."
+        },
+        "de": {
+          "name": "Digitale Unterhaltung",
+          "description": "Filme, Serien und digitale Unterhaltung."
+        },
+        "fr": {
+          "name": "Divertissement numérique",
+          "description": "Films, séries TV et divertissement."
+        },
+        "it": {
+          "name": "Intrattenimento digitale",
+          "description": "Film, serie TV e contenuti di intrattenimento."
+        },
+        "es": {
+          "name": "Entretenimiento digital",
+          "description": "Películas, series y entretenimiento."
+        },
+        "ja": {
+          "name": "デジタルエンターテインメント",
+          "description": "映画、テレビ番組、エンターテインメント。"
+        },
+        "pt": {
+          "name": "Entretenimento Digital",
+          "description": "Filmes, programas de TV e entretenimento."
+        },
+        "nl": {
+          "name": "Digitale entertainment",
+          "description": "Films, tv-series en entertainment."
+        },
+        "sv": {
+          "name": "Digital underhållning",
+          "description": "Filmer, TV-program och underhållning."
+        },
+        "pl": {
+          "name": "Rozrywka cyfrowa",
+          "description": "Filmy, programy telewizyjne i rozrywka."
+        },
+        "tr": {
+          "name": "Dijital Eğlence",
+          "description": "Filmler, TV şovları ve eğlence içerikleri."
+        },
+        "ar": {
+          "name": "الترفيه الرقمي",
+          "description": "الأفلام والبرامج التلفزيونية والمحتوى الترفيهي."
+        }
+      },
     "amazon": {
       "search_alias": "mobile-apps",
       "full_value": "search-alias=mobile-apps",
@@ -537,19 +1068,57 @@
     "id": "CAT_00060",
     "key": "littlefarms",
     "icon": "Leaf",
+    "image": "https://storage.googleapis.com/categories-images-bucket/garden.jpg",
+    "theme": "green",
     "translations": {
-      "en": "Garden & Outdoor",
-      "de": "Garten & Outdoor",
-      "fr": "Jardin & Extérieur",
-      "it": "Giardino e Outdoor",
-      "es": "Jardín y Exterior",
-      "ja": "ガーデン・アウトドア",
-      "pt": "Jardim e Exterior",
-      "nl": "Tuin & Buitenleven",
-      "sv": "Trädgård & Utomhus",
-      "pl": "Ogród i Outdoor",
-      "tr": "Bahçe ve Dış Mekan",
-      "ar": "الحديقة والهواء الطلق"
+      "en": {
+        "name": "Garden & Outdoor",
+        "description": "Garden tools, outdoor & patio items."
+      },
+      "de": {
+        "name": "Garten & Outdoor",
+        "description": "Gartenwerkzeuge, Outdoor- und Terrassenartikel."
+      },
+      "fr": {
+        "name": "Jardin & Extérieur",
+        "description": "Outils de jardinage, articles d’extérieur et de terrasse."
+      },
+      "it": {
+        "name": "Giardino e Outdoor",
+        "description": "Attrezzi da giardino, articoli per esterni e patio."
+      },
+      "es": {
+        "name": "Jardín y Exterior",
+        "description": "Herramientas de jardín, artículos de exterior y terraza."
+      },
+      "ja": {
+        "name": "ガーデン・アウトドア",
+        "description": "ガーデニング用品、アウトドア用品、パティオ用品。"
+      },
+      "pt": {
+        "name": "Jardim e Exterior",
+        "description": "Ferramentas de jardim, produtos para áreas externas e pátios."
+      },
+      "nl": {
+        "name": "Tuin & Buitenleven",
+        "description": "Tuingereedschap, buitenartikelen en terrasproducten."
+      },
+      "sv": {
+        "name": "Trädgård & Utomhus",
+        "description": "Trädgårdsverktyg, utomhus- och uteplatsprodukter."
+      },
+      "pl": {
+        "name": "Ogród i Outdoor",
+        "description": "Narzędzia ogrodowe, produkty zewnętrzne i tarasowe."
+      },
+      "tr": {
+        "name": "Bahçe ve Dış Mekan",
+        "description": "Bahçe aletleri, dış mekan ve veranda ürünleri."
+      },
+      "ar": {
+        "name": "الحديقة والهواء الطلق",
+        "description": "أدوات الحدائق ومنتجات الأماكن الخارجية والفناء."
+      }
     },
     "amazon": {
       "search_alias": "littlefarms",
@@ -563,19 +1132,57 @@
     "id": "CAT_00051",
     "key": "home-improvement",
     "icon": "Wrench",
+    "image": "https://storage.googleapis.com/categories-images-bucket/handmade.jpg",
+    "theme": "orange",
     "translations": {
-      "en": "Tools & DIY",
-      "nl": "Klussen & Gereedschap",
-      "sv": "Verktyg & Gör-det-själv",
-      "pl": "Narzędzia i majsterkowanie",
-      "ar": "الأدوات والأعمال اليدوية",
-      "fr": "Bricolage & Outils",
-      "de": "Werkzeug & Heimwerken",
-      "it": "Fai da te e Utensili",
-      "es": "Bricolaje y Herramientas",
-      "ja": "DIY・工具",
-      "pt": "Ferramentas e Faça Você Mesmo",
-      "tr": "Aletler ve Kendin Yap"
+      "en": {
+        "name": "Tools & DIY",
+        "description": "Tools, home improvement supplies & DIY projects."
+      },
+      "nl": {
+        "name": "Klussen & Gereedschap",
+        "description": "Gereedschap, klusbenodigdheden en doe-het-zelfprojecten."
+      },
+      "sv": {
+        "name": "Verktyg & Gör-det-själv",
+        "description": "Verktyg, byggmaterial och gör-det-självprojekt."
+      },
+      "pl": {
+        "name": "Narzędzia i majsterkowanie",
+        "description": "Narzędzia, materiały do domu i projekty DIY."
+      },
+      "ar": {
+        "name": "الأدوات والأعمال اليدوية",
+        "description": "الأدوات ومستلزمات تحسين المنزل ومشاريع الأعمال اليدوية."
+      },
+      "fr": {
+        "name": "Bricolage & Outils",
+        "description": "Outils, fournitures de rénovation et projets de bricolage."
+      },
+      "de": {
+        "name": "Werkzeug & Heimwerken",
+        "description": "Werkzeuge, Heimwerkerbedarf und DIY-Projekte."
+      },
+      "it": {
+        "name": "Fai da te e Utensili",
+        "description": "Utensili, prodotti per la casa e progetti fai da te."
+      },
+      "es": {
+        "name": "Bricolaje y Herramientas",
+        "description": "Herramientas, suministros de mejora del hogar y proyectos DIY."
+      },
+      "ja": {
+        "name": "DIY・工具",
+        "description": "工具、ホーム改善用品、DIYプロジェクト用品。"
+      },
+      "pt": {
+        "name": "Ferramentas e Faça Você Mesmo",
+        "description": "Ferramentas, materiais para casa e projetos de bricolagem."
+      },
+      "tr": {
+        "name": "Aletler ve Kendin Yap",
+        "description": "Aletler, ev geliştirme ürünleri ve kendin yap projeleri."
+      }
     },
     "amazon": {
       "search_alias": "home-improvement",
@@ -597,19 +1204,57 @@
     "id": "CAT_00076",
     "key": "office-products",
     "icon": "BriefcaseBusiness",
+    "image": "https://storage.googleapis.com/categories-images-bucket/office.jpg",
+    "theme": "gray",
     "translations": {
-      "en": "Office Products",
-      "de": "Bürobedarf & Schreibwaren",
-      "fr": "Fournitures de bureau",
-      "it": "Cancelleria e prodotti per ufficio",
-      "es": "Oficina y papelería",
-      "ja": "文房具・オフィス用品",
-      "pt": "Material para Escritório e Papelaria",
-      "nl": "Kantoorproducten",
-      "sv": "Kontorsprodukter & skolmaterial",
-      "pl": "Biuro",
-      "tr": "Ofis Ürünleri",
-      "ar": "منتجات المكتب"
+      "en": {
+        "name": "Office Products",
+        "description": "Office supplies & productivity tools."
+      },
+      "de": {
+        "name": "Bürobedarf & Schreibwaren",
+        "description": "Büromaterial, Schreibwaren und Produktivitätswerkzeuge."
+      },
+      "fr": {
+        "name": "Fournitures de bureau",
+        "description": "Fournitures de bureau et outils de productivité."
+      },
+      "it": {
+        "name": "Cancelleria e prodotti per ufficio",
+        "description": "Materiale da ufficio, cancelleria e strumenti per la produttività."
+      },
+      "es": {
+        "name": "Oficina y papelería",
+        "description": "Material de oficina, papelería y herramientas de productividad."
+      },
+      "ja": {
+        "name": "文房具・オフィス用品",
+        "description": "文房具、オフィス用品、生産性向上ツール。"
+      },
+      "pt": {
+        "name": "Material para Escritório e Papelaria",
+        "description": "Materiais de escritório, papelaria e ferramentas de produtividade."
+      },
+      "nl": {
+        "name": "Kantoorproducten",
+        "description": "Kantoorbenodigdheden en productiviteitstools."
+      },
+      "sv": {
+        "name": "Kontorsprodukter & skolmaterial",
+        "description": "Kontorsmaterial, skrivprodukter och verktyg för produktivitet."
+      },
+      "pl": {
+        "name": "Biuro",
+        "description": "Artykuły biurowe, papiernicze i narzędzia zwiększające produktywność."
+      },
+      "tr": {
+        "name": "Ofis Ürünleri",
+        "description": "Ofis malzemeleri ve verimlilik araçları."
+      },
+      "ar": {
+        "name": "منتجات المكتب",
+        "description": "مستلزمات المكتب وأدوات الإنتاجية."
+      }
     },
     "amazon": {
       "search_alias": "office-products",
@@ -643,19 +1288,57 @@
     "id": "CAT_00012",
     "key": "arts-crafts",
     "icon": "Palette",
+    "image": "https://storage.googleapis.com/categories-images-bucket/arts.jpeg",
+    "theme": "pink",
     "translations": {
-      "en": "Arts & Crafts",
-      "nl": "Kunst & Hobby",
-      "sv": "Konst & Hantverk",
-      "pl": "Sztuka i Rękodzieło",
-      "ar": "الفنون والحرف اليدوية",
-      "fr": "Arts créatifs",
-      "de": "Kunst & Basteln",
-      "it": "Arte e Artigianato",
-      "es": "Arte y Manualidades",
-      "ja": "アート・クラフト",
-      "pt": "Arte e Artesanato",
-      "tr": "Sanat ve El Sanatları"
+      "en": {
+        "name": "Arts & Crafts",
+        "description": "Creative supplies for art, crafts, and hobbies."
+      },
+      "nl": {
+        "name": "Kunst & Hobby",
+        "description": "Creatieve benodigdheden voor kunst, hobby's en knutselprojecten."
+      },
+      "sv": {
+        "name": "Konst & Hantverk",
+        "description": "Kreativa material för konst, hantverk och hobbyer."
+      },
+      "pl": {
+        "name": "Sztuka i Rękodzieło",
+        "description": "Materiały kreatywne do sztuki, rękodzieła i hobby."
+      },
+      "ar": {
+        "name": "الفنون والحرف اليدوية",
+        "description": "مستلزمات إبداعية للفنون والحرف والهوايات."
+      },
+      "fr": {
+        "name": "Arts créatifs",
+        "description": "Fournitures créatives pour l’art, les loisirs et les travaux manuels."
+      },
+      "de": {
+        "name": "Kunst & Basteln",
+        "description": "Kreativbedarf für Kunst, Basteln und Hobbys."
+      },
+      "it": {
+        "name": "Arte e Artigianato",
+        "description": "Materiali creativi per arte, artigianato e hobby."
+      },
+      "es": {
+        "name": "Arte y Manualidades",
+        "description": "Materiales creativos para arte, manualidades y hobbies."
+      },
+      "ja": {
+        "name": "アート・クラフト",
+        "description": "アート、クラフト、趣味向けの創作用品。"
+      },
+      "pt": {
+        "name": "Arte e Artesanato",
+        "description": "Materiais criativos para arte, artesanato e hobbies."
+      },
+      "tr": {
+        "name": "Sanat ve El Sanatları",
+        "description": "Sanat, el işleri ve hobiler için yaratıcı malzemeler."
+      }
     },
     "amazon": {
       "search_alias": "arts-crafts",
@@ -675,19 +1358,57 @@
     "id": "CAT_00080",
     "key": "pets",
     "icon": "PawPrint",
+    "image": "https://storage.googleapis.com/categories-images-bucket/pets.jpg",
+    "theme": "yellow",
     "translations": {
-      "en": "Pet Supplies",
-      "de": "Haustier",
-      "fr": "Animalerie",
-      "it": "Prodotti per animali domestici",
-      "es": "Productos para mascotas",
-      "ja": "ペット用品",
-      "pt": "Pet Shop",
-      "nl": "Huisdierbenodigdheden",
-      "sv": "Husdjursprodukter",
-      "pl": "Zwierzęta",
-      "tr": "Evcil Hayvan Malzemeleri",
-      "ar": "مستلزمات الحيوانات الأليفة"
+      "en": {
+        "name": "Pet Supplies",
+        "description": "Food, toys & care for pets."
+      },
+      "de": {
+        "name": "Haustier",
+        "description": "Futter, Spielzeug und Pflegeprodukte für Haustiere."
+      },
+      "fr": {
+        "name": "Animalerie",
+        "description": "Nourriture, jouets et soins pour animaux."
+      },
+      "it": {
+        "name": "Prodotti per animali domestici",
+        "description": "Cibo, giochi e prodotti per la cura degli animali domestici."
+      },
+      "es": {
+        "name": "Productos para mascotas",
+        "description": "Alimentos, juguetes y productos de cuidado para mascotas."
+      },
+      "ja": {
+        "name": "ペット用品",
+        "description": "ペット用フード、おもちゃ、ケア用品。"
+      },
+      "pt": {
+        "name": "Pet Shop",
+        "description": "Alimentos, brinquedos e cuidados para animais de estimação."
+      },
+      "nl": {
+        "name": "Huisdierbenodigdheden",
+        "description": "Voeding, speelgoed en verzorgingsproducten voor huisdieren."
+      },
+      "sv": {
+        "name": "Husdjursprodukter",
+        "description": "Mat, leksaker och vårdprodukter för husdjur."
+      },
+      "pl": {
+        "name": "Zwierzęta",
+        "description": "Karma, zabawki i produkty do pielęgnacji zwierząt."
+      },
+      "tr": {
+        "name": "Evcil Hayvan Malzemeleri",
+        "description": "Evcil hayvanlar için mama, oyuncak ve bakım ürünleri."
+      },
+      "ar": {
+        "name": "مستلزمات الحيوانات الأليفة",
+        "description": "طعام وألعاب ومنتجات العناية بالحيوانات الأليفة."
+      }
     },
     "amazon": {
       "search_alias": "pets",
@@ -721,19 +1442,58 @@
     "id": "CAT_00035",
     "key": "fashion-luggage",
     "icon": "Luggage",
+    "description": "Travel essentials, souvenirs & destination must-haves.",
+    "image": "https://storage.googleapis.com/categories-images-bucket/travel.jpg",
+    "theme": "blue",
     "translations": {
-      "en": "Travel & Luggage",
-      "de": "Reise & Gepäck",
-      "fr": "Voyage & Bagages",
-      "it": "Viaggi e Bagagli",
-      "es": "Viajes y Equipaje",
-      "pt": "Viagem e Bagagem",
-      "ja": "旅行・バッグ",
-      "nl": "Reizen & Bagage",
-      "sv": "Resor & Bagage",
-      "pl": "Podróże i Bagaż",
-      "tr": "Seyahat ve Bagaj",
-      "ar": "السفر والأمتعة"
+      "en": {
+        "name": "Travel & Luggage",
+        "description": "Travel essentials, souvenirs & destination must-haves."
+      },
+      "de": {
+        "name": "Reise & Gepäck",
+        "description": "Reiseutensilien, Souvenirs und wichtige Reisebegleiter."
+      },
+      "fr": {
+        "name": "Voyage & Bagages",
+        "description": "Essentiels de voyage, souvenirs et accessoires indispensables."
+      },
+      "it": {
+        "name": "Viaggi e Bagagli",
+        "description": "Essenziali da viaggio, souvenir e articoli indispensabili."
+      },
+      "es": {
+        "name": "Viajes y Equipaje",
+        "description": "Artículos esenciales de viaje, recuerdos y accesorios."
+      },
+      "pt": {
+        "name": "Viagem e Bagagem",
+        "description": "Itens essenciais de viagem, lembranças e acessórios."
+      },
+      "ja": {
+        "name": "旅行・バッグ",
+        "description": "旅行用品、お土産、旅先で必要なアイテム。"
+      },
+      "nl": {
+        "name": "Reizen & Bagage",
+        "description": "Reisbenodigdheden, souvenirs en onmisbare reisartikelen."
+      },
+      "sv": {
+        "name": "Resor & Bagage",
+        "description": "Researtiklar, souvenirprodukter och viktiga reseaccessoarer."
+      },
+      "pl": {
+        "name": "Podróże i Bagaż",
+        "description": "Niezbędniki podróżne, pamiątki i akcesoria."
+      },
+      "tr": {
+        "name": "Seyahat ve Bagaj",
+        "description": "Seyahat ihtiyaçları, hediyelikler ve gerekli seyahat ürünleri."
+      },
+      "ar": {
+        "name": "السفر والأمتعة",
+        "description": "مستلزمات السفر والهدايا التذكارية والاحتياجات الأساسية."
+      }
     },
     "amazon": {
       "search_alias": "fashion-luggage",
@@ -757,19 +1517,57 @@
     "id": "CAT_00001",
     "key": "alcohol",
     "icon": "Wine",
+    "image": "https://storage.googleapis.com/categories-images-bucket/wine.jpg",
+    "theme": "red",
     "translations": {
-      "en": "Wine and Spirits",
-      "de": "Wein und Spirituosen",
-      "fr": "Vin et Spiritueux",
-      "it": "Vino e Liquori",
-      "es": "Vino y Licores",
-      "ja": "ワイン・スピリッツ",
-      "pt": "Vinhos e Destilados",
-      "nl": "Wijn en Gedistilleerde Dranken",
-      "sv": "vin och spritdrycker",
-      "pl": "wino i alkohole mocne",
-      "tr": "Şarap ve Alkollü İçecekler",
-      "ar": "النبيذ والمشروبات الروحية"
+      "en": {
+        "name": "Wine and Spirits",
+        "description": "Fine wines & accessories."
+      },
+      "de": {
+        "name": "Wein und Spirituosen",
+        "description": "Edle Weine und Zubehör."
+      },
+      "fr": {
+        "name": "Vin et Spiritueux",
+        "description": "Vins fins et accessoires."
+      },
+      "it": {
+        "name": "Vino e Liquori",
+        "description": "Vini pregiati e accessori."
+      },
+      "es": {
+        "name": "Vino y Licores",
+        "description": "Vinos selectos y accesorios."
+      },
+      "ja": {
+        "name": "ワイン・スピリッツ",
+        "description": "高品質なワインと関連アクセサリー。"
+      },
+      "pt": {
+        "name": "Vinhos e Destilados",
+        "description": "Vinhos finos e acessórios."
+      },
+      "nl": {
+        "name": "Wijn en Gedistilleerde Dranken",
+        "description": "Fijne wijnen en accessoires."
+      },
+      "sv": {
+        "name": "Vin och spritdrycker",
+        "description": "Exklusiva viner och tillbehör."
+      },
+      "pl": {
+        "name": "Wino i alkohole mocne",
+        "description": "Wyborne wina i akcesoria."
+      },
+      "tr": {
+        "name": "Şarap ve Alkollü İçecekler",
+        "description": "Kaliteli şaraplar ve aksesuarlar."
+      },
+      "ar": {
+        "name": "النبيذ والمشروبات الروحية",
+        "description": "النبيذ الفاخر والإكسسوارات."
+      }
     },
     "amazon": {
       "search_alias": "alcohol",
@@ -783,19 +1581,58 @@
     "id": "CAT_00069",
     "key": "misc",
     "icon": "Grid2X2",
+    "description": "Miscellaneous items that don’t fit other categories.",
+    "image": "https://storage.googleapis.com/categories-images-bucket/other.jpg",
+    "theme": "gray",
     "translations": {
-      "es": "Otros Productos",
-      "nl": "Overig",
-      "en": "Other Products",
-      "de": "Andere Produkte",
-      "fr": "Autres Produits",
-      "it": "Altri Prodotti",
-      "ja": "その他の商品",
-      "pt": "Outros Produtos",
-      "sv": "Övriga produkter",
-      "pl": "Inne produkty",
-      "tr": "Diğer Ürünler",
-      "ar": "منتجات أخرى"
+      "es": {
+        "name": "Otros Productos",
+        "description": "Productos variados que no encajan en otras categorías."
+      },
+      "nl": {
+        "name": "Overig",
+        "description": "Diverse producten die niet in andere categorieën passen."
+      },
+      "en": {
+        "name": "Other Products",
+        "description": "Miscellaneous items that don’t fit other categories."
+      },
+      "de": {
+        "name": "Andere Produkte",
+        "description": "Verschiedene Produkte, die nicht in andere Kategorien passen."
+      },
+      "fr": {
+        "name": "Autres Produits",
+        "description": "Produits divers qui ne correspondent pas aux autres catégories."
+      },
+      "it": {
+        "name": "Altri Prodotti",
+        "description": "Articoli vari che non rientrano nelle altre categorie."
+      },
+      "ja": {
+        "name": "その他の商品",
+        "description": "他のカテゴリーに分類されないさまざまな商品。"
+      },
+      "pt": {
+        "name": "Outros Produtos",
+        "description": "Produtos diversos que não se encaixam em outras categorias."
+      },
+      "sv": {
+        "name": "Övriga produkter",
+        "description": "Diverse produkter som inte passar i andra kategorier."
+      },
+      "pl": {
+        "name": "Inne produkty",
+        "description": "Różne produkty, które nie pasują do innych kategorii."
+      },
+      "tr": {
+        "name": "Diğer Ürünler",
+        "description": "Diğer kategorilere uymayan çeşitli ürünler."
+      },
+      "ar": {
+        "name": "منتجات أخرى",
+        "description": "منتجات متنوعة لا تنتمي إلى فئات أخرى."
+      }
     },
     "amazon": {
       "search_alias": "misc",
