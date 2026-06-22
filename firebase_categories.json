@@ -63,86 +63,88 @@
       }
     }
   },
- "id": "CAT_00018",
-  "key": "beauty",
-  "icon": "Sparkles",
-  "image": "https://storage.googleapis.com/categories-images-bucket/beauty.jpg",
-  "theme": "pink",
-  "translations": {
-    "en": {
-      "name": "Beauty",
-      "description": "Cosmetics, skincare & global beauty trends."
+  "CAT_00018": {
+    "id": "CAT_00018",
+    "key": "beauty",
+    "icon": "Sparkles",
+    "image": "https://storage.googleapis.com/categories-images-bucket/beauty.jpg",
+    "theme": "pink",
+    "translations": {
+      "en": {
+        "name": "Beauty",
+        "description": "Cosmetics, skincare & global beauty trends."
+      },
+      "de": {
+        "name": "Schönheit",
+        "description": "Kosmetik, Hautpflege und internationale Schönheitstrends."
+      },
+      "fr": {
+        "name": "Beauté",
+        "description": "Cosmétiques, soins de la peau et tendances beauté du monde entier."
+      },
+      "it": {
+        "name": "Bellezza",
+        "description": "Cosmetici, cura della pelle e tendenze beauty globali."
+      },
+      "es": {
+        "name": "Belleza",
+        "description": "Cosméticos, cuidado de la piel y tendencias de belleza globales."
+      },
+      "ja": {
+        "name": "ビューティー",
+        "description": "化粧品、スキンケア、世界の美容トレンド。"
+      },
+      "pt": {
+        "name": "Beleza",
+        "description": "Cosméticos, cuidados com a pele e tendências globais de beleza."
+      },
+      "nl": {
+        "name": "Beauty",
+        "description": "Cosmetica, huidverzorging en wereldwijde schoonheidstrends."
+      },
+      "sv": {
+        "name": "Skönhet",
+        "description": "Kosmetika, hudvård och globala skönhetstrender."
+      },
+      "pl": {
+        "name": "Uroda",
+        "description": "Kosmetyki, pielęgnacja skóry i światowe trendy urodowe."
+      },
+      "tr": {
+        "name": "Güzellik",
+        "description": "Kozmetik, cilt bakımı ve küresel güzellik trendleri."
+      },
+      "ar": {
+        "name": "الجمال",
+        "description": ".مستحضرات التجميل والعناية بالبشرة واتجاهات الجمال العالمية"
+      }
     },
-    "de": {
-      "name": "Schönheit",
-      "description": "Kosmetik, Hautpflege und internationale Schönheitstrends."
-    },
-    "fr": {
-      "name": "Beauté",
-      "description": "Cosmétiques, soins de la peau et tendances beauté du monde entier."
-    },
-    "it": {
-      "name": "Bellezza",
-      "description": "Cosmetici, cura della pelle e tendenze beauty globali."
-    },
-    "es": {
-      "name": "Belleza",
-      "description": "Cosméticos, cuidado de la piel y tendencias de belleza globales."
-    },
-    "ja": {
-      "name": "ビューティー",
-      "description": "化粧品、スキンケア、世界の美容トレンド。"
-    },
-    "pt": {
-      "name": "Beleza",
-      "description": "Cosméticos, cuidados com a pele e tendências globais de beleza."
-    },
-    "nl": {
-      "name": "Beauty",
-      "description": "Cosmetica, huidverzorging en wereldwijde schoonheidstrends."
-    },
-    "sv": {
-      "name": "Skönhet",
-      "description": "Kosmetika, hudvård och globala skönhetstrender."
-    },
-    "pl": {
-      "name": "Uroda",
-      "description": "Kosmetyki, pielęgnacja skóry i światowe trendy urodowe."
-    },
-    "tr": {
-      "name": "Güzellik",
-      "description": "Kozmetik, cilt bakımı ve küresel güzellik trendleri."
-    },
-    "ar": {
-      "name": "الجمال",
-      "description": ".مستحضرات التجميل والعناية بالبشرة واتجاهات الجمال العالمية"
-    }
-  },
-  "amazon": {
-    "search_alias": "beauty",
-    "full_value": "search-alias=beauty",
-    "markets": {
-      "UAE": "Beauty & Personal Care",
-      "Australia": "Beauty",
-      "Belgium": "Beauté",
-      "Brazil": "Beleza",
-      "Canada": "Beauty",
-      "Germany": "Kosmetik",
-      "Egypt": "الجمال والعناية الشخصية",
-      "Spain": "Belleza",
-      "France": "Beauté et Parfum",
-      "India": "Beauty",
-      "Italy": "Bellezza",
-      "Japan": "ビューティー",
-      "Mexico": "Belleza",
-      "Netherlands": "Beauty en persoonlijke verzorging",
-      "Poland": "Uroda",
-      "Saudi Arabia": "الجمال والعناية الشخصية",
-      "Sweden": "Skönhet & kroppsvård",
-      "Singapore": "Beauty & Personal Care",
-      "Turkey": "Kişisel Bakım ve Kozmetik",
-      "UK": "Beauty",
-      "USA": "Beauty & Personal Care"
+    "amazon": {
+      "search_alias": "beauty",
+      "full_value": "search-alias=beauty",
+      "markets": {
+        "UAE": "Beauty & Personal Care",
+        "Australia": "Beauty",
+        "Belgium": "Beauté",
+        "Brazil": "Beleza",
+        "Canada": "Beauty",
+        "Germany": "Kosmetik",
+        "Egypt": "الجمال والعناية الشخصية",
+        "Spain": "Belleza",
+        "France": "Beauté et Parfum",
+        "India": "Beauty",
+        "Italy": "Bellezza",
+        "Japan": "ビューティー",
+        "Mexico": "Belleza",
+        "Netherlands": "Beauty en persoonlijke verzorging",
+        "Poland": "Uroda",
+        "Saudi Arabia": "الجمال والعناية الشخصية",
+        "Sweden": "Skönhet & kroppsvård",
+        "Singapore": "Beauty & Personal Care",
+        "Turkey": "Kişisel Bakım ve Kozmetik",
+        "UK": "Beauty",
+        "USA": "Beauty & Personal Care"
+      }
     }
   },
   "CAT_00003": {
