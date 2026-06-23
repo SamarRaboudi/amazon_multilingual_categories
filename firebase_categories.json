@@ -3,7 +3,7 @@
     "id": "CAT_00022",
     "key": "dia",
     "icon": "ShoppingBasket",
-    "image": "https://drive.google.com/uc?export=view&id=1Q7_tteOBMQf38vsQ29_f5-SPwIIG6BD1",
+    "image": "./images/grocery.jpg",
     "theme": "green",
     "translations": {
       "en": {
@@ -67,7 +67,7 @@
     "id": "CAT_00018",
     "key": "beauty",
     "icon": "Sparkles",
-    "image": "https://drive.google.com/uc?export=view&id=1vr9jcsgxdnmR6hcwX1NJ8ubKbV3ngCpl",
+    "image": "./images/beauty.jpg",
     "theme": "pink",
     "translations": {
       "en": {
@@ -151,7 +151,7 @@
     "id": "CAT_00003",
     "key": "amazon-devices",
     "icon": "Laptop",
-    "image": "https://drive.google.com/uc?export=view&id=1HLGR3Gnh5HwsC9VqffgsQ85cwELIa8A2",
+    "image": "./images/electronics.jpg",
     "theme": "blue",
     "translations": {
       "en": {
@@ -233,7 +233,7 @@
     "id": "CAT_00030",
     "key": "fashion",
     "icon": "Shirt",
-    "image": "https://drive.google.com/uc?export=view&id=1VNZNelSTme8chuWMW2OW-qaGZl2libNL",
+    "image": "./images/fashion.jpg",
     "theme": "purple",
       "translations": {
         "en": {
@@ -317,7 +317,7 @@
     "id": "CAT_00043",
     "key": "garden",
     "icon": "House",
-    "image": "https://drive.google.com/uc?export=view&id=13hdc7rwP2rT-1Cryke4YhZ1B2YkUaimn",
+    "image": "./images/home.jpg",
     "theme": "green",
     "translations": {
       "en": {
@@ -393,7 +393,7 @@
     "id": "CAT_00006",
     "key": "amazon-pharmacy",
     "icon": "HeartPulse",
-    "image": "https://drive.google.com/uc?export=view&id=health.jpeg",
+    "image": "./images/health.jpg",
     "theme": "green",
     "translations": {
       "en": {
@@ -458,7 +458,7 @@
     "id": "CAT_00004",
     "key": "amazon-global-store",
     "icon": "Tag",
-    "image": "https://drive.google.com/uc?export=view&id=1pkX8WWjGzQME4CR6CHoQbJ_Nz735mwnQ",
+    "image": "",
     "theme": "orange",
     "translations": {
       "en": {
@@ -533,7 +533,7 @@
     "id": "CAT_00015",
     "key": "baby",
     "icon": "Baby",
-    "image": "https://drive.google.com/uc?export=view&id=18m6LZko2s0CYwSqLdXNMYBo_f8h8iUlc",
+    "image": "./images/baby.jpg",
     "theme": "blue",
     "translations": {
       "en": {
@@ -616,7 +616,7 @@
     "id": "CAT_00095",
     "key": "toys",
     "icon": "Gamepad2",
-    "image": "https://drive.google.com/uc?export=view&id=1FGSG5tnuLiOOQCTsOBUsOaLIOCO6SxMH",
+    "image": "./images/games.jpg",
     "theme": "purple",
     "translations": {
       "en": {
@@ -699,7 +699,7 @@
     "id": "CAT_00089",
     "key": "sporting",
     "icon": "Dumbbell",
-    "image": "https://drive.google.com/uc?export=view&id=1V7R00drZYTO8MAk8NvclTNdRBVTA6h8P",
+    "image": "./images/sports.jpg",
     "theme": "orange",
     "translations": {
       "en": {
@@ -776,7 +776,7 @@
     "key": "vehicles",
     "icon": "Car",
     "description": "Automotive tools & vehicle accessories.",
-    "image": "https://drive.google.com/uc?export=view&id=1h6UAKR4qAoyxtSA6R2OrwZJHo63GXcWP",
+    "image": "./images/vehicles.jpg",
     "theme": "gray",
     "translations": {
       "en": {
@@ -840,7 +840,7 @@
     "id": "CAT_00091",
     "key": "stripbooks",
     "icon": "BookOpen",
-    "image": "https://drive.google.com/uc?export=view&id=1h6UAKR4qAoyxtSA6R2OrwZJHo63GXcWP",
+    "image": "./images/books.jpg",
     "theme": "orange",
     "translations": {
       "en": {
@@ -924,7 +924,7 @@
     "id": "CAT_00023",
     "key": "digital-music",
     "icon": "Music",
-    "image": "https://drive.google.com/uc?export=view&id=17e18nmuukoEaCy7zAtpCl64dgmyn8SuR",
+    "image": "./images/music.jpg",
     "theme": "purple",
     "translations": {
       "en": {
@@ -996,7 +996,7 @@
     "id": "CAT_00071",
     "key": "mobile-apps",
     "icon": "Clapperboard",
-    "image": "https://drive.google.com/uc?export=view&id=12Qy--lmICITU8F7fRVs-39j7oN7QMnyl",
+    "image": "./images/movies.jpg",
     "theme": "gray",
       "translations": {
         "en": {
@@ -1070,7 +1070,7 @@
     "id": "CAT_00060",
     "key": "littlefarms",
     "icon": "Leaf",
-    "image": "https://drive.google.com/uc?export=view&id=1SBHTNK5opqNlo4sj0aaFBc2hK__OEMd9",
+    "image": "./images/garden.jpg",
     "theme": "green",
     "translations": {
       "en": {
@@ -1134,7 +1134,7 @@
     "id": "CAT_00051",
     "key": "home-improvement",
     "icon": "Wrench",
-    "image": "https://drive.google.com/uc?export=view&id=13kmdxmu9-zJKrtiHQ9BYU-C1U9jIt9uI",
+    "image": "./images/handmade.jpg",
     "theme": "orange",
     "translations": {
       "en": {
@@ -1206,7 +1206,7 @@
     "id": "CAT_00076",
     "key": "office-products",
     "icon": "BriefcaseBusiness",
-    "image": "https://drive.google.com/uc?export=view&id=1MzImq6NAmfncSBzmivWzspxWHjmn4Wqa",
+    "image": "./images/office.jpg",
     "theme": "gray",
     "translations": {
       "en": {
@@ -1290,7 +1290,7 @@
     "id": "CAT_00012",
     "key": "arts-crafts",
     "icon": "Palette",
-    "image": "https://drive.google.com/uc?export=view&id=1d6OyQP72h-RIgBFyWmf8rJSxfN-qfOie",
+    "image": "./images/arts.jpg",
     "theme": "pink",
     "translations": {
       "en": {
@@ -1360,7 +1360,7 @@
     "id": "CAT_00080",
     "key": "pets",
     "icon": "PawPrint",
-    "image": "https://drive.google.com/uc?export=view&id=1JX9JpfulxJAe6QMJGRdBpRLlT4aq84-y",
+    "image": "./images/pets.jpg",
     "theme": "yellow",
     "translations": {
       "en": {
@@ -1445,7 +1445,7 @@
     "key": "fashion-luggage",
     "icon": "Luggage",
     "description": "Travel essentials, souvenirs & destination must-haves.",
-    "image": "https://drive.google.com/uc?export=view&id=1B1F9wgaSW6qKoUdvmzFC2uIacmqljgWR",
+    "image": "./images/travel.jpg",
     "theme": "blue",
     "translations": {
       "en": {
@@ -1519,7 +1519,7 @@
     "id": "CAT_00001",
     "key": "alcohol",
     "icon": "Wine",
-    "image": "https://drive.google.com/uc?export=view&id=1QosqNcHKXj48HKUOSudIwpiAsWwlBhZH",
+    "image": "./images/wine.jpg",
     "theme": "red",
     "translations": {
       "en": {
@@ -1584,7 +1584,7 @@
     "key": "misc",
     "icon": "Grid2X2",
     "description": "Miscellaneous items that don’t fit other categories.",
-    "image": "https://drive.google.com/uc?export=view&id=17R2BWmXgNrg4oyagcJRLm__Aw7mnZQSS",
+    "image": "./images/other.jpg",
     "theme": "gray",
     "translations": {
       "es": {
