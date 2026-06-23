@@ -3,7 +3,7 @@
     "id": "CAT_00022",
     "key": "dia",
     "icon": "ShoppingBasket",
-    "image": "./images/grocery.jpg",
+    "image": "https://raw.githubusercontent.com/SamarRaboudi/amazon_multilingual_categories/main/images/grocery.jpg",
     "theme": "green",
     "translations": {
       "en": {
@@ -67,7 +67,7 @@
     "id": "CAT_00018",
     "key": "beauty",
     "icon": "Sparkles",
-    "image": "./images/beauty.jpg",
+    "image": "https://raw.githubusercontent.com/SamarRaboudi/amazon_multilingual_categories/main/images/beauty.jpg",
     "theme": "pink",
     "translations": {
       "en": {
@@ -151,7 +151,7 @@
     "id": "CAT_00003",
     "key": "amazon-devices",
     "icon": "Laptop",
-    "image": "./images/electronics.jpg",
+    "image": "https://raw.githubusercontent.com/SamarRaboudi/amazon_multilingual_categories/main/images/electronics.jpg",
     "theme": "blue",
     "translations": {
       "en": {
@@ -233,7 +233,7 @@
     "id": "CAT_00030",
     "key": "fashion",
     "icon": "Shirt",
-    "image": "./images/fashion.jpg",
+    "image": "https://raw.githubusercontent.com/SamarRaboudi/amazon_multilingual_categories/main/images/fashion.jpg",
     "theme": "purple",
       "translations": {
         "en": {
@@ -317,7 +317,7 @@
     "id": "CAT_00043",
     "key": "garden",
     "icon": "House",
-    "image": "./images/home.jpg",
+    "image": "https://raw.githubusercontent.com/SamarRaboudi/amazon_multilingual_categories/main/images/home.jpg",
     "theme": "green",
     "translations": {
       "en": {
@@ -393,7 +393,7 @@
     "id": "CAT_00006",
     "key": "amazon-pharmacy",
     "icon": "HeartPulse",
-    "image": "./images/health.jpg",
+    "image": "https://raw.githubusercontent.com/SamarRaboudi/amazon_multilingual_categories/main/images/health.jpg",
     "theme": "green",
     "translations": {
       "en": {
@@ -533,7 +533,7 @@
     "id": "CAT_00015",
     "key": "baby",
     "icon": "Baby",
-    "image": "./images/baby.jpg",
+    "image": "https://raw.githubusercontent.com/SamarRaboudi/amazon_multilingual_categories/main/images/baby.jpg",
     "theme": "blue",
     "translations": {
       "en": {
@@ -616,7 +616,7 @@
     "id": "CAT_00095",
     "key": "toys",
     "icon": "Gamepad2",
-    "image": "./images/games.jpg",
+    "image": "https://raw.githubusercontent.com/SamarRaboudi/amazon_multilingual_categories/main/images/games.jpg",
     "theme": "purple",
     "translations": {
       "en": {
@@ -699,7 +699,7 @@
     "id": "CAT_00089",
     "key": "sporting",
     "icon": "Dumbbell",
-    "image": "./images/sports.jpg",
+    "image": "https://raw.githubusercontent.com/SamarRaboudi/amazon_multilingual_categories/main/images/sports.jpg",
     "theme": "orange",
     "translations": {
       "en": {
@@ -776,7 +776,7 @@
     "key": "vehicles",
     "icon": "Car",
     "description": "Automotive tools & vehicle accessories.",
-    "image": "./images/vehicles.jpg",
+    "image": "https://raw.githubusercontent.com/SamarRaboudi/amazon_multilingual_categories/main/images/vehicles.jpg",
     "theme": "gray",
     "translations": {
       "en": {
@@ -840,7 +840,7 @@
     "id": "CAT_00091",
     "key": "stripbooks",
     "icon": "BookOpen",
-    "image": "./images/books.jpg",
+    "image": "https://raw.githubusercontent.com/SamarRaboudi/amazon_multilingual_categories/main/images/books.jpg",
     "theme": "orange",
     "translations": {
       "en": {
@@ -924,7 +924,7 @@
     "id": "CAT_00023",
     "key": "digital-music",
     "icon": "Music",
-    "image": "./images/music.jpg",
+    "image": "https://raw.githubusercontent.com/SamarRaboudi/amazon_multilingual_categories/main/images/music.jpg",
     "theme": "purple",
     "translations": {
       "en": {
@@ -996,7 +996,7 @@
     "id": "CAT_00071",
     "key": "mobile-apps",
     "icon": "Clapperboard",
-    "image": "./images/movies.jpg",
+    "image": "https://raw.githubusercontent.com/SamarRaboudi/amazon_multilingual_categories/main/images/movies.jpg",
     "theme": "gray",
       "translations": {
         "en": {
@@ -1070,7 +1070,7 @@
     "id": "CAT_00060",
     "key": "littlefarms",
     "icon": "Leaf",
-    "image": "./images/garden.jpg",
+    "image": "https://raw.githubusercontent.com/SamarRaboudi/amazon_multilingual_categories/main/images/garden.jpg",
     "theme": "green",
     "translations": {
       "en": {
@@ -1134,7 +1134,7 @@
     "id": "CAT_00051",
     "key": "home-improvement",
     "icon": "Wrench",
-    "image": "./images/handmade.jpg",
+    "image": "https://raw.githubusercontent.com/SamarRaboudi/amazon_multilingual_categories/main/images/handmade.jpg",
     "theme": "orange",
     "translations": {
       "en": {
@@ -1206,7 +1206,7 @@
     "id": "CAT_00076",
     "key": "office-products",
     "icon": "BriefcaseBusiness",
-    "image": "./images/office.jpg",
+    "image": "https://raw.githubusercontent.com/SamarRaboudi/amazon_multilingual_categories/main/images/office.jpg",
     "theme": "gray",
     "translations": {
       "en": {
@@ -1290,7 +1290,7 @@
     "id": "CAT_00012",
     "key": "arts-crafts",
     "icon": "Palette",
-    "image": "./images/arts.jpg",
+    "image": "https://raw.githubusercontent.com/SamarRaboudi/amazon_multilingual_categories/main/images/arts.jpg",
     "theme": "pink",
     "translations": {
       "en": {
@@ -1360,7 +1360,7 @@
     "id": "CAT_00080",
     "key": "pets",
     "icon": "PawPrint",
-    "image": "./images/pets.jpg",
+    "image": "https://raw.githubusercontent.com/SamarRaboudi/amazon_multilingual_categories/main/images/pets.jpg",
     "theme": "yellow",
     "translations": {
       "en": {
@@ -1445,7 +1445,7 @@
     "key": "fashion-luggage",
     "icon": "Luggage",
     "description": "Travel essentials, souvenirs & destination must-haves.",
-    "image": "./images/travel.jpg",
+    "image": "https://raw.githubusercontent.com/SamarRaboudi/amazon_multilingual_categories/main/images/travel.jpg",
     "theme": "blue",
     "translations": {
       "en": {
@@ -1519,7 +1519,7 @@
     "id": "CAT_00001",
     "key": "alcohol",
     "icon": "Wine",
-    "image": "./images/wine.jpg",
+    "image": "https://raw.githubusercontent.com/SamarRaboudi/amazon_multilingual_categories/main/images/wine.jpg",
     "theme": "red",
     "translations": {
       "en": {
@@ -1584,7 +1584,7 @@
     "key": "misc",
     "icon": "Grid2X2",
     "description": "Miscellaneous items that don’t fit other categories.",
-    "image": "./images/other.jpg",
+    "image": "https://raw.githubusercontent.com/SamarRaboudi/amazon_multilingual_categories/main/images/other.jpg",
     "theme": "gray",
     "translations": {
       "es": {
