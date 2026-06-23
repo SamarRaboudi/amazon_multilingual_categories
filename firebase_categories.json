@@ -458,7 +458,7 @@
     "id": "CAT_00004",
     "key": "amazon-global-store",
     "icon": "Tag",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/SamarRaboudi/amazon_multilingual_categories/main/images/giftCards.jpg",
     "theme": "orange",
     "translations": {
       "en": {
